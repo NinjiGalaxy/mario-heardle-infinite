@@ -7,7 +7,7 @@ let _metadata = createMetadata({
       "Phase BGM - Wrecking Crew": [1985, "NES", "Wrecking Crew", "Wrecking Crew", "Puzzle", "Mario"],
       "Bonus Stage - Wrecking Crew": [1985, "NES", "Wrecking Crew", "Wrecking Crew", "Puzzle", "Mario"],
       "Golden Hammer - Wrecking Crew": [1985, "NES", "Wrecking Crew", "Wrecking Crew", "Puzzle", "Mario"],
-      "Name Entry - Vs. Super Mario Bros.": [1986, "NES", "Super Mario", "Vs. Super Mario Bros.", "2D Platformer", "Mario"],
+      "Name Entry - Vs. Super Mario Bros.": [1986, "Arcade", "Super Mario", "Vs. Super Mario Bros.", "2D Platformer", "Mario"],
       "Ending - Super Mario Bros. The Lost Levels": [1986, "NES", "Super Mario", "Super Mario Bros.: The Lost Levels", "2D Platformer", "Mario"],
       "Doki Doki Do It - Super Mario Bros: The Great Mission To Rescue Princess Peach": [1986, "Film/TV", "Super Mario", "Super Mario Bros: The Great Mission To Rescue Princess Peach", "Film/TV", "Mario"],
       "The Light Blue Waltz (Underwater Theme) - Super Mario Bros: The Great Mission To Rescue Princess Peach": [1986, "Film/TV", "Super Mario", "Super Mario Bros: The Great Mission To Rescue Princess Peach", "Film/TV", "Mario"],
