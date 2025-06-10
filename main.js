@@ -2268,27 +2268,27 @@ var app = (function () {
             answer: "Bowser Battle - Super Mario Bros. 3",
           },
           {
-            url: "https://soundcloud.com/dmg8bit/game-boy-super-mario-land-1-01-birabuto-kingdom?in=dmg8bit/sets/game-boy-super-mario-land-1",
+            url: "https://soundcloud.com/dmg8bit/game-boy-super-mario-land-1-01-birabuto-kingdom",
             answer: "Birabuto Kingdom - Super Mario Land",
           },
           {
-            url: "https://soundcloud.com/dmg8bit/game-boy-super-mario-land-1-02-muda-kingdom?in=dmg8bit/sets/game-boy-super-mario-land-1",
+            url: "https://soundcloud.com/dmg8bit/game-boy-super-mario-land-1-02-muda-kingdom",
             answer: "Muda Kingdom - Super Mario Land",
           },
           {
-            url: "https://soundcloud.com/dmg8bit/game-boy-super-mario-land-1-04-chai-kingdom?in=dmg8bit/sets/game-boy-super-mario-land-1",
+            url: "https://soundcloud.com/dmg8bit/game-boy-super-mario-land-1-04-chai-kingdom",
             answer: "Chai Kingdom - Super Mario Land",
           },
           {
-            url: "https://soundcloud.com/dmg8bit/game-boy-super-mario-land-1-03-easton-kingdom?in=dmg8bit/sets/game-boy-super-mario-land-1",
+            url: "https://soundcloud.com/dmg8bit/game-boy-super-mario-land-1-03-easton-kingdom",
             answer: "Easton Kingdom - Super Mario Land",
           },
           {
-            url: "https://soundcloud.com/dmg8bit/game-boy-super-mario-land-1-11-marine-pop-sky-pop?in=dmg8bit/sets/game-boy-super-mario-land-1",
+            url: "https://soundcloud.com/dmg8bit/game-boy-super-mario-land-1-11-marine-pop-sky-pop",
             answer: "Marine Pop, Sky Pop! - Super Mario Land",
           },
           {
-            url: "https://soundcloud.com/dmg8bit/game-boy-super-mario-land-1-18-rocket-ship-ride?in=dmg8bit/sets/game-boy-super-mario-land-1",
+            url: "https://soundcloud.com/dmg8bit/game-boy-super-mario-land-1-18-rocket-ship-ride",
             answer: "Ending & Staff Roll - Super Mario Land",
           },
           {
@@ -2468,35 +2468,35 @@ var app = (function () {
             answer: "Staff Roll - Super Mario Kart",
           },
           {
-            url: "https://soundcloud.com/dmg8bit/game-boy-super-mario-land-2-choose-your-pipe?in=dmg8bit/sets/game-boy-super-mario-land-2",
+            url: "https://soundcloud.com/dmg8bit/game-boy-super-mario-land-2-choose-your-pipe",
             answer: "Choose Your Pipe (File Select) - Super Mario Land 2: 6 Golden Coins",
           },
           {
-            url: "https://soundcloud.com/dmg8bit/game-boy-super-mario-land-2-athletic?in=dmg8bit/sets/game-boy-super-mario-land-2",
+            url: "https://soundcloud.com/dmg8bit/game-boy-super-mario-land-2-athletic",
             answer: "Athletic - Super Mario Land 2: 6 Golden Coins",
           },
           {
-            url: "https://soundcloud.com/dmg8bit/game-boy-super-mario-land-2-treetop?in=dmg8bit/sets/game-boy-super-mario-land-2",
+            url: "https://soundcloud.com/dmg8bit/game-boy-super-mario-land-2-treetop",
             answer: "Treetop (Tree Zone) - Super Mario Land 2: 6 Golden Coins",
           },
           {
-            url: "https://soundcloud.com/dmg8bit/game-boy-super-mario-land-2-seashore?in=dmg8bit/sets/game-boy-super-mario-land-2",
+            url: "https://soundcloud.com/dmg8bit/game-boy-super-mario-land-2-seashore",
             answer: "Seashore (Turtle Zone/Macro Zone) - Super Mario Land 2: 6 Golden Coins",
           },
           {
-            url: "https://soundcloud.com/dmg8bit/game-boy-super-mario-land-2-machine?in=dmg8bit/sets/game-boy-super-mario-land-2",
+            url: "https://soundcloud.com/dmg8bit/game-boy-super-mario-land-2-machine",
             answer: "Machine (Mario Zone) - Super Mario Land 2: 6 Golden Coins",
           },
           {
-            url: "https://soundcloud.com/dmg8bit/game-boy-super-mario-land-2-the-moon?in=dmg8bit/sets/game-boy-super-mario-land-2,",
+            url: "https://soundcloud.com/dmg8bit/game-boy-super-mario-land-2-the-moon,",
             answer: "The Moon (Space Zone) - Super Mario Land 2: 6 Golden Coins",
           },
           {
-            url: "https://soundcloud.com/dmg8bit/game-boy-super-mario-land-2-star-maze?in=dmg8bit/sets/game-boy-super-mario-land-2",
+            url: "https://soundcloud.com/dmg8bit/game-boy-super-mario-land-2-star-maze",
             answer: "Star Maze (Space Zone) - Super Mario Land 2: 6 Golden Coins",
           },
           {
-            url: "https://soundcloud.com/dmg8bit/game-boy-super-mario-land-2-warios-castle?in=dmg8bit/sets/game-boy-super-mario-land-2",
+            url: "https://soundcloud.com/dmg8bit/game-boy-super-mario-land-2-warios-castle",
             answer: "Wario's Castle - Super Mario Land 2: 6 Golden Coins",
           },
           {
@@ -8700,27 +8700,27 @@ var app = (function () {
             answer: "Boo's Block Party - Mario Party: Star Rush",
           },
           {
-            url: "https://soundcloud.com/minimarioamiibo/ground?in=minimarioamiibo/sets/super-mario-run",
+            url: "https://soundcloud.com/minimarioamiibo/ground",
             answer: "Ground - Super Mario Run",
           },
           {
-            url: "https://soundcloud.com/minimarioamiibo/underground?in=minimarioamiibo/sets/super-mario-run",
+            url: "https://soundcloud.com/minimarioamiibo/underground",
             answer: "Underground - Super Mario Run",
           },
           {
-            url: "https://soundcloud.com/minimarioamiibo/remix-10?in=minimarioamiibo/sets/super-mario-run",
+            url: "https://soundcloud.com/minimarioamiibo/remix-10",
             answer: "Remix 10 - Super Mario Run",
           },
           {
-            url: "https://soundcloud.com/minimarioamiibo/ground-coin-rush?in=minimarioamiibo/sets/super-mario-run",
+            url: "https://soundcloud.com/minimarioamiibo/ground-coin-rush",
             answer: "Ground (Coin Rush) - Super Mario Run",
           },
           {
-            url: "https://soundcloud.com/minimarioamiibo/ghost-house-coin-rush?in=minimarioamiibo/sets/super-mario-run",
+            url: "https://soundcloud.com/minimarioamiibo/ghost-house-coin-rush",
             answer: "Ghost House (Coin Rush) - Super Mario Run",
           },
           {
-            url: "https://soundcloud.com/minimarioamiibo/menu-remix-10?in=minimarioamiibo/sets/super-mario-run",
+            url: "https://soundcloud.com/minimarioamiibo/menu-remix-10",
             answer: "Remix 10 Menu - Super Mario Run",
           },
           {
@@ -8832,159 +8832,159 @@ var app = (function () {
             answer: "Going Home (Staff Roll) - Mario & Luigi: Superstar Saga + Bowser's Minions",
           },
           {
-            url: "https://soundcloud.com/megawoofy/jump-up-super-star-super-mario-odyssey-soundtrack",
+            url: "https://soundcloud.com/infiniteshadowx766/327-jump-up-super-star-odyssey-ya-see-5",
             answer: "Jump Up, Super Star! - Super Mario Odyssey",
           },
           {
-            url: "https://soundcloud.com/megawoofy/bonneton-super-mario-odyssey",
+            url: "https://soundcloud.com/infiniteshadowx766/104-bonneton-4",
             answer: "Bonneton (Cap Kingdom) - Super Mario Odyssey",
           },
           {
-            url: "https://soundcloud.com/megawoofy/broodals-battle-super-mario",
+            url: "https://soundcloud.com/infiniteshadowx766/107-broodals-battle-7",
             answer: "Battling The Broodals - Super Mario Odyssey",
           },
           {
-            url: "https://soundcloud.com/megawoofy/fossil-falls-super-mario",
+            url: "https://soundcloud.com/dappa-fuster/cascade-kingdom-fossil-falls-super-mario-odyssey-soundtrack",
             answer: "Fossil Falls (Cascade Kingdom) - Super Mario Odyssey",
           },
           {
-            url: "https://soundcloud.com/megawoofy/to-the-next-kingdom-5-super",
+            url: "https://soundcloud.com/infiniteshadowx766/301-to-the-next-kingdom-10",
             answer: "To The Next Kingdom! (World Map) - Super Mario Odyssey",
           },
           {
-            url: "https://soundcloud.com/megawoofy/tostarena-ruins-super-mario",
+            url: "https://soundcloud.com/infiniteshadowx766/115-tostarena-ruins-15",
             answer: "Tostarena Ruins (Sand Kingdom) - Super Mario Odyssey",
           },
           {
-            url: "https://soundcloud.com/megawoofy/inside-the-inverted-pyramid-1",
+            url: "https://soundcloud.com/infiniteshadowx766/116-inside-the-inverted-pyramid-16",
             answer: "Inside The Inverted Pyramid - Super Mario Odyssey",
           },
           {
-            url: "https://soundcloud.com/megawoofy/tostarena-town-super-mario",
+            url: "https://soundcloud.com/infiniteshadowx766/120-tostarena-town-20",
             answer: "Tostarena Town (Sand Kingdom) - Super Mario Odyssey",
           },
           {
-            url: "https://soundcloud.com/megawoofy/riding-a-jaxi-super-mario",
+            url: "https://soundcloud.com/infiniteshadowx766/118-riding-the-jaxi-18",
             answer: "Jaxi Joyride (Sand Kingdom) - Super Mario Odyssey",
           },
           {
-            url: "https://soundcloud.com/megawoofy/steam-gardens-super-mario",
+            url: "https://soundcloud.com/creativecows/wooded-kingdom-steam-gardens-super-mario-odyssey-soundtrack",
             answer: "Steam Gardens (Wooded Kingdom) - Super Mario Odyssey",
           },
           {
-            url: "https://soundcloud.com/megawoofy/lake-lamode-super-mario",
+            url: "https://soundcloud.com/infiniteshadowx766/126-lake-lamode-3",
             answer: "Lake Lamode (Lake Kingdom) - Super Mario Odyssey",
           },
           {
-            url: "https://soundcloud.com/megawoofy/lake-lamode-underwater-passage",
+            url: "https://soundcloud.com/infiniteshadowx766/125-lake-lamode-underwater-passage-2",
             answer: "Lake Lamode: Underwater Passage - Super Mario Odyssey",
           },
           {
-            url: "https://soundcloud.com/megawoofy/forgotten-isle-super-mario",
+            url: "https://soundcloud.com/infiniteshadowx766/202-forgotten-isle-7",
             answer: "Forgotten Isle (Lost Kingdom) - Super Mario Odyssey",
           },
           {
-            url: "https://soundcloud.com/megawoofy/new-donk-city-super-mario",
+            url: "https://soundcloud.com/infiniteshadowx766/208-new-donk-city-13",
             answer: "New Donk City (Metro Kingdom) - Super Mario Odyssey",
           },
           {
-            url: "https://soundcloud.com/megawoofy/relax-by-the-pool-super-mario",
+            url: "https://soundcloud.com/infiniteshadowx766/210-poolside-rest-15",
             answer: "Pausing By The Poolside (Super Mario World ~ Ground) - Super Mario Odyssey",
           },
           {
-            url: "https://soundcloud.com/megawoofy/band-performance-super-mario",
+            url: "https://soundcloud.com/infiniteshadowx766/209-band-performance-super-mario-brothers-above-ground-14",
             answer: "The Band's All Here (Super Mario Bros. ~ Ground) - Super Mario Odyssey",
           },
           {
-            url: "https://soundcloud.com/megawoofy/bubblaine-super-mario-odyssey",
+            url: "https://soundcloud.com/infiniteshadowx766/219-bubblaine-24",
             answer: "Bubblaine (Seaside Kingdom) - Super Mario Odyssey",
           },
           {
-            url: "https://soundcloud.com/megawoofy/bubblaine-underwater-super",
+            url: "https://soundcloud.com/infiniteshadowx766/220-bubblaine-underwater-25",
             answer: "Bubblaine: Underwater (Seaside Kingdom) - Super Mario Odyssey",
           },
           {
-            url: "https://soundcloud.com/megawoofy/shiveria-town-super-mario",
+            url: "https://soundcloud.com/infiniteshadowx766/214-shiveria-town-19",
             answer: "Shiveria Town (Snow Kingdom) - Super Mario Odyssey",
           },
           {
-            url: "https://soundcloud.com/megawoofy/mount-volbono-super-mario",
+            url: "https://soundcloud.com/infiniteshadowx766/223-mount-volbono-28",
             answer: "Mount Volbono (Luncheon Kingdom) - Super Mario Odyssey",
           },
           {
-            url: "https://soundcloud.com/megawoofy/peronza-plaza-super-mario",
+            url: "https://soundcloud.com/infiniteshadowx766/224-peronza-plaza-29",
             answer: "Peronza Plaza (Luncheon Kingdom) - Super Mario Odyssey",
           },
           {
-            url: "https://soundcloud.com/megawoofy/bowsers-castle-main-courtyard",
+            url: "https://soundcloud.com/infiniteshadowx766/228-bowser-castle-2",
             answer: "Bowser's Castle (Bowser's Kingdom) - Super Mario Odyssey",
           },
           {
-            url: "https://soundcloud.com/megawoofy/honeylune-ridge-super-mario",
+            url: "https://soundcloud.com/infiniteshadowx766/303-honeylune-ridge-12",
             answer: "Honeylune Ridge (Moon Kingdom) - Super Mario Odyssey",
           },
           {
-            url: "https://soundcloud.com/megawoofy/the-moons-underground-caves",
+            url: "https://soundcloud.com/infiniteshadowx766/304-underground-moon-caverns-13",
             answer: "Underground Moon Caverns (Moon Kingdom) - Super Mario Odyssey",
           },
           {
-            url: "https://soundcloud.com/megawoofy/honeylune-ridge-collapse-super",
+            url: "https://soundcloud.com/infiniteshadowx766/310-honeylune-ridge-collapse-19",
             answer: "Honeylune Ridge: Collapse (Moon Kingdom) - Super Mario Odyssey",
           },
           {
-            url: "https://soundcloud.com/megawoofy/break-free-lead-the-way-super",
+            url: "https://soundcloud.com/infiniteshadowx766/311-break-free-lead-the-way-20",
             answer: "Break Free (Lead The Way) - Super Mario Odyssey",
           },
           {
-            url: "https://soundcloud.com/megawoofy/credits-super-mario-odyssey",
+            url: "https://soundcloud.com/infiniteshadowx766/312-staff-roll-21",
             answer: "Staff Roll - Super Mario Odyssey",
           },
           {
-            url: "https://soundcloud.com/megawoofy/inside-the-castle-walls-1",
+            url: "https://soundcloud.com/infiniteshadowx766/314-peachs-castle-23",
             answer: "Peach's Castle (Mushroom Kingdom) - Super Mario Odyssey",
           },
           {
-            url: "https://soundcloud.com/megawoofy/run-jump-throw-1-super-mario",
+            url: "https://soundcloud.com/infiniteshadowx766/319-run-jump-throw-stage-1-28",
             answer: "Run, Jump, Throw! 1 - Super Mario Odyssey",
           },
           {
-            url: "https://soundcloud.com/megawoofy/run-jump-throw-2-super-mario",
+            url: "https://soundcloud.com/infiniteshadowx766/320-run-jump-throw-stage-2-29",
             answer: "Run, Jump, Throw! 2 - Super Mario Odyssey",
           },
           {
-            url: "https://soundcloud.com/megawoofy/cookatiel-battle-super-mario",
+            url: "https://soundcloud.com/infiniteshadowx766/225-cookatiel-battle-30",
             answer: "Cooking Cookatiel - Super Mario Odyssey",
           },
           {
-            url: "https://soundcloud.com/megawoofy/ruined-dragon-battle-super",
+            url: "https://soundcloud.com/infiniteshadowx766/227-ruined-dragon-battle-1",
             answer: "Rebuffing The Ruined Dragon - Super Mario Odyssey",
           },
           {
-            url: "https://soundcloud.com/megawoofy/bowser-battle-1-nimbus-arena",
+            url: "https://soundcloud.com/infiniteshadowx766/130-bowser-battle-1-nimbus-arena-showdown-7",
             answer: "Battling Bowser (Nimbus Arena) - Super Mario Odyssey",
           },
           {
-            url: "https://soundcloud.com/megawoofy/top-hat-tower-super-mario",
+            url: "https://soundcloud.com/infiniteshadowx766/105-top-hat-tower-5",
             answer: "Top Hat Tower - Super Mario Odyssey",
           },
           {
-            url: "https://soundcloud.com/megawoofy/ice-cave-super-mario-odyssey",
+            url: "https://soundcloud.com/infiniteshadowx766/215-ice-cave-20",
             answer: "Ice Caves - Super Mario Odyssey",
           },
           {
-            url: "https://soundcloud.com/megawoofy/another-world-super-mario",
+            url: "https://soundcloud.com/infiniteshadowx766/322-another-world-stage-31",
             answer: "Challenges In Another World - Super Mario Odyssey",
           },
           {
-            url: "https://soundcloud.com/megawoofy/crazy-cap-super-mario-odyssey",
+            url: "https://soundcloud.com/infiniteshadowx766/315-crazy-cap-24",
             answer: "Crazy Cap - Super Mario Odyssey",
           },
           {
-            url: "https://soundcloud.com/megawoofy/bound-bowl-grand-prix-super",
+            url: "https://soundcloud.com/infiniteshadowx766/217-bound-bowl-gp-22",
             answer: "Race - Super Mario Odyssey",
           },
           {
-            url: "https://soundcloud.com/megawoofy/rc-car-challenge-super-mario",
+            url: "https://soundcloud.com/infiniteshadowx766/317-rc-car-challenge-26",
             answer: "RC Car Challenge (Super Mario Kart ~ Mario Circuit) - Super Mario Odyssey",
           },
           {
@@ -9004,11 +9004,11 @@ var app = (function () {
             answer: "Stadium Theme - Mario Tennis Aces",
           },
           {
-            url: "https://soundcloud.com/megawoofy/midboss-melee-mario-rabbids",
+            url: "https://soundcloud.com/superninjigalaxy/midboss-melee-mario-rabbids-kingdom-battle-donkey-kong-adventure-1",
             answer: "Midboss Melee - Mario + Rabbids Kingdom Battle: Donkey Kong Adventure",
           },
           {
-            url: "https://soundcloud.com/megawoofy/dungeon-dispute-mario-rabbids",
+            url: "https://soundcloud.com/superninjigalaxy/dungeon-dispute-mario-rabbids-kingdom-battle-donkey-kong-adventure-2",
             answer: "Dungeon Dispute - Mario + Rabbids Kingdom Battle: Donkey Kong Adventure",
           },
           {
@@ -9156,7 +9156,7 @@ var app = (function () {
             answer: "Hidden Hills - Yoshi's Crafted World",
           },
           {
-            url: "https://soundcloud.com/megawoofy/1-01-title-theme-super-mario",
+            url: "https://soundcloud.com/marshyyyyy/title-super-mario-maker-2",
             answer: "Title Screen - Super Mario Maker 2",
           },
           {
@@ -9192,11 +9192,11 @@ var app = (function () {
             answer: "Forest [Super Mario World] - Super Mario Maker 2",
           },
           {
-            url: "https://soundcloud.com/megawoofy/138-yamamuras-dojo-super-mario-maker-1-and-2-soundtrack",
+            url: "https://soundcloud.com/marshyyyyy/yamamuras-dojo-super-mario-maker-2",
             answer: "Yamamura's Dojo - Super Mario Maker 2",
           },
           {
-            url: "https://soundcloud.com/megawoofy/1-20-peachs-castle-5-super",
+            url: "https://soundcloud.com/marshyyyyy/story-mode-field-music-5-super-mario-maker-2",
             answer: "Peach's Castle - Super Mario Maker 2",
           },
           {
@@ -9508,43 +9508,43 @@ var app = (function () {
             answer: "Title Screen - Bowser's Fury",
           },
           {
-            url: "https://soundcloud.com/megawoofy/choose-your-adventure",
+            url: "https://soundcloud.com/yell0wsuit/title-screen-select-sm3dw-bowsers-fury",
             answer: "Choose Your Adventure - Bowser's Fury",
           },
           {
-            url: "https://soundcloud.com/megawoofy/lake-lapcat",
+            url: "https://soundcloud.com/yell0wsuit/peaceful-ocean-sm3dw-bowsers-fury-ost",
             answer: "Lake Lapcat - Bowser's Fury",
           },
           {
-            url: "https://soundcloud.com/megawoofy/scamper-shores",
+            url: "https://soundcloud.com/yell0wsuit/scamper-shores-sm3dw-bowsers-fury-ost",
             answer: "Scamper Shores - Bowser's Fury",
           },
           {
-            url: "https://soundcloud.com/megawoofy/bowsers-fury",
+            url: "https://soundcloud.com/yell0wsuit/bowsers-fury-phase-3-sm3dw-bowsers-fury-ost",
             answer: "Bowser's Fury - Bowser's Fury",
           },
           {
-            url: "https://soundcloud.com/megawoofy/pounce-bounce-isle",
+            url: "https://soundcloud.com/yell0wsuit/pounce-bounce-isle-sm3dw-bowsers-fury-ost",
             answer: "Pounce Bounce Isle - Bowser's Fury",
           },
           {
-            url: "https://soundcloud.com/megawoofy/crisp-climb-castle",
+            url: "https://soundcloud.com/yell0wsuit/crisp-climb-castle-sm3dw-bowsers-fury-ost",
             answer: "Crisp Climb Castle - Bowser's Fury",
           },
           {
-            url: "https://soundcloud.com/megawoofy/fort-flaptrap",
+            url: "https://soundcloud.com/yell0wsuit/fort-flaptrap-sm3dw-bowsers-fury-ost",
             answer: "Fort Flaptrap - Bowser's Fury",
           },
           {
-            url: "https://soundcloud.com/megawoofy/showdown-with-fury-bowser",
+            url: "https://soundcloud.com/yell0wsuit/fighting-fury-bowser-sm3dw-bowsers-fury-ost",
             answer: "Showdown With Fury Bowser - Bowser's Fury",
           },
           {
-            url: "https://soundcloud.com/megawoofy/riding-plessie-across-lake",
+            url: "https://soundcloud.com/yell0wsuit/plessies-theme-energetic-sm3dw-bowsers-fury-ost",
             answer: "Plessie Ride! - Bowser's Fury",
           },
           {
-            url: "https://soundcloud.com/megawoofy/mount-magmeow",
+            url: "https://soundcloud.com/nintendo-nerd-792885384/mount-magmeow",
             answer: "Mount Magmeow - Bowser's Fury",
           },
           {
@@ -9652,75 +9652,75 @@ var app = (function () {
             answer: "Everyone's A Superstar (Staff Roll) - Mario Party Superstars",
           },
           {
-            url: "https://soundcloud.com/infiniteshadowx766/paris-promenade?in=infiniteshadow23/sets/mario-kart-8-soundtrack",
+            url: "https://soundcloud.com/infiniteshadowx766/paris-promenade",
             answer: "Tour Paris Promenade (Wave 1) - MK8DX Booster Course Pass Waves 1-3",
           },
           {
-            url: "https://soundcloud.com/infiniteshadowx766/choco-mountain?in=infiniteshadow23/sets/mario-kart-8-soundtrack",
+            url: "https://soundcloud.com/infiniteshadowx766/choco-mountain",
             answer: "N64 Choco Mountain (Wave 1) - MK8DX Booster Course Pass Waves 1-3",
           },
           {
-            url: "https://soundcloud.com/infiniteshadowx766/coconut-mall?in=infiniteshadow23/sets/mario-kart-8-soundtrack",
+            url: "https://soundcloud.com/infiniteshadowx766/coconut-mall",
             answer: "Wii Coconut Mall (Wave 1) - MK8DX Booster Course Pass Waves 1-3",
           },
           {
-            url: "https://soundcloud.com/infiniteshadowx766/tokyo-blur?in=infiniteshadow23/sets/mario-kart-8-soundtrack",
+            url: "https://soundcloud.com/infiniteshadowx766/tokyo-blur",
             answer: "Tour Tokyo Blur (Wave 1) - MK8DX Booster Course Pass Waves 1-3",
           },
           {
-            url: "https://soundcloud.com/infiniteshadowx766/shroom-ridge?in=infiniteshadow23/sets/mario-kart-8-soundtrack",
+            url: "https://soundcloud.com/infiniteshadowx766/shroom-ridge",
             answer: "DS Shroom Ridge (Wave 1) - MK8DX Booster Course Pass Waves 1-3",
           },
           {
-            url: "https://soundcloud.com/infiniteshadowx766/sky-garden?in=infiniteshadow23/sets/mario-kart-8-soundtrack",
+            url: "https://soundcloud.com/infiniteshadowx766/sky-garden",
             answer: "GBA Sky Garden (Wave 1) - MK8DX Booster Course Pass Waves 1-3",
           },
           {
-            url: "https://soundcloud.com/infiniteshadowx766/new-york-minute?in=infiniteshadow23/sets/mario-kart-8-soundtrack",
+            url: "https://soundcloud.com/infiniteshadowx766/new-york-minute",
             answer: "Tour New York Minute (Wave 2) - MK8DX Booster Course Pass Waves 1-3",
           },
           {
-            url: "https://soundcloud.com/infiniteshadowx766/mario-circuit-3?in=infiniteshadow23/sets/mario-kart-8-soundtrack",
+            url: "https://soundcloud.com/infiniteshadowx766/mario-circuit-3",
             answer: "SNES Mario Circuit 3 (Wave 2) - MK8DX Booster Course Pass Waves 1-3",
           },
           {
-            url: "https://soundcloud.com/infiniteshadowx766/kalimari-desert?in=infiniteshadow23/sets/mario-kart-8-soundtrack",
+            url: "https://soundcloud.com/infiniteshadowx766/kalimari-desert",
             answer: "N64 Kalimari Desert (Wave 2) - MK8DX Booster Course Pass Waves 1-3",
           },
           {
-            url: "https://soundcloud.com/infiniteshadowx766/sydney-sprint?in=infiniteshadow23/sets/mario-kart-8-soundtrack",
+            url: "https://soundcloud.com/infiniteshadowx766/sydney-sprint",
             answer: "Tour Sydney Sprint (Wave 2) - MK8DX Booster Course Pass Waves 1-3",
           },
           {
-            url: "https://soundcloud.com/infiniteshadowx766/snow-land?in=infiniteshadow23/sets/mario-kart-8-soundtrack",
+            url: "https://soundcloud.com/infiniteshadowx766/snow-land",
             answer: "GBA Snow Land (Wave 2) - MK8DX Booster Course Pass Waves 1-3",
           },
           {
-            url: "https://soundcloud.com/infiniteshadowx766/sky-high-sundae?in=infiniteshadow23/sets/mario-kart-8-soundtrack",
+            url: "https://soundcloud.com/infiniteshadowx766/sky-high-sundae",
             answer: "Sky High Sundae (Wave 2) - MK8DX Booster Course Pass Waves 1-3",
           },
           {
-            url: "https://soundcloud.com/infiniteshadowx766/london-loop?in=infiniteshadow23/sets/mario-kart-8-soundtrack",
+            url: "https://soundcloud.com/infiniteshadowx766/london-loop",
             answer: "Tour London Loop (Wave 3) - MK8DX Booster Course Pass Waves 1-3",
           },
           {
-            url: "https://soundcloud.com/infiniteshadowx766/maple-treeway?in=infiniteshadow23/sets/mario-kart-8-soundtrack",
+            url: "https://soundcloud.com/infiniteshadowx766/maple-treeway",
             answer: "Wii Maple Treeway (Wave 3) - MK8DX Booster Course Pass Waves 1-3",
           },
           {
-            url: "https://soundcloud.com/infiniteshadowx766/peach-gardens?in=infiniteshadow23/sets/mario-kart-8-soundtrack",
+            url: "https://soundcloud.com/infiniteshadowx766/peach-gardens",
             answer: "DS Peach Gardens (Wave 3) - MK8DX Booster Course Pass Waves 1-3",
           },
           {
-            url: "https://soundcloud.com/infiniteshadowx766/merry-mountain?in=infiniteshadow23/sets/mario-kart-8-soundtrack",
+            url: "https://soundcloud.com/infiniteshadowx766/merry-mountain",
             answer: "Merry Mountain (Wave 3) - MK8DX Booster Course Pass Waves 1-3",
           },
           {
-            url: "https://soundcloud.com/infiniteshadowx766/boo-lake?in=infiniteshadow23/sets/mario-kart-8-soundtrack",
+            url: "https://soundcloud.com/infiniteshadowx766/boo-lake",
             answer: "GBA Boo Lake (Wave 3) - MK8DX Booster Course Pass Waves 1-3",
           },
           {
-            url: "https://soundcloud.com/infiniteshadowx766/3ds-rainbow-road?in=infiniteshadow23/sets/mario-kart-8-soundtrack",
+            url: "https://soundcloud.com/infiniteshadowx766/3ds-rainbow-road",
             answer: "3DS Rainbow Road (Wave 3) - MK8DX Booster Course Pass Waves 1-3",
           },
           {
@@ -9796,87 +9796,87 @@ var app = (function () {
             answer: "For The Galaxy! (Final Boss) - Mario + Rabbids: Sparks Of Hope",
           },
           {
-            url: "https://soundcloud.com/infiniteshadowx766/amsterdam-drift?in=infiniteshadow23/sets/mario-kart-8-soundtrack",
+            url: "https://soundcloud.com/infiniteshadowx766/amsterdam-drift",
             answer: "Tour Amsterdam Drift (Wave 4) - MX8DX Booster Course Pass Waves 4-6",
           },
           {
-            url: "https://soundcloud.com/infiniteshadowx766/dk-summit?in=infiniteshadow23/sets/mario-kart-8-soundtrack",
+            url: "https://soundcloud.com/infiniteshadowx766/dk-summit",
             answer: "Wii DK Summit (Wave 4) - MK8DX Booster Course Pass Waves 4-6",
           },
           {
-            url: "https://soundcloud.com/infiniteshadowx766/yoshis-island?in=infiniteshadow23/sets/mario-kart-8-soundtrack",
+            url: "https://soundcloud.com/infiniteshadowx766/yoshis-island",
             answer: "Yoshi's Island (Wave 4) - MK8DX Booster Course Pass Waves 4-6",
           },
           {
-            url: "https://soundcloud.com/infiniteshadowx766/yoshis-island-results?in=infiniteshadow23/sets/mario-kart-8-soundtrack",
+            url: "https://soundcloud.com/infiniteshadowx766/yoshis-island-results",
             answer: "Results (Yoshi's Island) (Wave 4) - MK8DX Booster Course Pass Waves 4-6",
           },
           {
-            url: "https://soundcloud.com/infiniteshadowx766/mario-circuit-1?in=infiniteshadow23/sets/mario-kart-8-soundtrack",
+            url: "https://soundcloud.com/infiniteshadowx766/mario-circuit-1",
             answer: "DS Mario Circuit (Wave 4) - MK8DX Booster Course Pass Waves 4-6",
           },
           {
-            url: "https://soundcloud.com/infiniteshadowx766/waluigi-stadium?in=infiniteshadow23/sets/mario-kart-8-soundtrack",
+            url: "https://soundcloud.com/infiniteshadowx766/waluigi-stadium",
             answer: "GCN Waluigi Stadium (Wave 4) - MK8DX Booster Course Pass Waves 4-6",
           },
           {
-            url: "https://soundcloud.com/infiniteshadowx766/singapore-speedway?in=infiniteshadow23/sets/mario-kart-8-soundtrack",
+            url: "https://soundcloud.com/infiniteshadowx766/singapore-speedway",
             answer: "Tour Singapore Speedway (Wave 4) - MK8DX Booster Course Pass Waves 4-6",
           },
           {
-            url: "https://soundcloud.com/infiniteshadowx766/athens-dash?in=infiniteshadow23/sets/mario-kart-8-soundtrack",
+            url: "https://soundcloud.com/infiniteshadowx766/athens-dash",
             answer: "Tour Athens Dash (Wave 5) - MK8DX Booster Course Pass Waves 4-6",
           },
           {
-            url: "https://soundcloud.com/infiniteshadowx766/daisy-cruiser?in=infiniteshadow23/sets/mario-kart-8-soundtrack",
+            url: "https://soundcloud.com/infiniteshadowx766/daisy-cruiser",
             answer: "GCN Daisy Cruiser (Wave 5) - MK8DX Booster Course Pass Waves 4-6",
           },
           {
-            url: "https://soundcloud.com/infiniteshadowx766/moonview-highway?in=infiniteshadow23/sets/mario-kart-8-soundtrack",
+            url: "https://soundcloud.com/infiniteshadowx766/moonview-highway",
             answer: "Wii Moonview Highway (Wave 5) - MK8DX Booster Course Pass Waves 4-6",
           },
           {
-            url: "https://soundcloud.com/infiniteshadowx766/moonview-highway-city?in=infiniteshadow23/sets/mario-kart-8-soundtrack",
+            url: "https://soundcloud.com/infiniteshadowx766/moonview-highway-city",
             answer: "Wii Moonview Highway (Straightaway) (Wave 5) - MK8DX Booster Course Pass Waves 4-6",
           },
           {
-            url: "https://soundcloud.com/infiniteshadowx766/squeaky-clean-sprint?in=infiniteshadow23/sets/mario-kart-8-soundtrack",
+            url: "https://soundcloud.com/infiniteshadowx766/squeaky-clean-sprint",
             answer: "Squeaky Clean Sprint (Wave 5) - MK8DX Booster Course Pass Waves 4-6",
           },
           {
-            url: "https://soundcloud.com/infiniteshadowx766/los-angeles-laps?in=infiniteshadow23/sets/mario-kart-8-soundtrack",
+            url: "https://soundcloud.com/infiniteshadowx766/los-angeles-laps",
             answer: "Tour Los Angeles Laps (Wave 5) - MK8DX Booster Course Pass Waves 4-6",
           },
           {
-            url: "https://soundcloud.com/infiniteshadowx766/vancouver-velocity?in=infiniteshadow23/sets/mario-kart-8-soundtrack",
+            url: "https://soundcloud.com/infiniteshadowx766/vancouver-velocity",
             answer: "Tour Vancouver Velocity (Wave 5) - MK8DX Booster Course Pass Waves 4-6",
           },
           {
-            url: "https://soundcloud.com/infiniteshadowx766/tour-rome-avanti?in=infiniteshadow23/sets/mario-kart-8-soundtrack",
+            url: "https://soundcloud.com/infiniteshadowx766/tour-rome-avanti",
             answer: "Tour Rome Avanti (Wave 6) - MK8DX Booster Course Pass Waves 4-6",
           },
           {
-            url: "https://soundcloud.com/infiniteshadowx766/gcn-dk-mountain?in=infiniteshadow23/sets/mario-kart-8-soundtrack",
+            url: "https://soundcloud.com/infiniteshadowx766/gcn-dk-mountain",
             answer: "GCN DK Mountain (Wave 6) - MK8DX Booster Course Pass Waves 4-6",
           },
           {
-            url: "https://soundcloud.com/infiniteshadowx766/wii-daisy-circuit?in=infiniteshadow23/sets/mario-kart-8-soundtrack",
+            url: "https://soundcloud.com/infiniteshadowx766/wii-daisy-circuit",
             answer: "Wii Daisy Circuit (Wave 6) - MK8DX Booster Course Pass Waves 4-6",
           },
           {
-            url: "https://soundcloud.com/infiniteshadowx766/tour-madrid-drive?in=infiniteshadow23/sets/mario-kart-8-soundtrack",
+            url: "https://soundcloud.com/infiniteshadowx766/tour-madrid-drive",
             answer: "Tour Madrid Drive (Wave 6) - MK8DX Booster Course Pass Waves 4-6",
           },
           {
-            url: "https://soundcloud.com/infiniteshadowx766/snes-bowser-castle-3?in=infiniteshadow23/sets/mario-kart-8-soundtrack",
+            url: "https://soundcloud.com/infiniteshadowx766/snes-bowser-castle-3",
             answer: "SNES Bowser Castle 3 (Wave 6) - MK8DX Booster Course Pass Waves 4-6",
           },
           {
-            url: "https://soundcloud.com/infiniteshadowx766/wii-rainbow-road?in=infiniteshadow23/sets/mario-kart-8-soundtrack",
+            url: "https://soundcloud.com/infiniteshadowx766/wii-rainbow-road",
             answer: "Wii Rainbow Road (Wave 6) - MK8DX Booster Course Pass Waves 4-6",
           },
           {
-            url: "https://soundcloud.com/infiniteshadowx766/staff-roll-booster-course-pass?in=infiniteshadow23/sets/mario-kart-8-soundtrack",
+            url: "https://soundcloud.com/infiniteshadowx766/staff-roll-booster-course-pass",
             answer: "Staff Roll (Booster Course Pass) - MK8DX Booster Course Pass Waves 4-6",
           },
           {
@@ -9944,171 +9944,171 @@ var app = (function () {
             answer: "Phantom Returns, Act 3 - Mario + Rabbids: Sparks Of Hope Post-Launch Compilation",
           },
           {
-            url: "https://soundcloud.com/megawoofy/title-screen-super-mario-bros",
+            url: "https://soundcloud.com/infiniteshadowx9566/1-01-title-screen",
             answer: "Title Screen - Super Mario Bros. Wonder",
           },
           {
-            url: "https://soundcloud.com/megawoofy/world-1-pipe-rock-plateau",
+            url: "https://soundcloud.com/infiniteshadowx9566/1-03-pipe-rock-plateau",
             answer: "Pipe Rock Plateau (World 1) - Super Mario Bros. Wonder",
           },
           {
-            url: "https://soundcloud.com/megawoofy/overworld-super-mario-bros-1",
+            url: "https://soundcloud.com/infiniteshadowx9566/1-04-overworld",
             answer: "Grassland (Ground) - Super Mario Bros. Wonder",
           },
           {
-            url: "https://soundcloud.com/megawoofy/wonder-wacky-super-mario-bros",
+            url: "https://soundcloud.com/infiniteshadowx9566/1-09-wonder-effect-funny",
             answer: "Bendy Boing Wonder - Super Mario Bros. Wonder",
           },
           {
-            url: "https://soundcloud.com/megawoofy/forest-super-mario-bros-1",
+            url: "https://soundcloud.com/infiniteshadowx9566/1-11-forest",
             answer: "Forest - Super Mario Bros. Wonder",
           },
           {
-            url: "https://soundcloud.com/megawoofy/wonder-piranha-plants-on",
+            url: "https://soundcloud.com/dakirb/super-mario-bros-wonder-piranha-plants-on-parade",
             answer: "Piranha Plants On Parade - Super Mario Bros. Wonder",
           },
           {
-            url: "https://soundcloud.com/megawoofy/badge-challenge-super-mario-2",
+            url: "https://soundcloud.com/infiniteshadowx9566/1-17-badge-challenge",
             answer: "Badge Challenge - Super Mario Bros. Wonder",
           },
           {
-            url: "https://soundcloud.com/megawoofy/savannah-super-mario-bros-1",
+            url: "https://soundcloud.com/infiniteshadowx9566/1-18-savanna",
             answer: "Savanna - Super Mario Bros. Wonder",
           },
           {
-            url: "https://soundcloud.com/megawoofy/spikey-dance-number-super",
+            url: "https://soundcloud.com/infiniteshadowx9566/1-25-spikey-dance-number",
             answer: "Spikey Dance Number - Super Mario Bros. Wonder",
           },
           {
-            url: "https://soundcloud.com/megawoofy/wonder-dreamy-super-mario-bros",
+            url: "https://soundcloud.com/infiniteshadowx9566/1-21-wonder-effect-walkin-on",
             answer: "Medley Mix Wonder - Super Mario Bros. Wonder",
           },
           {
-            url: "https://soundcloud.com/megawoofy/athletic-super-mario-bros",
+            url: "https://soundcloud.com/infiniteshadowx9566/1-30-athletic",
             answer: "Athletic - Super Mario Bros. Wonder",
           },
           {
-            url: "https://soundcloud.com/megawoofy/wonder-silent-super-mario-bros",
+            url: "https://soundcloud.com/infiniteshadowx9566/1-32-wonder-effect-silent",
             answer: "Flippy Float Wonder - Super Mario Bros. Wonder",
           },
           {
-            url: "https://soundcloud.com/megawoofy/wiggler-race-super-mario-bros",
+            url: "https://soundcloud.com/infiniteshadowx9566/1-34-wiggler-race",
             answer: "Wiggler Race! - Super Mario Bros. Wonder",
           },
           {
-            url: "https://soundcloud.com/megawoofy/palace-super-mario-bros-wonder",
+            url: "https://soundcloud.com/infiniteshadowx9566/1-39-palace",
             answer: "Palace - Super Mario Bros. Wonder",
           },
           {
-            url: "https://soundcloud.com/megawoofy/petal-isles-super-mario-bros",
+            url: "https://soundcloud.com/infiniteshadowx9566/1-51-petal-isles",
             answer: "Petal Isles - Super Mario Bros. Wonder",
           },
           {
-            url: "https://soundcloud.com/megawoofy/beach-super-mario-bros-1",
+            url: "https://soundcloud.com/infiniteshadowx9566/1-52-beach",
             answer: "Coast (Beach) - Super Mario Bros. Wonder",
           },
           {
-            url: "https://soundcloud.com/megawoofy/underwater-super-mario-bros-4",
+            url: "https://soundcloud.com/infiniteshadowx9566/1-54-underwater",
             answer: "Underwater - Super Mario Bros. Wonder",
           },
           {
-            url: "https://soundcloud.com/megawoofy/wonder-strange-super-mario",
+            url: "https://soundcloud.com/infiniteshadowx9566/1-29-wonder-effect-strange",
             answer: "Stretchy Shadow Wonder - Super Mario Bros. Wonder",
           },
           {
-            url: "https://soundcloud.com/megawoofy/world-2-fluff-puff-peaks-super",
+            url: "https://soundcloud.com/infiniteshadowx9566/1-57-fluff-puff-peaks",
             answer: "Fluff Puff Peaks (World 2) - Super Mario Bros. Wonder",
           },
           {
-            url: "https://soundcloud.com/megawoofy/snow-super-mario-bros-wonder-1",
+            url: "https://soundcloud.com/infiniteshadowx9566/1-58-snow",
             answer: "Snow - Super Mario Bros. Wonder",
           },
           {
-            url: "https://soundcloud.com/megawoofy/jump-jump-jump-super-mario",
+            url: "https://soundcloud.com/infiniteshadowx9566/1-61-jump-jump-jump",
             answer: "Jump! Jump! Jump! - Super Mario Bros. Wonder",
           },
           {
-            url: "https://soundcloud.com/megawoofy/airship-super-mario-bros-1",
+            url: "https://soundcloud.com/infiniteshadowx9566/1-63-airship",
             answer: "Airship - Super Mario Bros. Wonder",
           },
           {
-            url: "https://soundcloud.com/megawoofy/world-3-shining-falls-super",
+            url: "https://soundcloud.com/infiniteshadowx9566/1-65-shining-falls",
             answer: "Shining Falls (World 3) - Super Mario Bros. Wonder",
           },
           {
-            url: "https://soundcloud.com/megawoofy/lake-super-mario-bros-wonder",
+            url: "https://soundcloud.com/supermariobroswonderost/lake",
             answer: "Lake - Super Mario Bros. Wonder",
           },
           {
-            url: "https://soundcloud.com/megawoofy/wonder-transform-super-mario",
+            url: "https://soundcloud.com/infiniteshadowx9566/wonder-effect-slime",
             answer: "Shapey Shift Wonder - Super Mario Bros. Wonder",
           },
           {
-            url: "https://soundcloud.com/megawoofy/world-4-sunbaked-desert-super",
+            url: "https://soundcloud.com/infiniteshadowx9566/1-70-sunbaked-desert",
             answer: "Sunbaked Desert (World 4) - Super Mario Bros. Wonder",
           },
           {
-            url: "https://soundcloud.com/megawoofy/desert-super-mario-bros-wonder",
+            url: "https://soundcloud.com/infiniteshadowx9566/1-72-desert",
             answer: "Desert - Super Mario Bros. Wonder",
           },
           {
-            url: "https://soundcloud.com/megawoofy/ninji-jump-party-super-mario",
+            url: "https://soundcloud.com/infiniteshadowx88894/1-75-ninji-disco",
             answer: "Ninji Disco - Super Mario Bros. Wonder",
           },
           {
-            url: "https://soundcloud.com/megawoofy/world-5-fungi-mines-super",
+            url: "https://soundcloud.com/infiniteshadowx88894/1-78-fungi-mines",
             answer: "Fungi Mines (World 5) - Super Mario Bros. Wonder",
           },
           {
-            url: "https://soundcloud.com/megawoofy/dark-forest-super-mario-bros",
+            url: "https://soundcloud.com/infiniteshadowx9566/1-27-dark-forest",
             answer: "Dark Woods - Super Mario Bros. Wonder",
           },
           {
-            url: "https://soundcloud.com/megawoofy/pumpkin-party-super-mario-bros",
+            url: "https://soundcloud.com/infiniteshadowx88894/1-79-pumpkin-party",
             answer: "Pumpkin Party - Super Mario Bros. Wonder",
           },
           {
-            url: "https://soundcloud.com/megawoofy/a-night-at-boos-opera-super",
+            url: "https://soundcloud.com/infiniteshadowx88894/1-81-a-night-at-boos-opera",
             answer: "A Night At Boo's Opera - Super Mario Bros. Wonder",
           },
           {
-            url: "https://soundcloud.com/megawoofy/world-6-deep-magma-bog-lava",
+            url: "https://soundcloud.com/infiniteshadowx88894/1-85-deep-magma-bog",
             answer: "Deep Magma Bog (World 6) - Super Mario Bros. Wonder",
           },
           {
-            url: "https://soundcloud.com/megawoofy/lava-super-mario-bros-wonder",
+            url: "https://soundcloud.com/infiniteshadowx88894/1-86-lava",
             answer: "Lava - Super Mario Bros. Wonder",
           },
           {
-            url: "https://soundcloud.com/megawoofy/castle-bowser-super-mario-bros",
+            url: "https://soundcloud.com/infiniteshadowx88894/1-93-petal-isles-castle-bowser",
             answer: "Castle Bowser - Super Mario Bros. Wonder",
           },
           {
-            url: "https://soundcloud.com/megawoofy/factory-super-mario-bros-1",
+            url: "https://soundcloud.com/infiniteshadowx88894/1-94-factory",
             answer: "Factory - Super Mario Bros. Wonder",
           },
           {
-            url: "https://soundcloud.com/megawoofy/wonder-metal-super-mario-bros",
+            url: "https://soundcloud.com/infiniteshadowx88894/1-96-wonder-effect-metal-mario",
             answer: "Zappy Zone Wonder (Super Mario 64 ~ Metal Mario) - Super Mario Bros. Wonder",
           },
           {
-            url: "https://soundcloud.com/megawoofy/bowsers-blazing-beats-full",
+            url: "https://soundcloud.com/infiniteshadowx88894/1-97-bowsers-blazing-beats",
             answer: "Bowser's Blazing Beats - Super Mario Bros. Wonder",
           },
           {
-            url: "https://soundcloud.com/megawoofy/bowser-battle-full-super-mario",
+            url: "https://soundcloud.com/superlegend64/bowser-fight-full-super-mario",
             answer: "Castle Bowser Battle - Super Mario Bros. Wonder",
           },
           {
-            url: "https://soundcloud.com/megawoofy/special-world-super-mario-bros",
+            url: "https://soundcloud.com/infiniteshadowx88894/1-110-special-world",
             answer: "Special World - Super Mario Bros. Wonder",
           },
           {
-            url: "https://soundcloud.com/megawoofy/wonder-a-very-special-march",
+            url: "https://soundcloud.com/infiniteshadowx88894/1-111-a-very-special-march",
             answer: "A Very Special March - Super Mario Bros. Wonder",
           },
           {
-            url: "https://soundcloud.com/megawoofy/staff-credits-super-mario-bros",
+            url: "https://soundcloud.com/infiniteshadowx88894/1-106-credits",
             answer: "Starry Staff Wonder (Staff Roll) - Super Mario Bros. Wonder",
           },
           {
