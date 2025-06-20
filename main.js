@@ -137,7 +137,7 @@ var app = (function () {
     "Title Screen - Mario & Wario",
     "Woods - Mario & Wario",
     "Desert - Mario & Wario",
-    "Main Theme - Wario Land: Super Mario Land 3",
+    "Rice Beach (Main Theme) - Wario Land: Super Mario Land 3",
     "Kitchen Island (World Map) - Wario Land: Super Mario Land 3",
     "Underwater Course - Wario Land: Super Mario Land 3",
     "Train Course - Wario Land: Super Mario Land 3",
@@ -335,7 +335,7 @@ var app = (function () {
     "Alpina Blue - Yoshi's Story",
     "Baby Bowser's Lullaby - Yoshi's Story",
     "Song Of Happiness - Yoshi's Story",
-    "Ending Story - Yoshi's Story",
+    "Yoshi's Tale (Ending) - Yoshi's Story",
     "Title Screen - Wrecking Crew '98",
     "Battling Someone - Wrecking Crew '98",
     "Escape From The Woods - Wario Land II",
@@ -1736,7 +1736,7 @@ var app = (function () {
     "Work Those Muscles! (5-Volt Stage) - WarioWare Gold",
     "18 x 13 - WarioWare Gold",
     "Wario Deluxe (Final Stage) - WarioWare Gold",
-    "Main Theme - Super Mario Party",
+    "Title Screen - Super Mario Party",
     "Party Plaza - Super Mario Party",
     "Megafruit Paradise/Watermelon Walkabout - Super Mario Party",
     "Kamek's Tantalizing Tower/Tantalizing Tower Toys - Super Mario Party",
@@ -1857,7 +1857,7 @@ var app = (function () {
     "Choose Your Adventure - Bowser's Fury",
     "Lake Lapcat - Bowser's Fury",
     "Scamper Shores - Bowser's Fury",
-    "Bowser's Fury - Bowser's Fury",
+    "Attack! Fury Bowser - Bowser's Fury",
     "Pounce Bounce Isle - Bowser's Fury",
     "Crisp Climb Castle - Bowser's Fury",
     "Fort Flaptrap - Bowser's Fury",
@@ -2641,7 +2641,7 @@ var app = (function () {
           },
           {
             url: "https://soundcloud.com/warioland123/main-theme",
-            answer: "Main Theme - Wario Land: Super Mario Land 3",
+            answer: "Rice Beach (Main Theme) - Wario Land: Super Mario Land 3",
           },
           {
             url: "https://soundcloud.com/warioland123/kitchen-island",
@@ -3433,7 +3433,7 @@ var app = (function () {
           },
           {
             url: "https://soundcloud.com/user-504187549/yoshis-story-endingcredits-ost",
-            answer: "Ending Story - Yoshi's Story",
+            answer: "Yoshi's Tale (Ending) - Yoshi's Story",
           },
           {
             url: "https://soundcloud.com/superninjigalaxy/title-screen",
@@ -9037,7 +9037,7 @@ var app = (function () {
           },
           {
             url: "https://soundcloud.com/nintendorewind/super-mario-party-main-theme",
-            answer: "Main Theme - Super Mario Party",
+            answer: "Title Screen - Super Mario Party",
           },
           {
             url: "https://soundcloud.com/neil-winters-753009113/super-mario-party-party-plaza",
@@ -9504,7 +9504,7 @@ var app = (function () {
             answer: "Track Building - Mario Kart Live: Home Circuit",
           },
           {
-            url: "https://soundcloud.com/megawoofy/title-screen-bowsers-fury",
+            url: "https://soundcloud.com/tens-570808409/02-title-screen-bowsers-fury",
             answer: "Title Screen - Bowser's Fury",
           },
           {
@@ -9521,7 +9521,7 @@ var app = (function () {
           },
           {
             url: "https://soundcloud.com/yell0wsuit/bowsers-fury-phase-3-sm3dw-bowsers-fury-ost",
-            answer: "Bowser's Fury - Bowser's Fury",
+            answer: "Attack! Fury Bowser - Bowser's Fury",
           },
           {
             url: "https://soundcloud.com/yell0wsuit/pounce-bounce-isle-sm3dw-bowsers-fury-ost",
@@ -9548,11 +9548,11 @@ var app = (function () {
             answer: "Mount Magmeow - Bowser's Fury",
           },
           {
-            url: "https://soundcloud.com/megawoofy/final-showdown-with-fury",
+            url: "https://soundcloud.com/tens-570808409/final-showdown-with-fury",
             answer: "Final Showdown With Fury Bowser - Bowser's Fury",
           },
           {
-            url: "https://soundcloud.com/megawoofy/credits-bowsers-fury",
+            url: "https://soundcloud.com/tens-570808409/credits-bowsers-fury",
             answer: "Staff Roll - Bowser's Fury",
           },
           {
