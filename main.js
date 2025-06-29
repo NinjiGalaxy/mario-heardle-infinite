@@ -8468,15 +8468,15 @@ var app = (function () {
             answer: "Underground [Super Mario Bros.] (Edit) - Super Mario Maker",
           },
           {
-            url: "https://soundcloud.com/notsmith-vgcp/smb-airship-super-mario-maker-ost",
+            url: "https://soundcloud.com/tens-570808409/smb1-airship-super-mario",
             answer: "Airship [Super Mario Bros.] - Super Mario Maker",
           },
           {
-            url: "https://soundcloud.com/mr-starderp-64/super-mario-maker-smb1-ghost-house",
+            url: "https://soundcloud.com/tens-570808409/smb1-ghost-house-super-mario",
             answer: "Ghost House [Super Mario Bros.] - Super Mario Maker",
           },
           {
-            url: "https://soundcloud.com/user-988816009/2015-sm-maker-01-smb3-ghost",
+            url: "https://soundcloud.com/tens-570808409/smb3-ghost-house-super-mario",
             answer: "Ghost House [Super Mario Bros. 3] - Super Mario Maker",
           },
           {
@@ -8484,7 +8484,7 @@ var app = (function () {
             answer: "Ground [Super Mario World] (Edit) - Super Mario Maker",
           },
           {
-            url: "https://soundcloud.com/mr-starderp-64/super-mario-maker-mario-world-airship-theme",
+            url: "https://soundcloud.com/tens-570808409/smw-airship-super-mario-maker",
             answer: "Airship [Super Mario World] - Super Mario Maker",
           },
           {
@@ -9160,35 +9160,35 @@ var app = (function () {
             answer: "Title Screen - Super Mario Maker 2",
           },
           {
-            url: "https://soundcloud.com/megawoofy/233-desert-theme-super-mario-bros-super-mario-maker-1-and-2-soundtrack",
+            url: "https://soundcloud.com/tens-570808409/smb1-desert-super-mario-maker",
             answer: "Desert [Super Mario Bros.] - Super Mario Maker 2",
           },
           {
-            url: "https://soundcloud.com/megawoofy/238-snow-theme-super-mario-bros-super-mario-maker-1-and-2-soundtrack",
+            url: "https://soundcloud.com/tens-570808409/smb1-snow-super-mario-maker-2",
             answer: "Snow [Super Mario Bros.] - Super Mario Maker 2",
           },
           {
-            url: "https://soundcloud.com/megawoofy/243-forest-theme-super-mario-bros-super-mario-maker-1-and-2-soundtrack",
+            url: "https://soundcloud.com/tens-570808409/smb1-jungle-super-mario-maker",
             answer: "Forest [Super Mario Bros.] - Super Mario Maker 2",
           },
           {
-            url: "https://soundcloud.com/megawoofy/248-sky-theme-super-mario-bros-super-mario-maker-1-and-2-soundtrack",
+            url: "https://soundcloud.com/tens-570808409/smb1-athletic-super-mario",
             answer: "Sky [Super Mario Bros.] - Super Mario Maker 2",
           },
           {
-            url: "https://soundcloud.com/megawoofy/334-snow-theme-super-mario-bros-3-super-mario-maker-1-and-2-soundtrack",
+            url: "https://soundcloud.com/tens-570808409/smb3-snow-super-mario-maker",
             answer: "Snow [Super Mario Bros. 3] - Super Mario Maker 2",
           },
           {
-            url: "https://soundcloud.com/megawoofy/445-desert-theme-super-mario-world-super-mario-maker-1-and-2-soundtrack",
+            url: "https://soundcloud.com/tens-570808409/smw-desert-super-mario-maker-2",
             answer: "Desert [Super Mario World] - Super Mario Maker 2",
           },
           {
-            url: "https://soundcloud.com/megawoofy/452-snow-theme-super-mario-world-super-mario-maker-1-and-2-soundtrack",
+            url: "https://soundcloud.com/tens-570808409/smw-snow-super-mario-maker-2",
             answer: "Snow [Super Mario World] - Super Mario Maker 2",
           },
           {
-            url: "https://soundcloud.com/megawoofy/459-forest-theme-super-mario-world-super-mario-maker-1-and-2-soundtrack",
+            url: "https://soundcloud.com/tens-570808409/smw-jungle-super-mario-maker-2",
             answer: "Forest [Super Mario World] - Super Mario Maker 2",
           },
           {
