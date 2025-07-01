@@ -842,8 +842,8 @@ var app = (function () {
     "Tower - New Super Mario Bros. (DS)",
     "Ghost House - New Super Mario Bros. (DS)",
     "Beach - New Super Mario Bros. (DS)",
-    "Volcano - New Super Mario Bros. (DS)",
-    "Bonus - New Super Mario Bros. (DS)",
+    "Lava - New Super Mario Bros. (DS)",
+    "Bonus Area - New Super Mario Bros. (DS)",
     "Staff Roll - New Super Mario Bros. (DS)",
     "Minigames Menu - New Super Mario Bros. (DS)",
     "The Plains (Mario vs. Luigi) - New Super Mario Bros. (DS)",
@@ -1140,19 +1140,19 @@ var app = (function () {
     "World 8 (Lava) - New Super Mario Bros. Wii",
     "Ground - New Super Mario Bros. Wii",
     "Underground - New Super Mario Bros. Wii",
-    "Bonus - New Super Mario Bros. Wii",
+    "Bonus Area - New Super Mario Bros. Wii",
     "Underwater - New Super Mario Bros. Wii",
     "Castle - New Super Mario Bros. Wii",
     "Desert - New Super Mario Bros. Wii",
     "Athletic - New Super Mario Bros. Wii",
-    "Snow - New Super Mario Bros. Wii",
+    "Snowfield - New Super Mario Bros. Wii",
     "Jungle - New Super Mario Bros. Wii",
     "Airship - New Super Mario Bros. Wii",
     "Tower - New Super Mario Bros. Wii",
     "Ghost House - New Super Mario Bros. Wii",
     "Beach - New Super Mario Bros. Wii",
-    "Volcano - New Super Mario Bros. Wii",
-    "Volcano Underground - New Super Mario Bros. Wii",
+    "Lava - New Super Mario Bros. Wii",
+    "Lava Cave - New Super Mario Bros. Wii",
     "Final Bowser - New Super Mario Bros. Wii",
     "Staff Roll - New Super Mario Bros. Wii",
     "World 9 (Space) - New Super Mario Bros. Wii",
@@ -1323,17 +1323,17 @@ var app = (function () {
     "Staff Roll - Paper Mario: Sticker Star",
     "Start Up Screen - New Super Mario Bros. U",
     "Title Screen - New Super Mario Bros. U",
-    "Main Menu - New Super Mario Bros. U",
+    "File Select - New Super Mario Bros. U",
     "Acorn Plains (World 1) - New Super Mario Bros. U",
     "Frosted Glacier (World 4) - New Super Mario Bros. U",
-    "Soda Jungle ~ Deep Jungle (World 5) - New Super Mario Bros. U",
+    "Soda Jungle ~ Ghost House (World 5) - New Super Mario Bros. U",
     "Rock Candy Mines (World 6) - New Super Mario Bros. U",
     "Meringue Clouds (World 7) - New Super Mario Bros. U",
     "Peach's Castle (World 8) - New Super Mario Bros. U",
     "Superstar Road (World 9) - New Super Mario Bros. U",
     "Ground - New Super Mario Bros. U",
     "Athletic - New Super Mario Bros. U",
-    "Snow - New Super Mario Bros. U",
+    "Snowfield - New Super Mario Bros. U",
     "Staff Roll - New Super Mario Bros. U",
     "Title Screen - Luigi's Mansion: Dark Moon",
     "Gloomy Manor - Luigi's Mansion: Dark Moon",
@@ -5461,11 +5461,11 @@ var app = (function () {
           },
           {
             url: "https://soundcloud.com/juan-manuel-montoyaxd/new-super-mario-bros-ds-volcano",
-            answer: "Volcano - New Super Mario Bros. (DS)",
+            answer: "Lava - New Super Mario Bros. (DS)",
           },
           {
             url: "https://soundcloud.com/daxmynz/bonus-area-new-super-mario-bros",
-            answer: "Bonus - New Super Mario Bros. (DS)",
+            answer: "Bonus Area - New Super Mario Bros. (DS)",
           },
           {
             url: "https://soundcloud.com/daxmynz/end-credits-new-super-mario-bros",
@@ -6653,7 +6653,7 @@ var app = (function () {
           },
           {
             url: "https://soundcloud.com/whatlosermusic/bonus-room",
-            answer: "Bonus - New Super Mario Bros. Wii",
+            answer: "Bonus Area - New Super Mario Bros. Wii",
           },
           {
             url: "https://soundcloud.com/spryzen-edits/underwater-theme-new-super-mario-bros-wii",
@@ -6673,7 +6673,7 @@ var app = (function () {
           },
           {
             url: "https://soundcloud.com/spryzen-edits/snow-theme-new-super-mario-bros-wii",
-            answer: "Snow - New Super Mario Bros. Wii",
+            answer: "Snowfield - New Super Mario Bros. Wii",
           },
           {
             url: "https://soundcloud.com/spryzen-edits/forest-theme-new-super-mario-bros-wii",
@@ -6697,11 +6697,11 @@ var app = (function () {
           },
           {
             url: "https://soundcloud.com/spryzen-edits/volcano-theme-new-super-mario-bros-wii",
-            answer: "Volcano - New Super Mario Bros. Wii",
+            answer: "Lava - New Super Mario Bros. Wii",
           },
           {
             url: "https://soundcloud.com/spryzen-edits/volcano-underground-new-super-mario-bros-wii",
-            answer: "Volcano Underground - New Super Mario Bros. Wii",
+            answer: "Lava Cave - New Super Mario Bros. Wii",
           },
           {
             url: "https://soundcloud.com/spryzen-edits/final-bowser-new-super-mario-bros-wii",
@@ -7385,7 +7385,7 @@ var app = (function () {
           },
           {
             url: "https://soundcloud.com/user-107491243-28699163/menu",
-            answer: "Main Menu - New Super Mario Bros. U",
+            answer: "File Select - New Super Mario Bros. U",
           },
           {
             url: "https://soundcloud.com/user-107491243-28699163/world-1-acorn-plains",
@@ -7397,7 +7397,7 @@ var app = (function () {
           },
           {
             url: "https://soundcloud.com/user-107491243-28699163/world-5-soda-jungle-deep",
-            answer: "Soda Jungle ~ Deep Jungle (World 5) - New Super Mario Bros. U",
+            answer: "Soda Jungle ~ Ghost House (World 5) - New Super Mario Bros. U",
           },
           {
             url: "https://soundcloud.com/user-107491243-28699163/world-6-rock-candy-mines",
@@ -7425,7 +7425,7 @@ var app = (function () {
           },
           {
             url: "https://soundcloud.com/user-107491243-28699163/frosted-glacier-overworld",
-            answer: "Snow - New Super Mario Bros. U",
+            answer: "Snowfield - New Super Mario Bros. U",
           },
           {
             url: "https://soundcloud.com/user-107491243-28699163/credits",
