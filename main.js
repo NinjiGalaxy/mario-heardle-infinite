@@ -324,8 +324,8 @@ var app = (function () {
     "Hot Top Volcano - Diddy Kong Racing",
     "Walrus Cove - Diddy Kong Racing",
     "Frosty Village - Diddy Kong Racing",
-    "Crescent Island / Staff Roll - Diddy Kong Racing",
-    "Darkmoon Caverns - Diddy Kong Racing",
+    "Crescent Island / Staff Roll 2 - Diddy Kong Racing",
+    "Darkmoon Caverns / Staff Roll - Diddy Kong Racing",
     "Spaceport Alpha - Diddy Kong Racing",
     "T.T.'s Theme - Diddy Kong Racing",
     "Title Screen - Yoshi's Story",
@@ -3389,11 +3389,11 @@ var app = (function () {
           },
           {
             url: "https://soundcloud.com/beep-blox/crescent-island-diddy-kong-racing",
-            answer: "Crescent Island / Staff Roll - Diddy Kong Racing",
+            answer: "Crescent Island / Staff Roll 2 - Diddy Kong Racing",
           },
           {
             url: "https://soundcloud.com/beep-blox/darkmoon-caverns-diddy-kong-racing",
-            answer: "Darkmoon Caverns - Diddy Kong Racing",
+            answer: "Darkmoon Caverns / Staff Roll - Diddy Kong Racing",
           },
           {
             url: "https://soundcloud.com/beep-blox/spaceport-alpha-diddy-kong-racing",
