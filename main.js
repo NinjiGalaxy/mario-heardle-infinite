@@ -288,7 +288,7 @@ var app = (function () {
     "Brothers Bear - Donkey Kong Country 3: Dixie Kong's Double Trouble!",
     "Wrinkly 64 (Super Mario 64 ~ Peach's Castle) - Donkey Kong Country 3: Dixie Kong's Double Trouble!",
     "Title Screen - Mario Kart 64",
-    "Main Menu - Mario Kart 64",
+    "Selection Screens - Mario Kart 64",
     "Luigi/Mario/Royal Raceway/Wario Stadium - Mario Kart 64",
     "Moo Moo Farm/Yoshi Valley - Mario Kart 64",
     "Koopa Troopa Beach - Mario Kart 64",
@@ -302,7 +302,7 @@ var app = (function () {
     "Rainbow Road - Mario Kart 64",
     "Battle Arenas - Mario Kart 64",
     "Winning Results - Mario Kart 64",
-    "Trophy Presentation - Mario Kart 64",
+    "Awards Ceremony - Mario Kart 64",
     "Staff Roll - Mario Kart 64",
     "Manhole - Game & Watch Gallery (1997)",
     "Fire - Game & Watch Gallery (1997)",
@@ -3245,7 +3245,7 @@ var app = (function () {
           },
           {
             url: "https://soundcloud.com/user-227502204-594364584/setup-kart-select",
-            answer: "Main Menu - Mario Kart 64",
+            answer: "Selection Screens - Mario Kart 64",
           },
           {
             url: "https://soundcloud.com/user-227502204-594364584/wario-stadium",
@@ -3301,7 +3301,7 @@ var app = (function () {
           },
           {
             url: "https://soundcloud.com/user-227502204-594364584/trophy-presentations-part-2",
-            answer: "Trophy Presentation - Mario Kart 64",
+            answer: "Awards Ceremony - Mario Kart 64",
           },
           {
             url: "https://soundcloud.com/user-227502204-594364584/victory-lap",
@@ -7633,7 +7633,7 @@ var app = (function () {
           },
           {
             url: "https://soundcloud.com/faded_boo/figure-skating-pairs-main-theme-remix",
-            answer: "Figure Skating Pairs (Birabuto Kingdom/Ending - Super Mario Land) - Mario & Sonic at the Sochi 2014 Olympic Winter Games",
+            answer: "Figure Skating Pairs (Birabuto Kingdom/Ending ~ Super Mario Land) - Mario & Sonic at the Sochi 2014 Olympic Winter Games",
           },
           {
             url: "https://soundcloud.com/faded_boo/credits-super-mario-64-remix",
@@ -7641,7 +7641,7 @@ var app = (function () {
           },
           {
             url: "https://soundcloud.com/faded_boo/snowball-scrimmage-sherbet-land",
-            answer: "Snowball Scrimmage: (Sherbet Land - Mario Kart 64) - Mario & Sonic at the Sochi 2014 Olympic Winter Games",
+            answer: "Snowball Scrimmage: (Sherbet Land ~ Mario Kart 64) - Mario & Sonic at the Sochi 2014 Olympic Winter Games",
           },
           {
             url: "https://soundcloud.com/faded_boo/snow-day-street-hockey-3-delfino-plaza",
@@ -7653,7 +7653,7 @@ var app = (function () {
           },
           {
             url: "https://soundcloud.com/faded_boo/groove-pipe-snowboard-mushroom-bridge",
-            answer: "Groove Pipe Snowboard: (Mushroom Bridge/City - Mario Kart: Double Dash!!) - Mario & Sonic at the Sochi 2014 Olympic Winter Games",
+            answer: "Groove Pipe Snowboard: (Mushroom Bridge/City ~ Mario Kart: Double Dash!!) - Mario & Sonic at the Sochi 2014 Olympic Winter Games",
           },
           {
             url: "https://soundcloud.com/faded_boo/underwater-theme-new-super-mario-bros-remix",
