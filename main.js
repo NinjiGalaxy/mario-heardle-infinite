@@ -558,7 +558,6 @@ var app = (function () {
     "Paper Plane - WarioWare, Inc.: Mega Microgame$!",
     "Pyoro - WarioWare, Inc.: Mega Microgame$!",
     "Staff Roll - WarioWare, Inc.: Mega Microgame$!",
-    "DK Island Swing - Donkey Kong Country (GBA)",
     "Aquatic Ambiance - Donkey Kong Country (GBA)",
     "Greenhorn Forest - Wario World",
     "Pause Screen - Wario World",
@@ -2098,7 +2097,7 @@ var app = (function () {
     "Twistee Island - Mario & Luigi: Brothership",
     "Boss Battle - Mario & Luigi: Brothership",
     "Florall Island - Mario & Luigi: Brothership",
-    "Desloatt Island - Mario & Luigi: Brothership",
+    "Desolatt Island - Mario & Luigi: Brothership",
     "Heatfreeze Island - Mario & Luigi: Brothership",
     "Slippenglide Island - Mario & Luigi: Brothership",
     "Jellyfish Island - Mario & Luigi: Brothership",
@@ -4322,10 +4321,6 @@ var app = (function () {
           {
             url: "https://soundcloud.com/warioheardle/staff-roll-warioware-inc-mega-microgame",
             answer: "Staff Roll - WarioWare, Inc.: Mega Microgame$!",
-          },
-          {
-            url: "https://soundcloud.com/fortunestreetost/dk-island-swing",
-            answer: "DK Island Swing - Donkey Kong Country (GBA)",
           },
           {
             url: "https://soundcloud.com/fortunestreetost/aquatic-ambiance",
@@ -10481,7 +10476,7 @@ var app = (function () {
           },
           {
             url: "https://soundcloud.com/anime404/mario-luigi-brothership-desolatt-island",
-            answer: "Desloatt Island - Mario & Luigi: Brothership",
+            answer: "Desolatt Island - Mario & Luigi: Brothership",
           },
           {
             url: "https://soundcloud.com/superninjigalaxy/heatfreeze-island-mario-luigi-brothership",
