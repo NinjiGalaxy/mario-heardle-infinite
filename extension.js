@@ -1065,7 +1065,7 @@ let _metadata = createMetadata({
       "Bowser Castle - Mario Super Sluggers": [2008, "Wii", "Mario Baseball", "Mario Super Sluggers", "Sports", "Mario"],
       "Map: Yoshi Park - Mario Super Sluggers": [2008, "Wii", "Mario Baseball", "Mario Super Sluggers", "Sports", "Mario"],
       "Instant Replay - Mario Super Sluggers": [2008, "Wii", "Mario Baseball", "Mario Super Sluggers", "Sports", "Mario"],
-      "Staff Roll - Mario Super Sluggers": [2008, "Wii", "Mario Misc", "Mario Super Sluggers", "Sports", "Mario"],
+      "Staff Roll - Mario Super Sluggers": [2008, "Wii", "Mario Baseball", "Mario Super Sluggers", "Sports", "Mario"],
       "Title Screen - Wario Land: Shake It!": [2008, "Wii", "Wario Land", "Wario Land: Shake It!", "2D Platformer", "Wario"],
       "Syrup's Theme - Wario Land: Shake It!": [2008, "Wii", "Wario Land", "Wario Land: Shake It!", "2D Platformer", "Wario"],
       "Main Theme (Level Select) - Wario Land: Shake It!": [2008, "Wii", "Wario Land", "Wario Land: Shake It!", "2D Platformer", "Wario"],
