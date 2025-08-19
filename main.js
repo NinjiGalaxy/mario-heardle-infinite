@@ -616,8 +616,8 @@ var app = (function () {
     "Chucklehuck Woods - Mario & Luigi: Superstar Saga (GBA)",
     "The Marvelous Duo (Popple Battle) - Mario & Luigi: Superstar Saga (GBA)",
     "Woohoo Hooniversity - Mario & Luigi: Superstar Saga (GBA)",
-    "Sweet Surfin' (Gwarhar Lagoon) - Mario & Luigi: Superstar Saga (GBA)",
-    "Sea... Sea... Sea... (Oho Ocean) - Mario & Luigi: Superstar Saga (GBA)",
+    "Sweet Surfin' (Oho Oasis / Gwarhar Lagoon) - Mario & Luigi: Superstar Saga (GBA)",
+    "Sea... Sea... Sea... (Oho Ocean Seabed) - Mario & Luigi: Superstar Saga (GBA)",
     "Don't Dwell On Danger (Tee Hee Valley) - Mario & Luigi: Superstar Saga (GBA)",
     "Decisive Battleground (Bowser's Castle) - Mario & Luigi: Superstar Saga (GBA)",
     "Showdown With Cackletta! - Mario & Luigi: Superstar Saga (GBA)",
@@ -1680,7 +1680,7 @@ var app = (function () {
     "The Marvelous Duo - Mario & Luigi: Superstar Saga + Bowser's Minions",
     "The Kingdom Called Beanbean (Beanbean Fields) - Mario & Luigi: Superstar Saga + Bowser's Minions",
     "Beanish People (Hoohoo Village) - Mario & Luigi: Superstar Saga + Bowser's Minions",
-    "Sweet Surfin' (Gwarhar Lagoon) - Mario & Luigi: Superstar Saga + Bowser's Minions",
+    "Sweet Surfin' (Oho Oasis / Gwarhar Lagoon) - Mario & Luigi: Superstar Saga + Bowser's Minions",
     "Don't Dwell On Danger (Tee Hee Valley) - Mario & Luigi: Superstar Saga + Bowser's Minions",
     "This Is Minion Turf! (Battle) (Bowser's Minions) - Mario & Luigi: Superstar Saga + Bowser's Minions",
     "Going Home (Staff Roll) - Mario & Luigi: Superstar Saga + Bowser's Minions",
@@ -4556,11 +4556,11 @@ var app = (function () {
           },
           {
             url: "https://soundcloud.com/silly-person-52110284/29-sweet-surfin",
-            answer: "Sweet Surfin' (Gwarhar Lagoon) - Mario & Luigi: Superstar Saga (GBA)",
+            answer: "Sweet Surfin' (Oho Oasis / Gwarhar Lagoon) - Mario & Luigi: Superstar Saga (GBA)",
           },
           {
             url: "https://soundcloud.com/silly-person-52110284/31-sea-sea-sea",
-            answer: "Sea... Sea... Sea... (Oho Ocean) - Mario & Luigi: Superstar Saga (GBA)",
+            answer: "Sea... Sea... Sea... (Oho Ocean Seabed) - Mario & Luigi: Superstar Saga (GBA)",
           },
           {
             url: "https://soundcloud.com/silly-person-52110284/32-dont-dwell-on-danger",
@@ -8812,7 +8812,7 @@ var app = (function () {
           },
           {
             url: "https://soundcloud.com/cameron-peterson-221857133/oho-oasis-mario-luigi",
-            answer: "Sweet Surfin' (Gwarhar Lagoon) - Mario & Luigi: Superstar Saga + Bowser's Minions",
+            answer: "Sweet Surfin' (Oho Oasis / Gwarhar Lagoon) - Mario & Luigi: Superstar Saga + Bowser's Minions",
           },
           {
             url: "https://soundcloud.com/isaac-hammer/teehee-valley",
