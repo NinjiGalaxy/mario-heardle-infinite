@@ -5767,7 +5767,7 @@ var app = (function () {
             answer: "Peach's Theme - Mario Strikers Charged",
           },
           {
-            url: "https://soundcloud.com/superninjigalaxy/bowsers-theme-mario-strikers",
+            url: "https://soundcloud.com/gamemods/bowsers-theme-mario-strikers-charged-football",
             answer: "Bowser's Theme - Mario Strikers Charged",
           },
           {
@@ -7603,7 +7603,7 @@ var app = (function () {
             answer: "Sky Arena - Mario Kart Arcade GP DX",
           },
           {
-            url: "https://soundcloud.com/superninjigalaxy/staff-roll-mario-kart-arcade",
+            url: "https://soundcloud.com/infiniteshadowx766/1-32-staff-roll",
             answer: "Staff Roll - Mario Kart Arcade GP DX",
           },
           {
@@ -9551,7 +9551,7 @@ var app = (function () {
             answer: "Staff Roll - Bowser's Fury",
           },
           {
-            url: "https://soundcloud.com/superninjigalaxy/bonny-greens",
+            url: "https://soundcloud.com/side-account-604061248/mario-golf-super-rush-ost-bonny-greens",
             answer: "Bonny Greens - Mario Golf: Super Rush",
           },
           {
@@ -9559,7 +9559,7 @@ var app = (function () {
             answer: "Ridgerock Lake - Mario Golf: Super Rush",
           },
           {
-            url: "https://soundcloud.com/superninjigalaxy/speed-golf-wildweather-woods",
+            url: "https://soundcloud.com/videogamescores/mario-golf-super-rush-wildweather-woods-speed-golf",
             answer: "Wildweather Woods (Speed Golf) - Mario Golf: Super Rush",
           },
           {
@@ -10307,7 +10307,7 @@ var app = (function () {
             answer: "Rogueport - Paper Mario: The Thousand-Year Door (Switch)",
           },
           {
-            url: "https://soundcloud.com/superninjigalaxy/rogueport-shops-paper-mario",
+            url: "https://soundcloud.com/papergirl7/rogueport-shops-paper-mario-the-thousand-year-door-2024-29",
             answer: "Rogueport (Shops) - Paper Mario: The Thousand-Year Door (Switch)",
           },
           {
@@ -10351,7 +10351,7 @@ var app = (function () {
             answer: "Yoshi Kid's Theme - Paper Mario: The Thousand-Year Door (Switch)",
           },
           {
-            url: "https://soundcloud.com/superninjigalaxy/a-bittersweet-music-box-paper",
+            url: "https://soundcloud.com/paperthey/a-bittersweet-music-box-paper-mario-the-thousand-year-door-2024-8",
             answer: "A Bittersweet Music Box - Paper Mario: The Thousand-Year Door (Switch)",
           },
           {
@@ -10395,7 +10395,7 @@ var app = (function () {
             answer: "Final Battle - Paper Mario: The Thousand-Year Door (Switch)",
           },
           {
-            url: "https://soundcloud.com/superninjigalaxy/staff-credits-paper-mario-the",
+            url: "https://soundcloud.com/papergirl7/staff-credits-paper-mario-the-thousand-year-door-2024-3",
             answer: "Staff Roll - Paper Mario: The Thousand-Year Door (Switch)",
           },
           {
@@ -10479,19 +10479,19 @@ var app = (function () {
             answer: "Desolatt Island - Mario & Luigi: Brothership",
           },
           {
-            url: "https://soundcloud.com/superninjigalaxy/heatfreeze-island-mario-luigi-brothership",
+            url: "https://soundcloud.com/silly-person-52110284/64-heatfreeze-island",
             answer: "Heatfreeze Island - Mario & Luigi: Brothership",
           },
           {
-            url: "https://soundcloud.com/superninjigalaxy/slippenglide-island-mario-luigi-brothership",
+            url: "https://soundcloud.com/silly-person-52110284/66-slippenglide-island",
             answer: "Slippenglide Island - Mario & Luigi: Brothership",
           },
           {
-            url: "https://soundcloud.com/superninjigalaxy/jellyfish-island-mario-luigi-brothership",
+            url: "https://soundcloud.com/silly-person-52110284/80-jellyfish-island",
             answer: "Jellyfish Island - Mario & Luigi: Brothership",
           },
           {
-            url: "https://soundcloud.com/superninjigalaxy/wayaway-island-mario-luigi-brothership",
+            url: "https://soundcloud.com/silly-person-52110284/74-wayaway-island-bowsers",
             answer: "Wayaway Island (Super Mario Bros. 3 ~ Fortress) - Mario & Luigi: Brothership",
           },
   ];
