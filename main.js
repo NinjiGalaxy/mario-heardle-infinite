@@ -8312,31 +8312,31 @@ var app = (function () {
           },
           {
             url: "https://soundcloud.com/superninjigalaxy-2/captain-toad-marches-forth",
-            answer: "Plucky Path Beginnings - Captain Toad: Treasure Tracker",
-          },
-          {
-            url: "https://soundcloud.com/superninjigalaxy-2/underground-ambient",
-            answer: "Underground - Captain Toad: Treasure Tracker",
+            answer: "Plucky Pass Beginnings - Captain Toad: Treasure Tracker",
           },
           {
             url: "https://soundcloud.com/superninjigalaxy-2/ruins-day-time",
-            answer: "Ruins - Captain Toad: Treasure Tracker",
+            answer: "Walleye Tumble Temple (Ruins) - Captain Toad: Treasure Tracker",
+          },
+          {
+            url: "https://soundcloud.com/superninjigalaxy-2/universal-unary-unison-space",
+            answer: "Touchstone Trouble (Space) - Captain Toad: Treasure Tracker",
+          },
+          {
+            url: "https://soundcloud.com/superninjigalaxy-2/underground-ambient",
+            answer: "Mine Cart Tunnel Throwdown (Underground) - Captain Toad: Treasure Tracker",
           },
           {
             url: "https://soundcloud.com/superninjigalaxy-2/piranha-creeper-dash-cave",
-            answer: "Piranha Creeper Dash - Captain Toad: Treasure Tracker",
+            answer: "Piranha Creeper Cove - Captain Toad: Treasure Tracker",
           },
           {
             url: "https://soundcloud.com/superninjigalaxy-2/spooky-specters-boo-mansion",
-            answer: "Spinwheel Library - Captain Toad: Treasure Tracker",
+            answer: "Bizarre Doors Of Boo Mansion - Captain Toad: Treasure Tracker",
           },
           {
             url: "https://soundcloud.com/superninjigalaxy-2/trick-track-hall-japanese-stage",
             answer: "Trick Track Hall - Captain Toad: Treasure Tracker",
-          },
-          {
-            url: "https://soundcloud.com/superninjigalaxy-2/universal-unary-unison-space",
-            answer: "Universal Unary Unison (Space) - Captain Toad: Treasure Tracker",
           },
           {
             url: "https://soundcloud.com/mario-vs-donkey-kong/rolling-hills-a",
