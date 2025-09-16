@@ -1158,8 +1158,8 @@ var app = (function () {
     "Title Screen - Super Mario Galaxy 2",
     "Sky Station Galaxy - Super Mario Galaxy 2",
     "Yoshi Star Galaxy - Super Mario Galaxy 2",
-    "World 1 & 2 - Super Mario Galaxy 2",
-    "The Starship Sails - Super Mario Galaxy 2",
+    "Worlds 1 & 2 - Super Mario Galaxy 2",
+    "The Starship's Journey - Super Mario Galaxy 2",
     "Spin-Dig Galaxy/Boulder Bowl Galaxy - Super Mario Galaxy 2",
     "Digga Leg - Super Mario Galaxy 2",
     "Flip Swap Galaxy/Flip Out Galaxy - Super Mario Galaxy 2",
@@ -1169,16 +1169,16 @@ var app = (function () {
     "Wild Glide Galaxy - Super Mario Galaxy 2",
     "Cosmic Cove Galaxy - Super Mario Galaxy 2",
     "Hightail Falls Galaxy (Super Mario World ~ Athletic) - Super Mario Galaxy 2",
-    "Honeybloom Galaxy/Honey Hop Galaxy - Super Mario Galaxy 2",
+    "Honeybloom Galaxy/Honeyhop Galaxy - Super Mario Galaxy 2",
     "World 3 - Super Mario Galaxy 2",
-    "Tall Trunk Galaxy - Super Mario Galaxy 2",
+    "Forest Friends (Tall Trunk Galaxy) - Super Mario Galaxy 2",
     "Tall Trunk Galaxy: Slider (Super Mario 64) - Super Mario Galaxy 2",
     "Freezy Flake Galaxy - Super Mario Galaxy 2",
     "Pipe Room - Super Mario Galaxy 2",
     "Fluffy Bluff Galaxy/Cloudy Court Galaxy - Super Mario Galaxy 2",
     "Megahammer - Super Mario Galaxy 2",
     "World 4 - Super Mario Galaxy 2",
-    "Flipsville Galaxy/Chomp Works Galaxy - Super Mario Galaxy 2",
+    "Flipsville Galaxy/Chompworks Galaxy - Super Mario Galaxy 2",
     "Glamdozer - Super Mario Galaxy 2",
     "Beat Block Galaxy/Flash Black Galaxy - Super Mario Galaxy 2",
     "Starshine Beach Galaxy - Super Mario Galaxy 2",
@@ -1200,7 +1200,7 @@ var app = (function () {
     "Speed Run (Speedy Comet) - Super Mario Galaxy 2",
     "World S - Super Mario Galaxy 2",
     "Bowser's Galaxy Generator - Super Mario Galaxy 2",
-    "Bowser Battle - Super Mario Galaxy 2",
+    "King Bowser's Might (Bowser Battle) - Super Mario Galaxy 2",
     "Fated Battle - Super Mario Galaxy 2",
     "Staff Roll - Super Mario Galaxy 2",
     "Green Star - Super Mario Galaxy 2",
@@ -6724,11 +6724,11 @@ var app = (function () {
           },
           {
             url: "https://soundcloud.com/vgsoundz2/world-1-2",
-            answer: "World 1 & 2 - Super Mario Galaxy 2",
+            answer: "Worlds 1 & 2 - Super Mario Galaxy 2",
           },
           {
             url: "https://soundcloud.com/vgsoundz2/the-starship-sails",
-            answer: "The Starship Sails - Super Mario Galaxy 2",
+            answer: "The Starship's Journey - Super Mario Galaxy 2",
           },
           {
             url: "https://soundcloud.com/vgsoundz2/spin-dig-galaxy",
@@ -6768,7 +6768,7 @@ var app = (function () {
           },
           {
             url: "https://soundcloud.com/vgsoundz2/honeybloom-galaxy",
-            answer: "Honeybloom Galaxy/Honey Hop Galaxy - Super Mario Galaxy 2",
+            answer: "Honeybloom Galaxy/Honeyhop Galaxy - Super Mario Galaxy 2",
           },
           {
             url: "https://soundcloud.com/vgsoundz2/world-3",
@@ -6776,7 +6776,7 @@ var app = (function () {
           },
           {
             url: "https://soundcloud.com/vgsoundz2/tall-trunk-galaxy",
-            answer: "Tall Trunk Galaxy - Super Mario Galaxy 2",
+            answer: "Forest Friends (Tall Trunk Galaxy) - Super Mario Galaxy 2",
           },
           {
             url: "https://soundcloud.com/vgsoundz2/slider",
@@ -6804,7 +6804,7 @@ var app = (function () {
           },
           {
             url: "https://soundcloud.com/vgsoundz2/flipsville-galaxy",
-            answer: "Flipsville Galaxy/Chomp Works Galaxy - Super Mario Galaxy 2",
+            answer: "Flipsville Galaxy/Chompworks Galaxy - Super Mario Galaxy 2",
           },
           {
             url: "https://soundcloud.com/vgsoundz2/glamdozer",
@@ -6892,7 +6892,7 @@ var app = (function () {
           },
           {
             url: "https://soundcloud.com/vgsoundz2/bowser-battle",
-            answer: "Bowser Battle - Super Mario Galaxy 2",
+            answer: "King Bowser's Might (Bowser Battle) - Super Mario Galaxy 2",
           },
           {
             url: "https://soundcloud.com/vgsoundz2/fated-battle",
