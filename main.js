@@ -905,7 +905,7 @@ var app = (function () {
     "Memory 4 - Super Paper Mario",
     "Castle Bleck - Super Paper Mario",
     "The Ultimate Show (Final Battle) - Super Paper Mario",
-    "Proof Of Existance - Super Paper Mario",
+    "Proof Of Existence - Super Paper Mario",
     "Staff Roll - Super Paper Mario",
     "Pit Of 100 Trials - Super Paper Mario",
     "Title Screen - Mario Strikers Charged",
@@ -5712,7 +5712,7 @@ var app = (function () {
           },
           {
             url: "https://soundcloud.com/super-paper-camek/proof-of-existence",
-            answer: "Proof Of Existance - Super Paper Mario",
+            answer: "Proof Of Existence - Super Paper Mario",
           },
           {
             url: "https://soundcloud.com/camek-neptunia-mk3/staff-roll-super-p-mario-2007",
