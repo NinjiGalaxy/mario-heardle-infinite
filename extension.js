@@ -900,7 +900,7 @@ let _metadata = createMetadata({
       "Memory 4 - Super Paper Mario": [2007, "Wii", "Paper Mario", "Super Paper Mario", "2D Platformer", "Mario"],
       "Castle Bleck - Super Paper Mario": [2007, "Wii", "Paper Mario", "Super Paper Mario", "2D Platformer", "Mario"],
       "The Ultimate Show (Final Battle) - Super Paper Mario": [2007, "Wii", "Paper Mario", "Super Paper Mario", "2D Platformer", "Mario"],
-      "Proof Of Existance - Super Paper Mario": [2007, "Wii", "Paper Mario", "Super Paper Mario", "2D Platformer", "Mario"],
+      "Proof Of Existence - Super Paper Mario": [2007, "Wii", "Paper Mario", "Super Paper Mario", "2D Platformer", "Mario"],
       "Staff Roll - Super Paper Mario": [2007, "Wii", "Paper Mario", "Super Paper Mario", "2D Platformer", "Mario"],
       "Pit Of 100 Trials - Super Paper Mario": [2007, "Wii", "Paper Mario", "Super Paper Mario", "2D Platformer", "Mario"],
       "Title Screen - Mario Strikers Charged": [2007, "Wii", "Paper Mario", "Super Paper Mario", "2D Platformer", "Mario"],
