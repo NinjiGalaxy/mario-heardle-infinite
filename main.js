@@ -17,6 +17,8 @@ var app = (function () {
     "Ending - Super Mario Bros. The Lost Levels",
     "Doki Doki Do It - Super Mario Bros: The Great Mission To Rescue Princess Peach",
     "The Light Blue Waltz (Underwater Theme) - Super Mario Bros: The Great Mission To Rescue Princess Peach",
+    //E//"Title Screen - Famicom Grand Prix II: 3D Hot Rally",
+    //E//"Wind Commander (BGM 2) - Famicom Grand Prix II: 3D Hot Rally",
     "Knitting Diagram - I Am A Teacher: Super Mario Sweater",
     "Title Screen - Super Mario Bros. 2",
     "Player Select - Super Mario Bros. 2",
@@ -105,10 +107,12 @@ var app = (function () {
     "Staff Roll - Super Mario Land 2: 6 Golden Coins",
     "Title Screen - Yoshi's Cookie (NES)",
     "Music Type C - Yoshi's Cookie (NES)",
+    //E//"Stage 10 Clear (Staff Roll) - Yoshi's Cookie (Game Boy)",
     "Action Type B - Yoshi's Cookie (SNES)",
     "Versus Type B - Yoshi's Cookie (SNES)",
     "Main Title - Super Mario Bros. (1993)",
     "Drive To Work On Instinct - Super Mario Bros. (1993)",
+    //E//"Almost Unreal (Performed By Roxette) - Super Mario Bros. (1993)",
     "Title Screen - Super Mario All-Stars",
     "Game Select - Super Mario All-Stars",
     "Title Screen [Super Mario Bros.] - Super Mario All-Stars",
@@ -388,6 +392,8 @@ var app = (function () {
     "Angry Aztec - Donkey Kong 64",
     "Frantic Factory - Donkey Kong 64",
     "K. Rool Duel - Donkey Kong 64",
+    //E//"Drawing Board 1 (Jellyfish) - Mario Artist: Paint Studio",
+    //E//"Sea World (BGM 2) - Mario Artist: Paint Studio",
     "Title Screen - Mario Party 2",
     "Welcome To Mario Land (Main Menu) - Mario Party 2",
     "Laboratory (Settings) - Mario Party 2",
@@ -404,6 +410,9 @@ var app = (function () {
     "Going Somewhere (Bobsled Run, Sky Pilots, etc) - Mario Party 2",
     "This Way That (Quicksand Cache, Filet Relay, etc) - Mario Party 2",
     "Staff Roll - Mario Party 2",
+    //E//"Title Screen / Staff Roll - Mario Artist: Talent Studio",
+    //E//"BGM 1 (So Kawaii!)  - Mario Artist: Talent Studio",
+    //E//"Po Pi Pa Pi (BGM 2) - Mario Artist: Talent Studio",
     "World Map (Day) - Wario Land 3",
     "Out Of The Woods (Day) - Wario Land 3",
     "Peaceful Village, A Town In Chaos (Day) - Wario Land 3",
@@ -437,12 +446,16 @@ var app = (function () {
     "Starborn Valley Trail - Paper Mario (N64)",
     "Over Shiver Mountain - Paper Mario (N64)",
     "Crystal Palace Crawl - Paper Mario (N64)",
+    //E//"Freeze! - Paper Mario (N64)",
     "Shooting Star Summit - Paper Mario (N64)",
     "Cloudy Climb - Paper Mario (N64)",
     "Wish Of The Princess - Paper Mario (N64)",
+    //E//"King Of The Koopas - Paper Mario (N64)",
     "Victory Parade (Staff Roll) - Paper Mario (N64)",
     "Mario And Peach - Paper Mario (N64)",
     "Main Menu - Paper Mario (N64)",
+    //E//"Title Screen / Staff Roll - Mario Artist: Polygon Studio",
+    //E//"Modeler Rocket (Digital Diamonds) - Mario Artist: Polygon Studio",
     "Main Menu - Mario Tennis (GBC)",
     "Game Point - Mario Tennis (GBC)",
     "Title Screen - Mario Party 3",
@@ -458,6 +471,7 @@ var app = (function () {
     "Fighting Spirit (Snowball Summit, Vine With Me, etc) - Mario Party 3",
     "Let's Get A Move On (Aces High, Ridiculous Relay, etc) - Mario Party 3",
     "Mustn't Panic (Eatsa Pizza, Pipe Cleaners, etc) - Mario Party 3",
+    //E//"Staff Roll - Mario Party 3",
     "Stage Theme 1 - Mario Bros. (GBA)",
     "Bonus Round - Mario Bros. (GBA)",
     "Choose A Game! - Super Mario Advance (Super Mario Bros. 2)",
@@ -874,6 +888,7 @@ var app = (function () {
     "Sweatmore Peak - Wario: Master Of Disguise",
     "Head Honcho, Carpaccio (Carpaccio Battle) - Wario: Master Of Disguise",
     "Allergia Gardens - Wario: Master Of Disguise",
+    //E//"Jungle Falls - Diddy Kong Racing DS",    
     "Main Menu - Mario Kart Arcade GP 2",
     "Waluigi Cup - Mario Kart Arcade GP 2",
     "Today's Story - Super Paper Mario",
@@ -1085,6 +1100,8 @@ var app = (function () {
     "Creep Blue Sea - Wario Land: Shake It!",
     "Slipshod Slopes/Freezing Fields - Wario Land: Shake It!",
     "Staff Roll - Wario Land: Shake It!",
+    //E//"Staff Roll - Dr. Mario Express",
+    //E//"Photo Booth - WarioWare: Snapped!",
     "On To The Next Adventure! (Title Screen) - Mario & Luigi: Bowser's Inside Story (DS)",
     "File Select - Mario & Luigi: Bowser's Inside Story (DS)",
     "It's Fawful! - Mario & Luigi: Bowser's Inside Story (DS)",
@@ -1264,6 +1281,7 @@ var app = (function () {
     "Peach's Castle (Super Mario RPG) - Fortune Street",
     "Super Mario Bros. Theme - Fortune Street",
     "Bowser's Castle (New Super Mario Bros.) - Fortune Street",
+    //E//"The Evil King Bowser (Super Mario World) - Fortune Street",
     "Title Screen - Mario Kart 7",
     "Main Menu - Mario Kart 7",
     "Toad Circuit/Mario Circuit - Mario Kart 7",
@@ -1600,6 +1618,7 @@ var app = (function () {
     "Airship [Super Mario World] - Super Mario Maker",
     "Ground [New Super Mario Bros. U] (Edit) - Super Mario Maker",
     "100 Mario Challenge (Super Mario Bros. 3 ~ Grass Land) - Super Mario Maker",
+    //E//"Match Point - Mario Tennis: Ultra Smash",
     "Start Of The Adventure (Title Screen) - Mario & Luigi: Paper Jam",
     "Whispered Secrets (Peach's Theme) - Mario & Luigi: Paper Jam",
     "Springtime Breeze - Mario & Luigi: Paper Jam",
@@ -1637,12 +1656,14 @@ var app = (function () {
     "Indigo Underground - Paper Mario: Color Splash",
     "Bloo Bay Beach - Paper Mario: Color Splash",
     "Blissful Beach - Paper Mario: Color Splash",
+    //E//"Battle With Ludwig - Paper Mario: Color Splash",
     "Daffodil Peak - Paper Mario: Color Splash",
     "Sunglow Ridge - Paper Mario: Color Splash",
     "Marmalade Valley - Paper Mario: Color Splash",
     "Plum Park - Paper Mario: Color Splash",
     "The Violet Isles - Paper Mario: Color Splash",
     "Toad Trainworks - Paper Mario: Color Splash",
+    //E//"Lemmy's Grand Finale - Paper Mario: Color Splash",
     "Prisma Museum - Paper Mario: Color Splash",
     "SMB3 Battle - Paper Mario: Color Splash",
     "Rainbow Road - Paper Mario: Color Splash",
@@ -1657,6 +1678,7 @@ var app = (function () {
     "Ground (Coin Rush) - Super Mario Run",
     "Ghost House (Coin Rush) - Super Mario Run",
     "Remix 10 Menu - Super Mario Run",
+    //E//"Poochy Dash - Poochy & Yoshi's Woolly World",
     "Selection Screen (Wireless) - Mario Kart 8 Deluxe",
     "Battle Stadium - Mario Kart 8 Deluxe",
     "Lunar Colony - Mario Kart 8 Deluxe",
@@ -1727,6 +1749,7 @@ var app = (function () {
     "Everybody Party [Mario Party 5] (Dinger Derby, Coney Island, etc) - Mario Party: The Top 100",
     "Title Screen - Mario Tennis Aces",
     "Stadium Theme - Mario Tennis Aces",
+    //E//"Jungle Joust (DK Island Swing) - Mario + Rabbids Kingdom Battle: Donkey Kong Adventure",
     "Midboss Melee - Mario + Rabbids Kingdom Battle: Donkey Kong Adventure",
     "Dungeon Dispute - Mario + Rabbids Kingdom Battle: Donkey Kong Adventure",
     "Main Menu - WarioWare Gold",
@@ -1839,9 +1862,11 @@ var app = (function () {
     "Sweetpaper Valley - Paper Mario: The Origami King",
     "Yellow Streamer Battle - Paper Mario: The Origami King",
     "Shroom City - Paper Mario: The Origami King",
+    //E//"Snif City - Paper Mario: The Origami King",
     "Thrills At Night - Paper Mario: The Origami King",
     "Scuffle Island - Paper Mario: The Origami King",
     "Toad Town (Purple Streamer Removal) - Paper Mario: The Origami King",
+    //E//"The Shifty Sticker - Paper Mario: The Origami King",
     "Shangri Spa - Paper Mario: The Origami King",
     "Ninji Skills - Paper Mario: The Origami King",
     "Bowser's Castle - Paper Mario: The Origami King",
@@ -2098,10 +2123,98 @@ var app = (function () {
     "Boss Battle - Mario & Luigi: Brothership",
     "Florall Island - Mario & Luigi: Brothership",
     "Desolatt Island - Mario & Luigi: Brothership",
+    //E//"Allsand Island - Mario & Luigi: Brothership",
     "Heatfreeze Island - Mario & Luigi: Brothership",
     "Slippenglide Island - Mario & Luigi: Brothership",
-    "Jellyfish Island - Mario & Luigi: Brothership",
     "Wayaway Island (Super Mario Bros. 3 ~ Fortress) - Mario & Luigi: Brothership",
+    "Jellyfish Island - Mario & Luigi: Brothership",
+    //E//"Glohmen Concordia - Mario & Luigi: Brothership",
+    //E//"Final Battle ~ Phase 3 - Mario & Luigi: Brothership",
+    //E//"Staff Roll - Mario & Luigi: Brothership",
+    //E//"Title Screen - Mario Kart World",
+    //E//"Main Menu - Mario Kart World",
+    //E//"Mario Bros. Circuit - Mario Kart World",
+    //E//"Crown City - Mario Kart World",
+    //E//"Whistlestop Summit - Mario Kart World",
+    //E//"DS Airship Fortress - Mario Kart World",
+    //E//"DS DK Pass - Mario Kart World",
+    //E//"Starview Peak - Mario Kart World",
+    //E//"SNES Koopa Troopa Beach - Mario Kart World",
+    //E//"Faraway Oasis - Mario Kart World",
+    //E//"Boo Cinema - Mario Kart World",
+    //E//"Dry Bones Burnout - Mario Kart World",
+    //E//"Wii Moo Moo Meadows - Mario Kart World",
+    //E//"N64 Choco Mountain - Mario Kart World",
+    //E//"Wii Toad's Factory - Mario Kart World",
+    //E//"Bowser's Castle - Mario Kart World",
+    //E//"Acorn Heights - Mario Kart World",
+    //E//"Rainbow Road - Mario Kart World",
+    //E//"Staff Roll - Mario Kart World",
+    //E//"Title Screen ~ Day (Super Mario Kart) - Mario Kart World",
+    //E//"Selection Screens (Mario Kart 64) - Mario Kart World",
+    //E//"Rainbow Road (Mario Kart 64) - Mario Kart World",
+    //E//"Baby Park (Mario Kart: Double Dash!!) - Mario Kart World",
+    //E//"Sherbet Land (Mario Kart: Double Dash!!) - Mario Kart World",
+    //E//"Rainbow Road (Mario Kart: Double Dash!!) - Mario Kart World",
+    //E//"Delfino Square (Mario Kart DS) - Mario Kart World",
+    //E//"Wario Stadium / Waluigi Pinball ~ Night (Mario Kart DS) - Mario Kart World",
+    //E//"Rainbow Road (Mario Kart DS) - Mario Kart World",
+    //E//"Maple Treeway (Mario Kart Wii) - Mario Kart World",
+    //E//"Rainbow Road (Mario Kart Wii) - Mario Kart World",
+    //E//"Thwomp Desert (Mario Kart Wii) - Mario Kart World",
+    //E//"Rainbow Road (Mario Kart 7) - Mario Kart World",
+    //E//"Sunshine Airport ~ Night (Mario Kart 8) - Mario Kart World",
+    //E//"Wild Woods (Mario Kart 8) - Mario Kart World",
+    //E//"Piranha Plant Pipeline (Mario Kart Tour) - Mario Kart World",
+    //E//"Main Theme (Mario Kart Live: Home Circuit) - Mario Kart World",
+    //E//"Staff Roll (Super Mario Kart) - Mario Kart World",
+    //E//"Staff Roll (Mario Kart DS) - Mario Kart World",
+    //E//"Staff Roll A (Mario Kart Wii) - Mario Kart World",
+    //E//"Underwater (Super Mario Bros.) - Mario Kart World",
+    //E//"Map Screen Medley (Super Mario Bros. 3) - Mario Kart World",
+    //E//"Easton Kingdom (Super Mario Land) - Mario Kart World",
+    //E//"Athletic (Super Mario World) - Mario Kart World",
+    //E//"Drawing Board 1 (Mario Paint) - Mario Kart World",
+    //E//"Rice Beach (Wario Land: Super Mario Land 3) - Mario Kart World",
+    //E//"Opening Melody (Super Mario World 2: Yoshi's Island) - Mario Kart World",
+    //E//"Baby Bowser Battle (Super Mario World 2: Yoshi's Island) - Mario Kart World",
+    //E//"File Select (Super Mario 64) - Mario Kart World",
+    //E//"Dire, Dire Docks (Super Mario 64) - Mario Kart World",
+    //E//"Bowser's Road (Super Mario 64) - Mario Kart World",
+    //E//"Staff Roll (Super Mario 64) - Mario Kart World",
+    //E//"Yoshi's Tale (Yoshi's Story) - Mario Kart World",
+    //E//"Main Theme (Luigi's Mansion) - Mario Kart World",
+    //E//"Secret Course ~ Sky & Sea (Super Mario Sunshine) - Mario Kart World",
+    //E//"Drifting Away (WarioWare, Inc.: Mega Microgame$!) - Mario Kart World",
+    //E//"The Mario Drawing Song (Flipnote Studio) - Mario Kart World",
+    //E//"Rosalina In The Observatory (Super Mario Galaxy) - Mario Kart World",
+    //E//"Space Junk Road (Super Mario Galaxy) - Mario Kart World",
+    //E//"Buoy Base Galaxy (Super Mario Galaxy) - Mario Kart World",
+    //E//"Puzzle Plank Galaxy (Super Mario Galaxy 2) - Mario Kart World",
+    //E//"Wild Glide Galaxy (Super Mario Galaxy 2) - Mario Kart World",
+    //E//"Title Screen (Super Mario Maker) - Mario Kart World",
+    //E//"Fossil Falls (Super Mario Odyssey) - Mario Kart World",
+    //E//"Plessie Ride! (Bowser's Fury) - Mario Kart World",
+    //E//"DK Artist (Simian Segue / Bonus Room Blitz) - Donkey Kong Bananza",
+    //E//"Ingot Isle Cave In - Donkey Kong Bananza",
+    //E//"Lagoon Layer - Donkey Kong Bananza",
+    //E//"Canyon Layer: Banandium Refinery - Donkey Kong Bananza",
+    //E//"Freezer Later: Cold Colt Crest - Donkey Kong Bananza",
+    //E//"Forest Layer: Mossplume Marsh - Donkey Kong Bananza",
+    //E//"Tempest Layer: Hot Shower Cave - Donkey Kong Bananza",
+    //E//"Radiance Layer: Darkness - Donkey Kong Bananza",
+    //E//"Radiance Layer: Hiss Hiss Oasis - Donkey Kong Bananza",
+    //E//"Planet Core: Second Half - Donkey Kong Bananza",
+    //E//"Banandium Root Tower (Gang Plank Galleon) - Donkey Kong Bananza",
+    //E//"New Donk City - Donkey Kong Bananza",
+    //E//"Kong Bananza - Donkey Kong Bananza",
+    //E//"Zebra Bananza - Donkey Kong Bananza",
+    //E//"Ostrich Bananza - Donkey Kong Bananza",
+    //E//"Poppy Kong Battle - Donkey Kong Bananza",
+    //E//"2D Challenge Course #1 (DK Island Swing) - Donkey Kong Bananza",
+    //E//"2D Challenge Course #2 (Stickerbush Symphony) - Donkey Kong Bananza",
+    //E//"2D Challenge Course #3 (Mine Cart Madness) - Donkey Kong Bananza",
+    //E//"Breaking Through (Heart Of Gold) [Staff Roll] - Donkey Kong Bananza",
   ];
     // Bug : Sometimes musics stops appearing in suggestions, it seems that musics dissapears at the end of the array
     // Adding empty string makes them unfindable and prevent this bug
@@ -2162,6 +2275,14 @@ var app = (function () {
             url: "https://soundcloud.com/mario-vs-donkey-kong/knitting-diagram-i-am-a-teacher-super-mario-sweater",
             answer: "Knitting Diagram - I Am A Teacher: Super Mario Sweater",
           },
+          /////{
+          /////  url: "https://soundcloud.com/superninjigalaxy/01-opening-1",
+          /////  answer: "Title Screen - Famicom Grand Prix II: 3D Hot Rally",
+          /////},
+          /////{
+          /////  url: "https://soundcloud.com/superninjigalaxy/05-wind-commander-bgm-2-5",
+          /////  answer: "Wind Commander (BGM 2) - Famicom Grand Prix II: 3D Hot Rally",
+          /////},
           {
             url: "https://soundcloud.com/6nintendo/title-theme",
             answer: "Title Screen - Super Mario Bros. 2",
@@ -2510,6 +2631,10 @@ var app = (function () {
             url: "https://soundcloud.com/yoshis-cookie-osts/1p-music-type-c",
             answer: "Music Type C - Yoshi's Cookie (NES)",
           },
+          /////{
+          /////  url: "https://soundcloud.com/yoshis-cookie-osts/stage-10-clear-1",
+          /////  answer: "Stage 10 Clear (Staff Roll) - Yoshi's Cookie (Game Boy)",
+          /////},
           {
             url: "https://soundcloud.com/yoshis-cookie-osts/frantic-factory",
             answer: "Action Type B - Yoshi's Cookie (SNES)",
@@ -2518,13 +2643,17 @@ var app = (function () {
             url: "https://soundcloud.com/yoshis-cookie-osts/counting-the-cookies",
             answer: "Versus Type B - Yoshi's Cookie (SNES)",
           },
-          {
-            url: "https://soundcloud.com/superninjigalaxy/main-titles",
-            answer: "Main Title - Super Mario Bros. (1993)",
-          },
+          /////{
+          /////  url: "https://soundcloud.com/superninjigalaxy/main-titles",
+          /////  answer: "Main Title - Super Mario Bros. (1993)",
+          /////},
           {
             url: "https://soundcloud.com/superninjigalaxy/drive-to-work-on-instinct",
             answer: "Drive To Work On Instinct - Super Mario Bros. (1993)",
+          },
+          {
+            url: "https://soundcloud.com/roxette-official/almost-unreal",
+            answer: "Almost Unreal (Performed By Roxette) - Super Mario Bros. (1993)",
           },
           {
             url: "https://soundcloud.com/picross-all-stars/title-screen-super-mario-all",
@@ -3642,6 +3771,14 @@ var app = (function () {
             url: "https://soundcloud.com/mario-vs-donkey-kong/k-rool-duel-donkey-kong-64",
             answer: "K. Rool Duel - Donkey Kong 64",
           },
+          /////{
+          /////  url: "https://soundcloud.com/tsuchiphox/mario-artist-paint-423414561",
+          /////  answer: "Drawing Board 1 (Jellyfish) - Mario Artist: Paint Studio",
+          /////},
+          /////{
+          /////  url: "https://soundcloud.com/superninjigalaxy/sea-world-bgm-2-mario-artist-paint-studio",
+          /////  answer: "Sea World (BGM 2) - Mario Artist: Paint Studio",
+          /////},
           {
             url: "https://soundcloud.com/ferriol-rovira/mario-party-2-theme",
             answer: "Title Screen - Mario Party 2",
@@ -3706,6 +3843,18 @@ var app = (function () {
             url: "https://soundcloud.com/superninjigalaxy-2/credits-mario-party-2",
             answer: "Staff Roll - Mario Party 2",
           },
+          /////{
+          /////  url: "https://soundcloud.com/superninjigalaxy/title-screen-staff-roll-mario-artist-talent-studio-1",
+          /////  answer: "Title Screen / Staff Roll - Mario Artist: Talent Studio",
+          /////},
+          /////{
+          /////  url: "https://soundcloud.com/randomlongmonster/mario-artist-talent-studio-so-kawaii",
+          /////  answer: "BGM 1 (So Kawaii!)  - Mario Artist: Talent Studio",
+          /////},
+          /////{
+          /////  url: "https://soundcloud.com/superninjigalaxy/po-pi-pa-pi-bgm-2-mario-artist-talent-studio-2",
+          /////  answer: "Po Pi Pa Pi (BGM 2) - Mario Artist: Talent Studio",
+          /////},
           {
             url: "https://soundcloud.com/warioland123/world-map-day",
             answer: "World Map (Day) - Wario Land 3",
@@ -3838,6 +3987,10 @@ var app = (function () {
             url: "https://soundcloud.com/civ-nohp/crystal-palace-crawl-paper-mario-2000",
             answer: "Crystal Palace Crawl - Paper Mario (N64)",
           },
+          /////{
+          /////  url: "https://soundcloud.com/civ-nohp/freeze-paper-mario-2000",
+          /////  answer: "Freeze! - Paper Mario (N64)",
+          /////},
           {
             url: "https://soundcloud.com/civ-nohp/shooting-star-summit-paper-mario-2000",
             answer: "Shooting Star Summit - Paper Mario (N64)",
@@ -3850,6 +4003,10 @@ var app = (function () {
             url: "https://soundcloud.com/civ-nohp/wish-of-the-princess-paper-mario-2000",
             answer: "Wish Of The Princess - Paper Mario (N64)",
           },
+          /////{
+          /////  url: "https://soundcloud.com/civ-nohp/king-of-the-koopas-paper-mario-2000",
+          /////  answer: "King Of The Koopas - Paper Mario (N64)",
+          /////},
           {
             url: "https://soundcloud.com/civ-nohp/victory-parade-paper-mario-2000",
             answer: "Victory Parade (Staff Roll) - Paper Mario (N64)",
@@ -3862,6 +4019,14 @@ var app = (function () {
             url: "https://soundcloud.com/civ-nohp/main-menu-paper-mario-2000",
             answer: "Main Menu - Paper Mario (N64)",
           },
+          /////{
+          /////  url: "https://soundcloud.com/user-135584671/mario-artist-polygon-studio",
+          /////  answer: "Title Screen / Staff Roll - Mario Artist: Polygon Studio",
+          /////},
+          /////{
+          /////  url: "https://soundcloud.com/yagashio/mario-artist-polygon-studio-digital-diamonds",
+          /////  answer: "Modeler Rocket (Digital Diamonds) - Mario Artist: Polygon Studio",
+          /////},
           {
             url: "https://soundcloud.com/mario-heardle/menu-mario-tennis-gbc",
             answer: "Main Menu - Mario Tennis (GBC)",
@@ -3922,6 +4087,10 @@ var app = (function () {
             url: "https://soundcloud.com/beep-blox/mustnt-panic-mario-party-3",
             answer: "Mustn't Panic (Eatsa Pizza, Pipe Cleaners, etc) - Mario Party 3",
           },
+          /////{
+          /////  url: "https://soundcloud.com/beep-blox/staff-credits-mario-party-3",
+          /////  answer: "Staff Roll - Mario Party 3",
+          /////},
           {
             url: "https://soundcloud.com/alexthetoon/03-mb-stage-theme-1",
             answer: "Stage Theme 1 - Mario Bros. (GBA)",
@@ -5586,6 +5755,10 @@ var app = (function () {
             url: "https://soundcloud.com/warioheardle/allergia-gardens-wario-master-of-disguise",
             answer: "Allergia Gardens - Wario: Master Of Disguise",
           },
+          /////{
+          /////  url: "https://soundcloud.com/superninjigalaxy/jungle-falls-diddy-kong-racing",
+          /////  answer: "Jungle Falls - Diddy Kong Racing DS",
+          /////},
           {
             url: "https://soundcloud.com/superninjigalaxy/menu-mario-kart-arcade-gp-2",
             answer: "Main Menu - Mario Kart Arcade GP 2",
@@ -6430,6 +6603,14 @@ var app = (function () {
             url: "https://soundcloud.com/wario-land-shake-it/staff-roll",
             answer: "Staff Roll - Wario Land: Shake It!",
           },
+          /////{
+          /////  url: "https://soundcloud.com/superninjigalaxy/staff-roll-dr-mario-express",
+          /////  answer: "Staff Roll - Dr. Mario Express",
+          /////},
+          /////{
+          /////  url: "https://soundcloud.com/superninjigalaxy/photo-booth-warioware-snapped-1",
+          /////  answer: "Photo Booth - WarioWare: Snapped!",
+          /////},
           {
             url: "https://soundcloud.com/fawfulhasfury/to-a-new-adventure-mario-luigi",
             answer: "On To The Next Adventure! (Title Screen) - Mario & Luigi: Bowser's Inside Story (DS)",
@@ -7146,6 +7327,10 @@ var app = (function () {
             url: "https://soundcloud.com/fortunestreetost/bowsers-castle",
             answer: "Bowser's Castle (New Super Mario Bros.) - Fortune Street",
           },
+          /////{
+          /////  url: "https://soundcloud.com/fortunestreetost/the-evil-king-bowser-super",
+          /////  answer: "The Evil King Bowser (Super Mario World) - Fortune Street",
+          /////},
           {
             url: "https://soundcloud.com/5nintendo/title-screen",
             answer: "Title Screen - Mario Kart 7",
@@ -8490,6 +8675,10 @@ var app = (function () {
             url: "https://soundcloud.com/superninjigalaxy/100-mario-challenge",
             answer: "100 Mario Challenge (Super Mario Bros. 3 ~ Grass Land) - Super Mario Maker",
           },
+          /////{
+          /////  url: "https://soundcloud.com/svsatt1004/match-point",
+          /////  answer: "Match Point - Mario Tennis: Ultra Smash",
+          /////},
           {
             url: "https://soundcloud.com/silly-person-52110284/01-start-of-the-adventure",
             answer: "Start Of The Adventure (Title Screen) - Mario & Luigi: Paper Jam",
@@ -8638,6 +8827,10 @@ var app = (function () {
             url: "https://soundcloud.com/kirby-nep-adventure-rst1/blissful-beach-paper-mario-color-splash-2016",
             answer: "Blissful Beach - Paper Mario: Color Splash",
           },
+          /////{
+          /////  url: "https://soundcloud.com/kirb-nep-adventure-rst02/the-circus-ringmaster-lemmy-battle-paper-mario-color-splash-2016",
+          /////  answer: "Battle With Ludwig - Paper Mario: Color Splash",
+          /////},
           {
             url: "https://soundcloud.com/kirby-nep-adventure-rst1/daffodil-peak-paper-mario-color-splash-2016",
             answer: "Daffodil Peak - Paper Mario: Color Splash",
@@ -8662,6 +8855,10 @@ var app = (function () {
             url: "https://soundcloud.com/kirb-nep-adventure-rst02/toad-trainworks-paper-mario-color-splash-2016",
             answer: "Toad Trainworks - Paper Mario: Color Splash",
           },
+          /////{
+          /////  url: "https://soundcloud.com/kirby-nep-adventure-rst1/a-boy-and-his-battleship-ludwig-battle-paper-mario-color-splash-2016",
+          /////  answer: "Lemmy's Grand Finale - Paper Mario: Color Splash",
+          /////},
           {
             url: "https://soundcloud.com/kirb-nep-adventure-rst02/prisma-museum-paper-mario-color-splash-2016",
             answer: "Prisma Museum - Paper Mario: Color Splash",
@@ -8718,6 +8915,10 @@ var app = (function () {
             url: "https://soundcloud.com/minimarioamiibo/menu-remix-10",
             answer: "Remix 10 Menu - Super Mario Run",
           },
+          /////{
+          /////  url: "https://soundcloud.com/superninjigalaxy/poochy-dash-poochy-yoshis-woolly-world-2",
+          /////  answer: "Poochy Dash - Poochy & Yoshi's Woolly World",
+          /////},
           {
             url: "https://soundcloud.com/infiniteshadowx766/wireless-play-menu",
             answer: "Selection Screen (Wireless) - Mario Kart 8 Deluxe",
@@ -8998,6 +9199,10 @@ var app = (function () {
             url: "https://soundcloud.com/super-smash-bros-anthology-390758306/100-stadium-theme-mario-tennis",
             answer: "Stadium Theme - Mario Tennis Aces",
           },
+          /////{
+          /////  url: "https://soundcloud.com/the-legend-of-link-270966626/jungle-joust-mario-rabbids",
+          /////  answer: "Jungle Joust (DK Island Swing) - Mario + Rabbids Kingdom Battle: Donkey Kong Adventure",
+          /////},
           {
             url: "https://soundcloud.com/superninjigalaxy/midboss-melee-mario-rabbids-kingdom-battle-donkey-kong-adventure-1",
             answer: "Midboss Melee - Mario + Rabbids Kingdom Battle: Donkey Kong Adventure",
@@ -9446,6 +9651,10 @@ var app = (function () {
             url: "https://soundcloud.com/origami-king-two/shroom-city-paper-mario-the-origami-king-2020",
             answer: "Shroom City - Paper Mario: The Origami King",
           },
+          /////{
+          /////  url: "https://soundcloud.com/origami-king-two/snif-city-paper-mario-the-origami-king-2020",
+          /////  answer: "Snif City - Paper Mario: The Origami King",
+          /////},
           {
             url: "https://soundcloud.com/origami-king-two/thrills-at-night-paper-mario-the-origami-king-2020",
             answer: "Thrills At Night - Paper Mario: The Origami King",
@@ -9458,6 +9667,10 @@ var app = (function () {
             url: "https://soundcloud.com/origami-king-one/toad-town-purple-streamer-removal-paper-mario-the-origami-king-2020",
             answer: "Toad Town (Purple Streamer Removal) - Paper Mario: The Origami King",
           },
+          /////{
+          /////  url: "https://soundcloud.com/origami-king-two/the-shifty-sticker-paper-mario-the-origami-king-2020",
+          /////  answer: "The Shifty Sticker - Paper Mario: The Origami King",
+          /////},
           {
             url: "https://soundcloud.com/origami-king-two/shangri-spa-paper-mario-the-origami-king-2020",
             answer: "Shangri Spa - Paper Mario: The Origami King",
@@ -10478,6 +10691,10 @@ var app = (function () {
             url: "https://soundcloud.com/anime404/mario-luigi-brothership-desolatt-island",
             answer: "Desolatt Island - Mario & Luigi: Brothership",
           },
+          /////{
+          /////  url: "https://soundcloud.com/silly-person-52110284/58-allsand-island",
+          /////  answer: "Allsand Island - Mario & Luigi: Brothership",
+          /////},
           {
             url: "https://soundcloud.com/silly-person-52110284/64-heatfreeze-island",
             answer: "Heatfreeze Island - Mario & Luigi: Brothership",
@@ -10487,13 +10704,361 @@ var app = (function () {
             answer: "Slippenglide Island - Mario & Luigi: Brothership",
           },
           {
-            url: "https://soundcloud.com/silly-person-52110284/80-jellyfish-island",
-            answer: "Jellyfish Island - Mario & Luigi: Brothership",
-          },
-          {
             url: "https://soundcloud.com/silly-person-52110284/74-wayaway-island-bowsers",
             answer: "Wayaway Island (Super Mario Bros. 3 ~ Fortress) - Mario & Luigi: Brothership",
           },
+          {
+            url: "https://soundcloud.com/silly-person-52110284/80-jellyfish-island",
+            answer: "Jellyfish Island - Mario & Luigi: Brothership",
+          },
+          /////{
+          /////  url: "https://soundcloud.com/silly-person-52110284/96-glohmed-concordia",
+          /////  answer: "Glohmen Concordia - Mario & Luigi: Brothership",
+          /////},
+          /////{
+          /////  url: "https://soundcloud.com/silly-person-52110284/111-final-battle-phase-3",
+          /////  answer: "Final Battle ~ Phase 3 - Mario & Luigi: Brothership",
+          /////},
+          /////{
+          /////  url: "https://soundcloud.com/superninjigalaxy/staff-credits-mario-luigi-brothership",
+          /////  answer: "Staff Roll - Mario & Luigi: Brothership",
+          /////},
+          /////{
+          /////  url: "https://soundcloud.com/lost-stray-6/title-theme-mario-kart-world-ost-clean-6",
+          /////  answer: "Title Screen - Mario Kart World",
+          /////},
+          /////{
+          /////  url: "https://soundcloud.com/lost-stray-4/menu-theme-mario-kart-world-ost-6",
+          /////  answer: "Main Menu - Mario Kart World",
+          /////},
+          /////{
+          /////  url: "https://soundcloud.com/lost-stray-4/mario-bros-circuit-mario-kart-world-ost-1",
+          /////  answer: "Mario Bros. Circuit - Mario Kart World",
+          /////},
+          /////{
+          /////  url: "https://soundcloud.com/loststray2/crown-city-mario-kart-world-ost-4",
+          /////  answer: "Crown City - Mario Kart World",
+          /////},
+          /////{
+          /////  url: "https://soundcloud.com/lost-stray-6/whistlestop-summit-mario-kart-world-ost-36",
+          /////  answer: "Whistlestop Summit - Mario Kart World",
+          /////},
+          /////{
+          /////  url: "https://soundcloud.com/loststray2/ds-airship-fortress-mario-kart-ds-mario-kart-world-ost-29",
+          /////  answer: "DS Airship Fortress - Mario Kart World",
+          /////},
+          /////{
+          /////  url: "https://soundcloud.com/loststray2/ds-dk-pass-mario-kart-ds-mario-kart-world-ost-38",
+          /////  answer: "DS DK Pass - Mario Kart World",
+          /////},
+          /////{
+          /////  url: "https://soundcloud.com/lost-stray-5/starview-peak-mario-kart-world-ost-42",
+          /////  answer: "Starview Peak - Mario Kart World",
+          /////},
+          /////{
+          /////  url: "https://soundcloud.com/lost-stray-5/snes-koopa-troopa-beach-super-mario-kart-mario-kart-world-ost-24",
+          /////  answer: "SNES Koopa Troopa Beach - Mario Kart World",
+          /////},
+          /////{
+          /////  url: "https://soundcloud.com/lost-stray-3/faraway-oasis-mario-kart-world-ost-4",
+          /////  answer: "Faraway Oasis - Mario Kart World",
+          /////},
+          /////{
+          /////  url: "https://soundcloud.com/lost-stray-1/boo-cinema-mario-kart-world-ost-30",
+          /////  answer: "Boo Cinema - Mario Kart World",
+          /////},
+          /////{
+          /////  url: "https://soundcloud.com/loststray2/dry-bones-burnout-mario-kart-world-ost-24",
+          /////  answer: "Dry Bones Burnout - Mario Kart World",
+          /////},
+          /////{
+          /////  url: "https://soundcloud.com/lost-stray-7/wii-moo-moo-meadows-mario-kart-wii-mario-kart-world-ost-7",
+          /////  answer: "Wii Moo Moo Meadows - Mario Kart World",
+          /////},
+          /////{
+          /////  url: "https://soundcloud.com/lost-stray-4/n64-choco-mountain-mario-kart-64-mario-kart-world-ost-13",
+          /////  answer: "N64 Choco Mountain - Mario Kart World",
+          /////},
+          /////{
+          /////  url: "https://soundcloud.com/lost-stray-7/wii-toads-factory-with-intro-mario-kart-wii-mario-kart-world-ost-16",
+          /////  answer: "Wii Toad's Factory - Mario Kart World",
+          /////},
+          /////{
+          /////  url: "https://soundcloud.com/lost-stray-1/bowsers-castle-mario-kart-world-ost-36",
+          /////  answer: "Bowser's Castle - Mario Kart World",
+          /////},
+          /////{
+          /////  url: "https://soundcloud.com/lost-stray-1/acorn-heights-mario-kart-world-ost-15",
+          /////  answer: "Acorn Heights - Mario Kart World",
+          /////},
+          /////{
+          /////  url: "https://soundcloud.com/superninjigalaxy/rainbow-road-full-version-mario-kart-world",
+          /////  answer: "Rainbow Road - Mario Kart World",
+          /////},
+          /////{
+          /////  url: "https://soundcloud.com/loststray2/credits-mario-kart-world-ost-3e",
+          /////  answer: "Staff Roll - Mario Kart World",
+          /////},
+          /////{
+          /////  url: "https://soundcloud.com/lost-stray-6/title-theme-super-mario-kart-day-mario-kart-world-ost-11",
+          /////  answer: "Title Screen ~ Day (Super Mario Kart) - Mario Kart World",
+          /////},
+          /////{
+          /////  url: "https://soundcloud.com/lost-stray-5/setup-and-kart-select-mario-kart-64-mario-kart-world-ost-11",
+          /////  answer: "Selection Screens (Mario Kart 64) - Mario Kart World",
+          /////},
+          /////{
+          /////  url: "https://soundcloud.com/lost-stray-4/n64-rainbow-road-mario-kart-64-mario-kart-world-ost-21",
+          /////  answer: "Rainbow Road (Mario Kart 64) - Mario Kart World",
+          /////},
+          /////{
+          /////  url: "https://soundcloud.com/lost-stray-3/gcn-baby-park-mario-kart-double-dash-mario-kart-world-ost-20",
+          /////  answer: "Baby Park (Mario Kart: Double Dash!!) - Mario Kart World",
+          /////},
+          /////{
+          /////  url: "https://soundcloud.com/lost-stray-3/gcn-sherbet-land-mario-kart-double-dash-mario-kart-world-ost-33",
+          /////  answer: "Sherbet Land (Mario Kart: Double Dash!!) - Mario Kart World",
+          /////},
+          /////{
+          /////  url: "https://soundcloud.com/lost-stray-3/gcn-rainbow-road-mario-kart-double-dash-mario-kart-world-ost-32",
+          /////  answer: "Rainbow Road (Mario Kart: Double Dash!!) - Mario Kart World",
+          /////},
+          /////{
+          /////  url: "https://soundcloud.com/loststray2/ds-delfino-square-mario-kart-ds-mario-kart-world-ost-32",
+          /////  answer: "Delfino Square (Mario Kart DS) - Mario Kart World",
+          /////},
+          /////{
+          /////  url: "https://soundcloud.com/loststray2/ds-waluigi-pinball-mario-kart-ds-night-mario-kart-world-ost-46",
+          /////  answer: "Wario Stadium / Waluigi Pinball ~ Night (Mario Kart DS) - Mario Kart World",
+          /////},
+          /////{
+          /////  url: "https://soundcloud.com/loststray2/ds-rainbow-road-mario-kart-ds-mario-kart-world-ost-42",
+          /////  answer: "Rainbow Road (Mario Kart DS) - Mario Kart World",
+          /////},
+          /////{
+          /////  url: "https://soundcloud.com/lost-stray-7/wii-maple-treeway-mario-kart-wii-mario-kart-world-ost-4",
+          /////  answer: "Maple Treeway (Mario Kart Wii) - Mario Kart World",
+          /////},
+          /////{
+          /////  url: "https://soundcloud.com/lost-stray-7/wii-rainbow-road-mario-kart-wii-mario-kart-world-ost-10",
+          /////  answer: "Rainbow Road (Mario Kart Wii) - Mario Kart World",
+          /////},
+          /////{
+          /////  url: "https://soundcloud.com/lost-stray-7/wii-thwomp-desert-mario-kart-wii-mario-kart-world-ost-11",
+          /////  answer: "Thwomp Desert (Mario Kart Wii) - Mario Kart World",
+          /////},
+          /////{
+          /////  url: "https://soundcloud.com/lost-stray-1/3ds-rainbow-road-mario-kart-7-mario-kart-world-ost-5",
+          /////  answer: "Rainbow Road (Mario Kart 7) - Mario Kart World",
+          /////},
+          /////{
+          /////  url: "https://soundcloud.com/lost-stray-7/wii-u-sunshine-airport-mario-kart-8-night-mario-kart-world-ost-29",
+          /////  answer: "Sunshine Airport ~ Night (Mario Kart 8) - Mario Kart World",
+          /////},
+          /////{
+          /////  url: "https://soundcloud.com/lost-stray-7/wii-u-wild-woods-mario-kart-8-mario-kart-world-ost-38",
+          /////  answer: "Wild Woods (Mario Kart 8) - Mario Kart World",
+          /////},
+          /////{
+          /////  url: "https://soundcloud.com/lost-stray-6/tour-piranha-plant-pipeline-mario-kart-tour-mario-kart-world-ost-18",
+          /////  answer: "Piranha Plant Pipeline (Mario Kart Tour) - Mario Kart World",
+          /////},
+          /////{
+          /////  url: "https://soundcloud.com/lost-stray-6/title-theme-mario-kart-live-home-circuit-mario-kart-world-ost-10",
+          /////  answer: "Main Theme (Mario Kart Live: Home Circuit) - Mario Kart World",
+          /////},
+          /////{
+          /////  url: "https://soundcloud.com/lost-stray-5/staff-roll-super-mario-kart-mario-kart-world-ost-39",
+          /////  answer: "Staff Roll (Super Mario Kart) - Mario Kart World",
+          /////},
+          /////{
+          /////  url: "https://soundcloud.com/lost-stray-5/staff-credits-mario-kart-ds-mario-kart-world-ost-34",
+          /////  answer: "Staff Roll (Mario Kart DS) - Mario Kart World",
+          /////},
+          /////{
+          /////  url: "https://soundcloud.com/lost-stray-5/staff-credits-a-mario-kart-wii-mario-kart-world-ost-37",
+          /////  answer: "Staff Roll A (Mario Kart Wii) - Mario Kart World",
+          /////},
+          /////{
+          /////  url: "https://soundcloud.com/lost-stray-6/underwater-bgm-super-mario-bros-mario-kart-world-ost-32",
+          /////  answer: "Underwater (Super Mario Bros.) - Mario Kart World",
+          /////},
+          /////{
+          /////  url: "https://soundcloud.com/lost-stray-3/map-screen-medley-super-mario-bros-3-mario-kart-world-ost-48",
+          /////  answer: "Map Screen Medley (Super Mario Bros. 3) - Mario Kart World",
+          /////},
+          /////{
+          /////  url: "https://soundcloud.com/loststray2/easton-kingdom-underground-super-mario-land-mario-kart-world-ost-48",
+          /////  answer: "Easton Kingdom (Super Mario Land) - Mario Kart World",
+          /////},
+          /////{
+          /////  url: "https://soundcloud.com/lost-stray-1/athletic-bgm-super-mario-world-mario-kart-world-ost-21",
+          /////  answer: "Athletic (Super Mario World) - Mario Kart World",
+          /////},
+          /////{
+          /////  url: "https://soundcloud.com/loststray2/creative-exercise-mario-paint-mario-kart-world-ost-2",
+          /////  answer: "Drawing Board 1 (Mario Paint) - Mario Kart World",
+          /////},
+          /////{
+          /////  url: "https://soundcloud.com/lost-stray-5/rice-beach-wario-land-super-mario-land-3-mario-kart-world-ost-6",
+          /////  answer: "Rice Beach (Wario Land: Super Mario Land 3) - Mario Kart World",
+          /////},
+          /////{
+          /////  url: "https://soundcloud.com/lost-stray-4/opening-melody-super-mario-world-2-yoshis-island-mario-kart-world-ost-26",
+          /////  answer: "Opening Melody (Super Mario World 2: Yoshi's Island) - Mario Kart World",
+          /////},
+          /////{
+          /////  url: "https://soundcloud.com/lost-stray-1/bowser-final-boss-bgm-super-mario-world-2-yoshis-island-mario-kart-world-ost-35",
+          /////  answer: "Baby Bowser Battle (Super Mario World 2: Yoshi's Island) - Mario Kart World",
+          /////},
+          /////{
+          /////  url: "https://soundcloud.com/lost-stray-3/file-select-super-mario-64-mario-kart-world-ost-7",
+          /////  answer: "File Select (Super Mario 64) - Mario Kart World",
+          /////},
+          /////{
+          /////  url: "https://soundcloud.com/loststray2/dire-dire-docks-super-mario-64-mario-kart-world-ost-14",
+          /////  answer: "Dire, Dire Docks (Super Mario 64) - Mario Kart World",
+          /////},
+          /////{
+          /////  url: "https://soundcloud.com/lost-stray-1/bowsers-road-super-mario-64-mario-kart-world-ost-40",
+          /////  answer: "Bowser's Road (Super Mario 64) - Mario Kart World",
+          /////},
+          /////{
+          /////  url: "https://soundcloud.com/lost-stray-5/staff-roll-super-mario-64-mario-kart-world-ost-38",
+          /////  answer: "Staff Roll (Super Mario 64) - Mario Kart World",
+          /////},
+          /////{
+          /////  url: "https://soundcloud.com/lost-strayy-8/yoshis-tale-yoshis-story-mario-kart-world-ost-2",
+          /////  answer: "Yoshi's Tale (Yoshi's Story) - Mario Kart World",
+          /////},
+          /////{
+          /////  url: "https://soundcloud.com/loststray2/dark-hallway-main-theme-luigis-mansion-mario-kart-world-ost-10",
+          /////  answer: "Main Theme (Luigi's Mansion) - Mario Kart World",
+          /////},
+          /////{
+          /////  url: "https://soundcloud.com/lost-stray-5/sky-sea-super-mario-sunshine-mario-kart-world-ost-13",
+          /////  answer: "Secret Course ~ Sky & Sea (Super Mario Sunshine) - Mario Kart World",
+          /////},
+          /////{
+          /////  url: "https://soundcloud.com/loststray2/drifting-away-warioware-inc-mega-microgame-mario-kart-world-ost-23",
+          /////  answer: "Drifting Away (WarioWare, Inc.: Mega Microgame$!) - Mario Kart World",
+          /////},
+          /////{
+          /////  url: "https://soundcloud.com/lost-stray-6/the-mario-drawing-song-flipnote-studio-mario-kart-world-ost-4",
+          /////  answer: "The Mario Drawing Song (Flipnote Studio) - Mario Kart World",
+          /////},
+          /////{
+          /////  url: "https://soundcloud.com/lost-stray-5/rosalina-in-the-observatory-comet-observatory-super-mario-galaxy-mario-kart-world-ost-7",
+          /////  answer: "Rosalina In The Observatory (Super Mario Galaxy) - Mario Kart World",
+          /////},
+          /////{
+          /////  url: "https://soundcloud.com/lost-stray-5/space-junk-road-super-mario-galaxy-mario-kart-world-ost-31",
+          /////  answer: "Space Junk Road (Super Mario Galaxy) - Mario Kart World",
+          /////},
+          /////{
+          /////  url: "https://soundcloud.com/lost-stray-1/buoy-base-galaxy-super-mario",
+          /////  answer: "Buoy Base Galaxy (Super Mario Galaxy) - Mario Kart World",
+          /////},
+          /////{
+          /////  url: "https://soundcloud.com/lost-stray-4/puzzle-plank-galaxy-super-mario-galaxy-2-mario-kart-world-ost-38",
+          /////  answer: "Puzzle Plank Galaxy (Super Mario Galaxy 2) - Mario Kart World",
+          /////},
+          /////{
+          /////  url: "https://soundcloud.com/lost-stray-7/wild-glide-galaxy-super-mario-galaxy-2-mario-kart-world-ost-40",
+          /////  answer: "Wild Glide Galaxy (Super Mario Galaxy 2) - Mario Kart World",
+          /////},
+          /////{
+          /////  url: "https://soundcloud.com/infiniteshadowx766/title-screen-super-mario-maker-mario-kart-world-ost-5",
+          /////  answer: "Title Screen (Super Mario Maker) - Mario Kart World",
+          /////},
+          /////{
+          /////  url: "https://soundcloud.com/infiniteshadowx766/fossil-falls-super-mario-odyssey-mario-kart-world-ost-4",
+          /////  answer: "Fossil Falls (Super Mario Odyssey) - Mario Kart World",
+          /////},
+          /////{
+          /////  url: "https://soundcloud.com/infiniteshadowx766/lake-lapcat-plessie-super-mario-3d-world-bowsers-fury-mario-kart-world-ost-3",
+          /////  answer: "Plessie Ride! (Bowser's Fury) - Mario Kart World",
+          /////},
+          /////{
+          /////  url: "https://soundcloud.com/infiniteshadowxd444/donkey-kong-bananza-ost-dk-artist-5",
+          /////  answer: "DK Artist (Simian Segue / Bonus Room Blitz) - Donkey Kong Bananza",
+          /////},
+          /////{
+          /////  url: "https://soundcloud.com/infiniteshadowxd444/donkey-kong-bananza-ost-ingot-isle-cave-in-6",
+          /////  answer: "Ingot Isle Cave In - Donkey Kong Bananza",
+          /////},
+          /////{
+          /////  url: "https://soundcloud.com/infiniteshadowxd444/donkey-kong-bananza-ost-lagoon-layer-7",
+          /////  answer: "Lagoon Layer - Donkey Kong Bananza",
+          /////},
+          /////{
+          /////  url: "https://soundcloud.com/infiniteshadowxd444/donkey-kong-bananza-ost-banandium-refinery-canyon-layer-11",
+          /////  answer: "Canyon Layer: Banandium Refinery - Donkey Kong Bananza",
+          /////},
+          /////{
+          /////  url: "https://soundcloud.com/infiniteshadowxd444/donkey-kong-bananza-ost-cold-colt-crest-freezer-layer-19",
+          /////  answer: "Freezer Later: Cold Colt Crest - Donkey Kong Bananza",
+          /////},
+          /////{
+          /////  url: "https://soundcloud.com/infiniteshadowxd444/donkey-kong-bananza-ost-mossplume-marsh-forest-layer-25",
+          /////  answer: "Forest Layer: Mossplume Marsh - Donkey Kong Bananza",
+          /////},
+          /////{
+          /////  url: "https://soundcloud.com/infiniteshadow44443/donkey-kong-bananza-ost-hot-shower-cave-tempest-layer-11",
+          /////  answer: "Tempest Layer: Hot Shower Cave - Donkey Kong Bananza",
+          /////},
+          /////{
+          /////  url: "https://soundcloud.com/infiniteshadow44443/donkey-kong-bananza-ost-darkness-radiance-layer-13",
+          /////  answer: "Radiance Layer: Darkness - Donkey Kong Bananza",
+          /////},
+          /////{
+          /////  url: "https://soundcloud.com/infiniteshadow44443/donkey-kong-bananza-ost-hiss-hiss-oasis-radiance-layer-18",
+          /////  answer: "Radiance Layer: Hiss Hiss Oasis - Donkey Kong Bananza",
+          /////},
+          /////{
+          /////  url: "https://soundcloud.com/infiniteshadow44443/donkey-kong-bananza-ost-second-half-planet-core-12",
+          /////  answer: "Planet Core: Second Half - Donkey Kong Bananza",
+          /////},
+          /////{
+          /////  url: "https://soundcloud.com/infiniteshadow2334/banandium-root-tower-gangplank-galleon-16",
+          /////  answer: "Banandium Root Tower (Gang Plank Galleon) - Donkey Kong Bananza",
+          /////},
+          /////{
+          /////  url: "https://soundcloud.com/infiniteshadow44443/donkey-kong-bananza-ost-new-donk-city-10",
+          /////  answer: "New Donk City - Donkey Kong Bananza",
+          /////},
+          /////{
+          /////  url: "https://soundcloud.com/infiniteshadow2334/kong-bananza-4",
+          /////  answer: "Kong Bananza - Donkey Kong Bananza",
+          /////},
+          /////{
+          /////  url: "https://soundcloud.com/infiniteshadow23356/donkey-kong-bananza-ost-zebra-bananza-12",
+          /////  answer: "Zebra Bananza - Donkey Kong Bananza",
+          /////},
+          /////{
+          /////  url: "https://soundcloud.com/infiniteshadow23356/donkey-kong-bananza-ost-ostrich-bananza-9",
+          /////  answer: "Ostrich Bananza - Donkey Kong Bananza",
+          /////},
+          /////{
+          /////  url: "https://soundcloud.com/infiniteshadow23356/donkey-kong-bananza-ost-poppy-kong-battle-7",
+          /////  answer: "Poppy Kong Battle - Donkey Kong Bananza",
+          /////},
+          /////{
+          /////  url: "https://soundcloud.com/infiniteshadow23356/donkey-kong-bananza-ost-dk-island-swing-jungle-hijinx-25",
+          /////  answer: "2D Challenge Course #1 (DK Island Swing) - Donkey Kong Bananza",
+          /////},
+          /////{
+          /////  url: "https://soundcloud.com/infiniteshadow23356/donkey-kong-bananza-ost-stickerbrush-symphony-22",
+          /////  answer: "2D Challenge Course #2 (Stickerbush Symphony) - Donkey Kong Bananza",
+          /////},
+          /////{
+          /////  url: "https://soundcloud.com/infiniteshadow23356/donkey-kong-bananza-ost-mine-kart-madness-24",
+          /////  answer: "2D Challenge Course #3 (Mine Cart Madness) - Donkey Kong Bananza",
+          /////},
+          /////{
+          /////  url: "https://soundcloud.com/infiniteshadowx766/donkey-kong-bananza-ost-breaking-through-heart-of-gold",
+          /////  answer: "Breaking Through (Heart Of Gold) [Staff Roll] - Donkey Kong Bananza",
+          /////},
   ];
   shuffleMusic();
   var firstLoad = true;
