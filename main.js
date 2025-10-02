@@ -11063,11 +11063,11 @@ var app = (function () {
           },
           {
             url: "https://soundcloud.com/superninjigalaxy/good-night-super-mario-galaxy-for-nintendo-switch",
-            answer: "Good Night - Super Mario Galaxy For Nintendo Switch",
+            answer: "Good Night (Galaxy 1) - Super Mario Galaxy + Super Mario Galaxy 2 For Nintendo Switch (2025)",
           },
           {
             url: "https://soundcloud.com/superninjigalaxy/special-someone-super-mario-galaxy-2-for-nintendo-switch",
-            answer: "Special Someone - Super Mario Galaxy 2 For Nintendo Switch",
+            answer: "Special Someone (Galaxy 2) - Super Mario Galaxy + Super Mario Galaxy 2 For Nintendo Switch (2025)",
           },
   ];
   shuffleMusic();
