@@ -657,7 +657,7 @@ var app = (function () {
     "Hooktail Castle - Paper Mario: The Thousand-Year Door (GameCube)",
     "Pit Of 100 Trials - Paper Mario: The Thousand-Year Door (GameCube)",
     "Battle ~ Shadow Sirens - Paper Mario: The Thousand-Year Door (GameCube)",
-    "Super Bowser Bros. ~ World 1 - Paper Mario: The Thousand-Year Door (GameCube)",
+    "Super Bowser Bros. ~ Ground - Paper Mario: The Thousand-Year Door (GameCube)",
     "Super Luigi - Paper Mario: The Thousand-Year Door (GameCube)",
     "Boggly Woods - Paper Mario: The Thousand-Year Door (GameCube)",
     "The Great Tree - Paper Mario: The Thousand-Year Door (GameCube)",
@@ -674,7 +674,7 @@ var app = (function () {
     "Excess Express (Night) - Paper Mario: The Thousand-Year Door (GameCube)",
     "Riverside Station - Paper Mario: The Thousand-Year Door (GameCube)",
     "Poshley Heights - Paper Mario: The Thousand-Year Door (GameCube)",
-    "Super Bowser Bros. ~ World 3 - Paper Mario: The Thousand-Year Door (GameCube)",
+    "Super Bowser Bros. ~ Castle - Paper Mario: The Thousand-Year Door (GameCube)",
     "X-Naut Fortress - Paper Mario: The Thousand-Year Door (GameCube)",
     "Battle ~ Shadow Queen - Paper Mario: The Thousand-Year Door (GameCube)",
     "Supportive Voices From Afar - Paper Mario: The Thousand-Year Door (GameCube)",
@@ -4835,7 +4835,7 @@ var app = (function () {
           },
           {
             url: "https://soundcloud.com/papergirl3/super-koopa-bros-world-1-paper",
-            answer: "Super Bowser Bros. ~ World 1 - Paper Mario: The Thousand-Year Door (GameCube)",
+            answer: "Super Bowser Bros. ~ Ground - Paper Mario: The Thousand-Year Door (GameCube)",
           },
           {
             url: "https://soundcloud.com/papergirl2/luigis-theme-paper-mario-the",
@@ -4895,7 +4895,7 @@ var app = (function () {
           },
           {
             url: "https://soundcloud.com/papergirl3/riverside-station-paper-mario",
-            answer: "Riverside Station - Paper Mario: The Thousand-Year Door (GameCube)",
+            answer: "Riverside Station Platform - Paper Mario: The Thousand-Year Door (GameCube)",
           },
           {
             url: "https://soundcloud.com/papergirl3/poshley-heights-paper-mario",
@@ -4903,7 +4903,7 @@ var app = (function () {
           },
           {
             url: "https://soundcloud.com/papergirl3/super-koopa-bros-world-3-paper",
-            answer: "Super Bowser Bros. ~ World 3 - Paper Mario: The Thousand-Year Door (GameCube)",
+            answer: "Super Bowser Bros. ~ Castle - Paper Mario: The Thousand-Year Door (GameCube)",
           },
           {
             url: "https://soundcloud.com/papergirl3/x-naut-fortress-paper-mario",
@@ -10599,7 +10599,7 @@ var app = (function () {
           },
           {
             url: "https://soundcloud.com/jio-ti/x-nauts-fortress-paper-mario-the-thousand-year-door-remake-ost",
-            answer: "X-Naut Fortress - Paper Mario: The Thousand-Year Door (Switch)",
+            answer: "X-Naut Fortress ~ First Floor - Paper Mario: The Thousand-Year Door (Switch)",
           },
           {
             url: "https://soundcloud.com/jio-ti/battle-shadow-queen-switch",
