@@ -948,7 +948,7 @@ var app = (function () {
     "Feelin' Cyber (Ion The Prize, Mario Matrix, etc) - Mario Party 8",
     "Happy Go Lucky (At The Chomp Wash, Crank To Rank, etc) - Mario Party 8",
     "It's A Dead Heat (Alpine Assault, Cosmic Slalom, etc) - Mario Party 8",
-    "Friendly Competition (Paint Misbehavin', Suger Rush, etc) - Mario Party 8",
+    "Friendly Competition (Paint Misbehavin', Sugar Rush, etc) - Mario Party 8",
     "DK Jungle - Donkey Kong Barrel Blast",
     "Cosmic Highway - Donkey Kong Barrel Blast",
     "Mt. Dynamite - Donkey Kong Barrel Blast",
