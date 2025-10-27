@@ -943,7 +943,7 @@ let _metadata = createMetadata({
       "Feelin' Cyber (Ion The Prize, Mario Matrix, etc) - Mario Party 8": [2007, "Wii", "Mario Party", "Mario Party 8", "Minigame Compilation", "Mario"],
       "Happy Go Lucky (At The Chomp Wash, Crank To Rank, etc) - Mario Party 8": [2007, "Wii", "Mario Party", "Mario Party 8", "Minigame Compilation", "Mario"],
       "It's A Dead Heat (Alpine Assault, Cosmic Slalom, etc) - Mario Party 8": [2007, "Wii", "Mario Party", "Mario Party 8", "Minigame Compilation", "Mario"],
-      "Friendly Competition (Paint Misbehavin', Suger Rush, etc) - Mario Party 8": [2007, "Wii", "Mario Party", "Mario Party 8", "Minigame Compilation", "Mario"],
+      "Friendly Competition (Paint Misbehavin', Sugar Rush, etc) - Mario Party 8": [2007, "Wii", "Mario Party", "Mario Party 8", "Minigame Compilation", "Mario"],
       "DK Jungle - Donkey Kong Barrel Blast": [2007, "Wii", "Donkey Kong (Misc)", "Donkey Kong Barrel Blast", "Racing", "Donkey Kong"],
       "Cosmic Highway - Donkey Kong Barrel Blast": [2007, "Wii", "Donkey Kong (Misc)", "Donkey Kong Barrel Blast", "Racing", "Donkey Kong"],
       "Mt. Dynamite - Donkey Kong Barrel Blast": [2007, "Wii", "Donkey Kong (Misc)", "Donkey Kong Barrel Blast", "Racing", "Donkey Kong"],
