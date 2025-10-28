@@ -8830,7 +8830,7 @@ var app = (function () {
             answer: "Blissful Beach - Paper Mario: Color Splash",
           },
           {
-            url: "https://soundcloud.com/kirb-nep-adventure-rst02/the-circus-ringmaster-lemmy-battle-paper-mario-color-splash-2016",
+            url: "https://soundcloud.com/kirby-nep-adventure-rst1/a-boy-and-his-battleship-ludwig-battle-paper-mario-color-splash-2016",
             answer: "Battle With Ludwig - Paper Mario: Color Splash",
           },
           {
@@ -8858,7 +8858,7 @@ var app = (function () {
             answer: "Toad Trainworks - Paper Mario: Color Splash",
           },
           {
-            url: "https://soundcloud.com/kirby-nep-adventure-rst1/a-boy-and-his-battleship-ludwig-battle-paper-mario-color-splash-2016",
+            url: "https://soundcloud.com/kirb-nep-adventure-rst02/the-circus-ringmaster-lemmy-battle-paper-mario-color-splash-2016",
             answer: "Lemmy's Grand Finale - Paper Mario: Color Splash",
           },
           {
