@@ -411,7 +411,7 @@ var app = (function () {
     "This Way That (Quicksand Cache, Filet Relay, etc) - Mario Party 2",
     "Staff Roll - Mario Party 2",
     "Title Screen / Staff Roll - Mario Artist: Talent Studio",
-    "BGM 1 (So Kawaii!)  - Mario Artist: Talent Studio",
+    "BGM 1 (So Kawaii!) - Mario Artist: Talent Studio",
     "Po Pi Pa Pi (BGM 2) - Mario Artist: Talent Studio",
     "World Map (Day) - Wario Land 3",
     "Out Of The Woods (Day) - Wario Land 3",
