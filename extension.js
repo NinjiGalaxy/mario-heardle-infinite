@@ -45,7 +45,7 @@ let _metadata = createMetadata({
       "Muda Kingdom - Super Mario Land": [1989, "Game Boy", "Super Mario", "Super Mario Land", "2D Platformer", "Mario"],
       "Chai Kingdom - Super Mario Land": [1989, "Game Boy", "Super Mario", "Super Mario Land", "2D Platformer", "Mario"],
       "Easton Kingdom - Super Mario Land": [1989, "Game Boy", "Super Mario", "Super Mario Land", "2D Platformer", "Mario"],
-      "Marine Pop Sky Pop! - Super Mario Land": [1989, "Game Boy", "Super Mario", "Super Mario Land", "2D Platformer", "Mario"],
+      "Marine Pop, Sky Pop! - Super Mario Land": [1989, "Game Boy", "Super Mario", "Super Mario Land", "2D Platformer", "Mario"],
       "Ending & Staff Roll - Super Mario Land": [1989, "Game Boy", "Super Mario", "Super Mario Land", "2D Platformer", "Mario"],
       "Mario Brothers Rap - The Super Mario Bros. Super Show": [1989, "Film/TV", "Super Mario", "The Super Mario Bros. Super Show", "Film/TV", "Mario"],
       "Do The Mario! - The Super Mario Bros. Super Show": [1989, "Film/TV", "Super Mario", "The Super Mario Bros. Super Show", "Film/TV", "Mario"],
