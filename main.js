@@ -15151,7 +15151,7 @@ var app = (function () {
       c() {
         (n = w("div")),
           (n.innerHTML =
-            '<p class="mb-3">Mario Heardle Infinite is a version of Mario Heardle that has no daily limit and selects songs randomly so you can play as long as you want.</p> <p class="mb-3">Volume Slider and Scroll Bar code by <a href="https://github.com/morgvanny">morgvanny</a>.</p> <p class="mb-3">Metadata code by <a href="https://www.fiverr.com/gema_designer">gema_designer</a>.</p>\n\n<p class="mb-3">The full list of songs is available <a href="https://docs.google.com/spreadsheets/d/12vCtRU4cKzgTZk60kVveHRxQvdC2u0yS5pEISWeDlZo/edit#gid=0">here.</a> </p> \n\n<p class="mb-3"> If you have any technical issues, you can contact me @NinjiGalaxy on Bluesky, or by commenting on the previously linked Google Sheet. </p>'),
+            '<p class="mb-3">Mario Heardle Infinite is a version of Mario Heardle that has no daily limit and selects songs randomly so you can play as long as you want.</p> <p class="mb-3">Volume Slider and Scroll Bar code by <a href="https://github.com/morgvanny">morgvanny</a>.</p> <p class="mb-3">Metadata code by <a href="https://www.fiverr.com/gema_designer">gema_designer</a>.</p>\n\n<p class="mb-3">The full list of songs is available <a href="https://docs.google.com/spreadsheets/d/12vCtRU4cKzgTZk60kVveHRxQvdC2u0yS5pEISWeDlZo/edit#gid=0">here.</a> </p> \n\n<p class="mb-3"> If you have any technical issues, you can contact me @amity-galaxy on Bluesky, or by commenting on the previously linked Google Sheet. </p>'),
           M(n, "class", "text");
       },
       m(e, t) {
@@ -15432,7 +15432,7 @@ var app = (function () {
             (n.innerHTML =
               "Have questions/run into bugs? Tweet/DM me @" +
               twitter +
-              " on Discord or Bluesky."),
+              " on Bluesky or comment on the song list Google Sheet (link available through the top left button)."),
             (r = x()),
             (s = w("p")),
             (i = x()),
