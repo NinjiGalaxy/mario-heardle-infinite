@@ -1,6 +1,6 @@
 var app = (function () {
   var artist = "Mario";
-  var twitter = "NinjiGalaxy";
+  var twitter = "amity-galaxy";
   var currentIndex = 0;
   var zipUrl = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"; //the infinite heardle template doesn't work unless there's a valid url here. if you choose to click this it's on you.
 
@@ -3551,7 +3551,7 @@ var app = (function () {
           },
           {
             url: "https://soundcloud.com/user-980511460/yoshis-story-ost-alpina-blue",
-            answer: "Alpina Blue - Yoshi's Story",
+            answer: "Alpine Yoshi Music - Yoshi's Story",
           },
           {
             url: "https://soundcloud.com/spooky-candy/yoshis-story-baby-bowsers-lullaby",
