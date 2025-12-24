@@ -50,7 +50,7 @@ var app = (function () {
     "Muda Kingdom - Super Mario Land",
     "Chai Kingdom - Super Mario Land",
     "Easton Kingdom - Super Mario Land",
-    "Marine Pop, Sky Pop! - Super Mario Land",
+    "Shooting Area - Super Mario Land",
     "Ending & Staff Roll - Super Mario Land",
     "Mario Brothers Rap - The Super Mario Bros. Super Show",
     "Do The Mario! - The Super Mario Bros. Super Show",
@@ -1786,8 +1786,8 @@ var app = (function () {
     "Battle! (Bowser Jr.'s Journey) - Mario & Luigi: Bowser's Inside Story + Bowser Jr.'s Journey",
     "Staff Roll - New Super Mario Bros. U Deluxe",
     "Main Theme - Yoshi's Crafted World",
-    "Water/Space Level - Yoshi's Crafted World",
-    "Hidden Hills - Yoshi's Crafted World",
+    "A Teeny, Tiny Universe (Space) - Yoshi's Crafted World",
+    "Round And Round (Hidden Hills) - Yoshi's Crafted World",
     "Title Screen - Super Mario Maker 2",
     "Desert [Super Mario Bros.] - Super Mario Maker 2",
     "Snow [Super Mario Bros.] - Super Mario Maker 2",
@@ -2407,7 +2407,7 @@ var app = (function () {
           },
           {
             url: "https://soundcloud.com/dmg8bit/game-boy-super-mario-land-1-11-marine-pop-sky-pop",
-            answer: "Marine Pop, Sky Pop! - Super Mario Land",
+            answer: "Shooting Area - Super Mario Land",
           },
           {
             url: "https://soundcloud.com/dmg8bit/game-boy-super-mario-land-1-18-rocket-ship-ride",
@@ -9351,11 +9351,11 @@ var app = (function () {
           },
           {
             url: "https://soundcloud.com/yoshiheardle/water-space-level-yoshis-crafted-world",
-            answer: "Water/Space Level - Yoshi's Crafted World",
+            answer: "A Teeny, Tiny Universe (Space) - Yoshi's Crafted World",
           },
           {
             url: "https://soundcloud.com/kirby-comix/special-area-yoshis-crafted",
-            answer: "Hidden Hills - Yoshi's Crafted World",
+            answer: "Round And Round (Hidden Hills) - Yoshi's Crafted World",
           },
           {
             url: "https://soundcloud.com/marshyyyyy/title-super-mario-maker-2",
