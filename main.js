@@ -10667,63 +10667,63 @@ var app = (function () {
           },
           {
             url: "https://soundcloud.com/anime404/mario-luigi-brothership-battle-theme",
-            answer: "Battle - Mario & Luigi: Brothership",
+            answer: "Attack Combos! (Battle) - Mario & Luigi: Brothership",
           },
           {
             url: "https://soundcloud.com/anime404/mario-luigi-brothership-music-shipshape-island",
-            answer: "Shipshape Island - Mario & Luigi: Brothership",
+            answer: "Connie And Shipshape Island - Mario & Luigi: Brothership",
           },
           {
             url: "https://soundcloud.com/anime404/mario-luigi-brothership-mini-boss-battle",
-            answer: "Mid Boss Battle - Mario & Luigi: Brothership",
+            answer: "A Battle Of Logic (Mid Boss) - Mario & Luigi: Brothership",
           },
           {
             url: "https://soundcloud.com/anime404/mario-luigi-brothership-twistee-island",
-            answer: "Twistee Island - Mario & Luigi: Brothership",
+            answer: "Twistee Island Twist - Mario & Luigi: Brothership",
           },
           {
             url: "https://soundcloud.com/anime404/mario-luigi-brothership-great-lighthouse-boss-battle",
-            answer: "Boss Battle - Mario & Luigi: Brothership",
+            answer: "Full Power Battle Groove! (Boss Battle) - Mario & Luigi: Brothership",
           },
           {
             url: "https://soundcloud.com/anime404/mario-luigi-brothership-florall-island",
-            answer: "Florall Island - Mario & Luigi: Brothership",
+            answer: "The Gentle Breeze Of Florall Island - Mario & Luigi: Brothership",
           },
           {
             url: "https://soundcloud.com/anime404/mario-luigi-brothership-desolatt-island",
-            answer: "Desolatt Island - Mario & Luigi: Brothership",
+            answer: "The Monster Bird Of Desolatt Island - Mario & Luigi: Brothership",
           },
           {
             url: "https://soundcloud.com/silly-person-52110284/58-allsand-island",
-            answer: "Allsand Island - Mario & Luigi: Brothership",
+            answer: "The Sharkbones Of Allsand Island - Mario & Luigi: Brothership",
           },
           {
             url: "https://soundcloud.com/silly-person-52110284/64-heatfreeze-island",
-            answer: "Heatfreeze Island - Mario & Luigi: Brothership",
+            answer: "Heatfreeze Island's Fire And Ice - Mario & Luigi: Brothership",
           },
           {
             url: "https://soundcloud.com/silly-person-52110284/66-slippenglide-island",
-            answer: "Slippenglide Island - Mario & Luigi: Brothership",
+            answer: "Slippenglide Island, Where Puns Are Colder Than The Weather - Mario & Luigi: Brothership",
           },
           {
             url: "https://soundcloud.com/silly-person-52110284/74-wayaway-island-bowsers",
-            answer: "Wayaway Island (Super Mario Bros. 3 ~ Fortress) - Mario & Luigi: Brothership",
+            answer: "Bowser's Castle On Wayaway Island (Super Mario Bros. 3 ~ Fortress) - Mario & Luigi: Brothership",
           },
           {
             url: "https://soundcloud.com/silly-person-52110284/80-jellyfish-island",
-            answer: "Jellyfish Island - Mario & Luigi: Brothership",
+            answer: "Jellyfish Island Vibes - Mario & Luigi: Brothership",
           },
           {
             url: "https://soundcloud.com/silly-person-52110284/96-glohmed-concordia",
-            answer: "Glohmen Concordia - Mario & Luigi: Brothership",
+            answer: "Reclusa World - Mario & Luigi: Brothership",
           },
           {
             url: "https://soundcloud.com/silly-person-52110284/111-final-battle-phase-3",
-            answer: "Final Battle ~ Phase 3 - Mario & Luigi: Brothership",
+            answer: "The Final Phase - Mario & Luigi: Brothership",
           },
           {
             url: "https://soundcloud.com/superninjigalaxy/staff-credits-mario-luigi-brothership",
-            answer: "Staff Roll - Mario & Luigi: Brothership",
+            answer: "The World Is Connected! (Staff Roll) - Mario & Luigi: Brothership",
           },
           {
             url: "https://soundcloud.com/lost-stray-6/title-theme-mario-kart-world-ost-clean-6",
