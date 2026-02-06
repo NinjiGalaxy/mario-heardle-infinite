@@ -729,7 +729,7 @@ var app = (function () {
     "Title Screen - DK: King Of Swing",
     "World 1 (Simian Segue) - DK: King Of Swing",
     "Banana Bungalow - DK: King Of Swing",
-    "Main Menu - Dance Dance Revolution Mario Mix",
+    "Main Menu - Dance Dance Revolution: Mario Mix",
     "Here We Go! (Super Mario Bros. ~ Ground) - Dance Dance Revolution: Mario Mix",
     "Destruction Dance (Wrecking Crew ~ Bonus Stage) - Dance Dance Revolution: Mario Mix",
     "Jump! Jump! Jump! (Super Mario Bros. 3 ~ Athletic) - Dance Dance Revolution: Mario Mix",
@@ -5123,7 +5123,7 @@ var app = (function () {
           },
           {
             url: "https://soundcloud.com/mario-heardle/menu-dance-dance-revolution-mario-mix",
-            answer: "Main Menu - Dance Dance Revolution Mario Mix",
+            answer: "Main Menu - Dance Dance Revolution: Mario Mix",
           },
           {
             url: "https://soundcloud.com/kereta-simit/here-we-go",
@@ -6206,7 +6206,7 @@ var app = (function () {
             answer: "Family - Super Mario Galaxy",
           },
           {
-            url: "https://soundcloud.com/superninjigalaxy-2/bouncing-around-mario-party-ds",
+            url: "https://soundcloud.com/superninjigalaxy-2/grand-opening-mario-party-ds",
             answer: "Title Screen - Mario Party DS",
           },
           {
