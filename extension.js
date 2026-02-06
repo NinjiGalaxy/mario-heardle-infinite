@@ -724,7 +724,7 @@ let _metadata = createMetadata({
       "Title Screen - DK: King Of Swing": [2005, "GBA", "Donkey Kong (Misc)", "DK: King Of Swing", "Puzzle", "Donkey Kong"],
       "World 1 (Simian Segue) - DK: King Of Swing": [2005, "GBA", "Donkey Kong (Misc)", "DK: King Of Swing", "Puzzle", "Donkey Kong"],
       "Banana Bungalow - DK: King Of Swing": [2005, "GBA", "Donkey Kong (Misc)", "DK: King Of Swing", "Puzzle", "Donkey Kong"],
-      "Main Menu - Dance Dance Revolution Mario Mix": [2005, "GameCube", "Mario Misc", "Dance Dance Revolution: Mario Mix", "Other", "Mario"],
+      "Main Menu - Dance Dance Revolution:: Mario Mix": [2005, "GameCube", "Mario Misc", "Dance Dance Revolution: Mario Mix", "Other", "Mario"],
       "Here We Go! (Super Mario Bros. ~ Ground) - Dance Dance Revolution: Mario Mix": [2005, "GameCube", "Mario Misc", "Dance Dance Revolution: Mario Mix", "Other", "Mario"],
       "Destruction Dance (Wrecking Crew ~ Bonus Stage) - Dance Dance Revolution: Mario Mix": [2005, "GameCube", "Mario Misc", "Dance Dance Revolution: Mario Mix", "Other", "Mario"],
       "Jump! Jump! Jump! (Super Mario Bros. 3 ~ Athletic) - Dance Dance Revolution: Mario Mix": [2005, "GameCube", "Mario Misc", "Dance Dance Revolution: Mario Mix", "Other", "Mario"],
