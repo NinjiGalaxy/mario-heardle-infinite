@@ -3698,23 +3698,23 @@ var app = (function () {
             answer: "Staff Roll - Super Mario Bros. Deluxe",
           },
           {
-            url: "https://soundcloud.com/superninjigalaxy/main-menu-mario-golf-n64",
+            url: "https://soundcloud.com/infiniteshadowx766/16-main-menu",
             answer: "Main Menu - Mario Golf (N64)",
           },
           {
-            url: "https://soundcloud.com/superninjigalaxy/mini-golf-mario-golf-n64",
+            url: "https://soundcloud.com/infiniteshadowx766/21-mini-golf",
             answer: "Mini Golf - Mario Golf (N64)",
           },
           {
-            url: "https://soundcloud.com/zane-maserati/mario-golf-64-music-toad",
+            url: "https://soundcloud.com/infiniteshadowx766/40-toad-highlands",
             answer: "Toad Highlands - Mario Golf (N64)",
           },
           {
-            url: "https://soundcloud.com/superninjigalaxy/koopa-park-mario-golf-n64",
+            url: "https://soundcloud.com/infiniteshadowx766/14-koopa-park",
             answer: "Koopa Park - Mario Golf (N64)",
           },
           {
-            url: "https://soundcloud.com/superninjigalaxy/boo-valley-mario-golf-n64",
+            url: "https://soundcloud.com/infiniteshadowx766/05-boo-valley",
             answer: "Boo Valley - Mario Golf (N64)",
           },
           {
@@ -9350,7 +9350,7 @@ var app = (function () {
             answer: "Main Theme - Yoshi's Crafted World",
           },
           {
-            url: "https://soundcloud.com/yoshiheardle/water-space-level-yoshis-crafted-world",
+            url: "https://soundcloud.com/user-909188247/space-yoshis-crafted-world-soundtrack",
             answer: "A Teeny, Tiny Universe (Space) - Yoshi's Crafted World",
           },
           {
