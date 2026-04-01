@@ -2315,11 +2315,12 @@ var app = (function () {
   	//F//"Hungry! Yoshi Attractions - Meetup In Bellabel Park",
   	//F//"Together! Co Op Attractions - Meetup In Bellabel Park",
   	//F//"Staff Roll - Meetup In Bellabel Park",
-  	//F//"TBD - The Super Mario Galaxy Movie",
-  	//F//"TBD - The Super Mario Galaxy Movie",
-  	//F//"TBD - The Super Mario Galaxy Movie",
-  	//F//"TBD - The Super Mario Galaxy Movie",
-  	//F//"TBD - The Super Mario Galaxy Movie",
+  	//F//"Cool Motorcycle Guys - The Super Mario Galaxy Movie",
+  	//F//"Star Shower - The Super Mario Galaxy Movie",
+  	//F//"Taking Care Of The Kingdom Isn't Easy - The Super Mario Galaxy Movie",
+  	//F//"The Flight Deck - The Super Mario Galaxy Movie",
+  	//F//"Assault On Planet Bowser - The Super Mario Galaxy Movie",
+	//F//"1up (Credits) - The Super Mario Galaxy Movie",
   ];
     // Bug : Sometimes musics stops appearing in suggestions, it seems that musics dissapears at the end of the array
     // Adding empty string makes them unfindable and prevent this bug
@@ -11569,24 +11570,28 @@ var app = (function () {
             //F//answer: "Staff Roll - Meetup In Bellabel Park",
           //F//},
           //F//{
-            //F//url: "https://soundcloud.com/yoshiheardle/galaxymovie/placeholder",
-            //F//answer: "TBD - The Super Mario Galaxy Movie",
+            //F//url: "https://soundcloud.com/briantyler/cool-motorcycle-guys",
+            //F//answer: "Cool Motorcycle Guys - The Super Mario Galaxy Movie",
           //F//},
           //F//{
-            //F//url: "https://soundcloud.com/yoshiheardle/galaxymovie/placeholder",
-            //F//answer: "TBD - The Super Mario Galaxy Movie",
+            //F//url: "https://soundcloud.com/briantyler/star-shower",
+            //F//answer: "Star Shower - The Super Mario Galaxy Movie",
           //F//},
           //F//{
-            //F//url: "https://soundcloud.com/yoshiheardle/galaxymovie/placeholder",
-            //F//answer: "TBD - The Super Mario Galaxy Movie",
+            //F//url: "https://soundcloud.com/briantyler/taking-care-of-the-kingdom",
+            //F//answer: "Taking Care Of The Kingdom Isn't Easy - The Super Mario Galaxy Movie",
           //F//},
           //F//{
-            //F//url: "https://soundcloud.com/yoshiheardle/galaxymovie/placeholder",
-            //F//answer: "TBD - The Super Mario Galaxy Movie",
+            //F//url: "https://soundcloud.com/briantyler/the-flight-deck",
+            //F//answer: "The Flight Deck - The Super Mario Galaxy Movie",
           //F//},
           //F//{
-            //F//url: "https://soundcloud.com/yoshiheardle/galaxymovie/placeholder",
-            //F//answer: "TBD - The Super Mario Galaxy Movie",
+            //F//url: "https://soundcloud.com/briantyler/assault-on-planet-bowser",
+            //F//answer: "Assault On Planet Bowser - The Super Mario Galaxy Movie",
+          //F//},
+	  	  //F//{
+            //F//url: "https://soundcloud.com/briantyler/1up",
+            //F//answer: "1up (Credits) - The Super Mario Galaxy Movie",
           //F//},
 
   ];
