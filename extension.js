@@ -2310,11 +2310,12 @@ let _metadata = createMetadata({
 	  //F//"Hungry! Yoshi Attractions - Meetup In Bellabel Park": [2026, "Switch 2", "Super Mario", "Meetup In Bellabel Park", "2D Platformer", "Mario"],
 	  //F//"Together! Co Op Attractions - Meetup In Bellabel Park": [2026, "Switch 2", "Super Mario", "Meetup In Bellabel Park", "2D Platformer", "Mario"],
 	  //F//"Staff Roll - Meetup In Bellabel Park": [2026, "Switch 2", "Super Mario", "Meetup In Bellabel Park", "2D Platformer", "Mario"],
-	  //F//"TBD - The Super Mario Galaxy Movie": [2026, "Film / TV", "Super Mario", "The Super Mario Galaxy Movie", "Film / TV", "Mario"],
-	  //F//"TBD - The Super Mario Galaxy Movie": [2026, "Film / TV", "Super Mario", "The Super Mario Galaxy Movie", "Film / TV", "Mario"],
-	  //F//"TBD - The Super Mario Galaxy Movie": [2026, "Film / TV", "Super Mario", "The Super Mario Galaxy Movie", "Film / TV", "Mario"],
-	  //F//"TBD - The Super Mario Galaxy Movie": [2026, "Film / TV", "Super Mario", "The Super Mario Galaxy Movie", "Film / TV", "Mario"],
-	  //F//"TBD - The Super Mario Galaxy Movie": [2026, "Film / TV", "Super Mario", "The Super Mario Galaxy Movie", "Film / TV", "Mario"],
+	  //F//"Cool Motorcycle Guys - The Super Mario Galaxy Movie": [2026, "Film / TV", "Super Mario", "The Super Mario Galaxy Movie", "Film / TV", "Mario"],
+	  //F//"Star Shower - The Super Mario Galaxy Movie": [2026, "Film / TV", "Super Mario", "The Super Mario Galaxy Movie", "Film / TV", "Mario"],
+	  //F//"Taking Care Of The Kingdom Isn't Easy - The Super Mario Galaxy Movie": [2026, "Film / TV", "Super Mario", "The Super Mario Galaxy Movie", "Film / TV", "Mario"],
+	  //F//"The Flight Deck - The Super Mario Galaxy Movie": [2026, "Film / TV", "Super Mario", "The Super Mario Galaxy Movie", "Film / TV", "Mario"],
+	  //F//"Assault On Planet Bowser - The Super Mario Galaxy Movie": [2026, "Film / TV", "Super Mario", "The Super Mario Galaxy Movie", "Film / TV", "Mario"],
+	  //F//"1up (Credits) - The Super Mario Galaxy Movie": [2026, "Film / TV", "Super Mario", "The Super Mario Galaxy Movie", "Film / TV", "Mario"],
 })
 
 function createMetadata(mtd) {
