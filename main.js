@@ -597,7 +597,7 @@ var app = (function () {
     "Fire Attack - Game & Watch Gallery 4",
     "Action Type C - Yoshi's Cookie (Nintendo Puzzle Collection)",
     "Main Menu - WarioWare, Inc.: Mega Microgame$!",
-    "Drifting Away - WarioWare, Inc.: Mega Microgame$!",
+    "Drifting Away (Dribble & Spitz) - WarioWare, Inc.: Mega Microgame$!",
     "Four Seasons (Kat & Ana) - WarioWare, Inc.: Mega Microgame$!",
     "Paper Plane - WarioWare, Inc.: Mega Microgame$!",
     "Pyoro - WarioWare, Inc.: Mega Microgame$!",
