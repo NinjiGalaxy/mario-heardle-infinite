@@ -477,7 +477,6 @@ var app = (function () {
     "Freeze! - Paper Mario (N64)",
     "Shooting Star Summit - Paper Mario (N64)",
     "Cloudy Climb - Paper Mario (N64)",
-    //F//"Bowser's Rage - Paper Mario (N64)",
     "Wish Of The Princess - Paper Mario (N64)",
     "King Of The Koopas - Paper Mario (N64)",
     "Victory Parade (Staff Roll) - Paper Mario (N64)",
@@ -2302,6 +2301,7 @@ var app = (function () {
     "Breaking Through (Heart Of Gold) [Staff Roll] - Donkey Kong Bananza",
     //F//"Pop Your Color - Jamboree TV",
     //F//"Bowser Beats - Jamboree TV",
+	//F//"Ground (Super Mario Bros.) - Hello, Mario! / Hello, Yoshi!",
     //F//"DK Island (Daytime) - DK Island + Emerald Rush",
     //F//"Emerald Rush #4 / Staff Roll - DK Island + Emerald Rush",
     "Good Night (Galaxy 1) - Super Mario Galaxy + Super Mario Galaxy 2 For Nintendo Switch (2025)",
@@ -4217,10 +4217,6 @@ var app = (function () {
             url: "https://soundcloud.com/iruy-otudser/cloudy-climb-paper-mario-2000",
             answer: "Cloudy Climb - Paper Mario (N64)",
           },
-          //F//{
-            //F//url: "https://soundcloud.com/civ-nohp/bowsers-rage-paper-mario-2000",
-            //F//answer: "Bowser's Rage - Paper Mario (N64)",
-          //F//},
           {
             url: "https://soundcloud.com/civ-nohp/wish-of-the-princess-paper-mario-2000",
             answer: "Wish Of The Princess - Paper Mario (N64)",
@@ -11516,6 +11512,10 @@ var app = (function () {
           //F//{
             //F//url: "https://soundcloud.com/yoshiheardle/bowser-beats-jamboree-tv",
             //F//answer: "Bowser Beats - Jamboree TV",
+          //F//},
+	  	  //F//{
+            //F//url: "https://soundcloud.com/superninjigalaxy/ground-super-mario-bros-hello",
+            //F//answer: "Ground (Super Mario Bros.) - Hello, Mario! / Hello, Yoshi!",
           //F//},
           //F//{
             //F//url: "https://soundcloud.com/yoshiheardle/dk-island-daytime",
