@@ -3213,10 +3213,10 @@ var app = (function () {
             url: "https://soundcloud.com/marco-cabrera-486924595/stickerbush-symphony",
             answer: "Stickerbush Symphony - Donkey Kong Country 2: Diddy's Kong Quest",
           },
-          {
-            url: "https://soundcloud.com/dkc11/disco-train",
-            answer: "Disco Train - Donkey Kong Country 2: Diddy's Kong Quest",
-          },
+          //F//{
+            //F//url: "https://soundcloud.com/dkc11/disco-train",
+            //F//answer: "Disco Train - Donkey Kong Country 2: Diddy's Kong Quest",
+          //F?/},
           {
             url: "https://soundcloud.com/user-227502204-594364584/forest-interlude",
             answer: "Forest Interlude - Donkey Kong Country 2: Diddy's Kong Quest",
@@ -3333,10 +3333,10 @@ var app = (function () {
             url: "https://soundcloud.com/user-272592510/super-mario-rpg-legend-of-14",
             answer: "Battling Culex - Super Mario RPG: Legend Of The Seven Stars",
           },
-          {
-            url: "https://soundcloud.com/user-272592510/super-mario-rpg-legend-of-13",
-            answer: "Victory Over Culex - Super Mario RPG: Legend Of The Seven Stars",
-          },
+          //F//{
+            //F//url: "https://soundcloud.com/user-272592510/super-mario-rpg-legend-of-13",
+            //F//answer: "Victory Over Culex - Super Mario RPG: Legend Of The Seven Stars",
+          //F?/},
           {
             url: "https://soundcloud.com/user-272592510/super-mario-rpg-legend-of-10",
             answer: "Let's Get Fluffy! (Nimbus Land) - Super Mario RPG: Legend Of The Seven Stars",
@@ -3349,10 +3349,10 @@ var app = (function () {
             url: "https://soundcloud.com/user-272592510/super-mario-rpg-legend-of-4",
             answer: "The Factory (Weapon World) - Super Mario RPG: Legend Of The Seven Stars",
           },
-          {
-            url: "https://soundcloud.com/user-272592510/super-mario-rpg-legend-of-2",
-            answer: "Battling Smithy's Many Forms - Super Mario RPG: Legend Of The Seven Stars",
-          },
+          //F//{
+            //F//url: "https://soundcloud.com/user-272592510/super-mario-rpg-legend-of-2",
+            //F//answer: "Battling Smithy's Many Forms - Super Mario RPG: Legend Of The Seven Stars",
+          //F?/},
           {
             url: "https://soundcloud.com/mario-heardle/goodbye-geno-super-mario-rpg-legend-of-the-seven-stars",
             answer: "Farewell, Geno - Super Mario RPG: Legend Of The Seven Stars",
@@ -3477,10 +3477,10 @@ var app = (function () {
             url: "https://soundcloud.com/yoshiheardle/thianas-stage-forest-stage",
             answer: "Forest Stage (Poochy) - Tetris Attack (SNES)",
           },
-          {
-            url: "https://soundcloud.com/yoshiheardle/elias-stage-water-stage",
-            answer: "Water Stage (Froggy) - Tetris Attack (SNES)",
-          },
+          //F//{
+            //F//url: "https://soundcloud.com/yoshiheardle/elias-stage-water-stage",
+            //F//answer: "Water Stage (Froggy) - Tetris Attack (SNES)",
+          //F//},
           {
             url: "https://soundcloud.com/yoshiheardle/versus-ending-staff-roll",
             answer: "VS Mode Staff Roll - Tetris Attack (SNES)",
@@ -3757,10 +3757,10 @@ var app = (function () {
             url: "https://soundcloud.com/superninjigalaxy/battling-someone",
             answer: "Battling Someone - Wrecking Crew '98",
           },
-          {
-            url: "https://soundcloud.com/warioland123/down-in-the-cellar",
-            answer: "Down In The Cellar - Wario Land II",
-          },
+          //F//{
+            //F//url: "https://soundcloud.com/warioland123/down-in-the-cellar",
+            //F//answer: "Down In The Cellar - Wario Land II",
+          //F//},
           {
             url: "https://soundcloud.com/warioland123/escape-from-the-woods",
             answer: "Escape From The Woods - Wario Land II",
@@ -7877,10 +7877,10 @@ var app = (function () {
             url: "https://soundcloud.com/hax-766019189/luigis-mansion-dark-moon-gloomy-manor",
             answer: "Gloomy Manor - Luigi's Mansion 2",
           },
-          {
-            url: "https://soundcloud.com/cindyiscool5555/catching-ghosts-luigis-mansion",
-            answer: "Catching Ghosts - Luigi's Mansion 2",
-          },
+          //F//{
+            //F//url: "https://soundcloud.com/cindyiscool5555/catching-ghosts-luigis-mansion",
+            //F//answer: "Catching Ghosts - Luigi's Mansion 2",
+          //F//},
           {
             url: "https://soundcloud.com/hax-766019189/luigis-mansion-dark-moon-evershade-valley",
             answer: "Evershade Valley - Luigi's Mansion 2",
@@ -10341,18 +10341,18 @@ var app = (function () {
             url: "https://soundcloud.com/yokoshimomura-music/uphill-battle",
             answer: "Uphill Battle - Mario + Rabbids: Sparks Of Hope",
           },
-          {
-            url: "https://soundcloud.com/yokoshimomura-music/yearning-to-bloom",
-            answer: "Yearning To Bloom - Mario + Rabbids: Sparks Of Hope",
-          },
+          //F//{
+            //F//url: "https://soundcloud.com/yokoshimomura-music/yearning-to-bloom",
+            //F//answer: "Yearning To Bloom - Mario + Rabbids: Sparks Of Hope",
+          //F//},
           {
             url: "https://soundcloud.com/garethcokerofficial/fight-songs-from-the-flower",
             answer: "Fight Songs From The Flower Planet - Mario + Rabbids: Sparks Of Hope",
           },
-          {
-            url: "https://soundcloud.com/garethcokerofficial/desolate-beauty",
-            answer: "Desolate Beauty - Mario + Rabbids: Sparks Of Hope",
-          },
+          //F//{
+            //F//url: "https://soundcloud.com/garethcokerofficial/desolate-beauty",
+            //F//answer: "Desolate Beauty - Mario + Rabbids: Sparks Of Hope",
+          //F?/},
           {
             url: "https://soundcloud.com/grant-kirkhope-official/for-the-galaxy",
             answer: "For The Galaxy! (Final Boss) - Mario + Rabbids: Sparks Of Hope",
