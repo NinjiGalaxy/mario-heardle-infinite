@@ -3216,7 +3216,7 @@ var app = (function () {
           {
             url: "https://soundcloud.com/dkc11/disco-train",
             answer: "Disco Train - Donkey Kong Country 2: Diddy's Kong Quest",
-          //F?/},
+          },
           {
             url: "https://soundcloud.com/user-227502204-594364584/forest-interlude",
             answer: "Forest Interlude - Donkey Kong Country 2: Diddy's Kong Quest",
@@ -3336,7 +3336,7 @@ var app = (function () {
           {
             url: "https://soundcloud.com/user-272592510/super-mario-rpg-legend-of-13",
             answer: "Victory Over Culex - Super Mario RPG: Legend Of The Seven Stars",
-          //F?/},
+          },
           {
             url: "https://soundcloud.com/user-272592510/super-mario-rpg-legend-of-10",
             answer: "Let's Get Fluffy! (Nimbus Land) - Super Mario RPG: Legend Of The Seven Stars",
@@ -3352,7 +3352,7 @@ var app = (function () {
           {
             url: "https://soundcloud.com/user-272592510/super-mario-rpg-legend-of-2",
             answer: "Battling Smithy's Many Forms - Super Mario RPG: Legend Of The Seven Stars",
-          //F?/},
+          },
           {
             url: "https://soundcloud.com/mario-heardle/goodbye-geno-super-mario-rpg-legend-of-the-seven-stars",
             answer: "Farewell, Geno - Super Mario RPG: Legend Of The Seven Stars",
@@ -10352,7 +10352,7 @@ var app = (function () {
           {
             url: "https://soundcloud.com/garethcokerofficial/desolate-beauty",
             answer: "Desolate Beauty - Mario + Rabbids: Sparks Of Hope",
-          //F?/},
+          },
           {
             url: "https://soundcloud.com/grant-kirkhope-official/for-the-galaxy",
             answer: "For The Galaxy! (Final Boss) - Mario + Rabbids: Sparks Of Hope",
