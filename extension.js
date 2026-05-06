@@ -1399,8 +1399,8 @@ let _metadata = createMetadata({
       "Ashley (Stage 1) - Game & Wario": [2013, "Wii U", "WarioWare", "Game & Wario", "Minigame Compilation", "Wario"],
       "Sketch - Game & Wario": [2013, "Wii U", "WarioWare", "Game & Wario", "Minigame Compilation", "Wario"],
       "Fruit - Game & Wario": [2013, "Wii U", "WarioWare", "Game & Wario", "Minigame Compilation", "Wario"],
-      "Mario's Main Event Theme 4 - Mario And Donkey Kong: Minis On The Move": [2010, "DS", "Mario vs. Donkey Kong", "Mario vs. Donkey Kong Mini-Land Mayhem!", "Puzzle", "Donkey Kong"],
-      "Create & Share - Mario And Donkey Kong: Minis On The Move": [2010, "DS", "Mario vs. Donkey Kong", "Mario vs. Donkey Kong Mini-Land Mayhem!", "Puzzle", "Donkey Kong"],
+      "Mario's Main Event Theme 4 - Mario And Donkey Kong: Minis On The Move": [2013, "3DS", "Mario vs. Donkey Kong", "Mario vs. Donkey Kong: Minis On The Move", "Puzzle", "Donkey Kong"],
+      "Create & Share - Mario And Donkey Kong: Minis On The Move": [2013, "3DS", "Mario vs. Donkey Kong", "Mario vs. Donkey Kong: Minis On The Move", "Puzzle", "Donkey Kong"],
       "Your Dream Adventure! (Title Screen) - Mario & Luigi: Dream Team": [2013, "3DS", "Mario & Luigi", "Mario & Luigi: Dream Team", "RPG", "Mario"],
       "Travel Journal (File Select) - Mario & Luigi: Dream Team": [2013, "3DS", "Mario & Luigi", "Mario & Luigi: Dream Team", "RPG", "Mario"],
       "Panic Pit - Mario & Luigi: Dream Team": [2013, "3DS", "Mario & Luigi", "Mario & Luigi: Dream Team", "RPG", "Mario"],
@@ -2375,3 +2375,4 @@ function evaluateGuessMetadata(v) {
 }
 
 let currentHeardle = null;
+
