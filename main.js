@@ -1019,7 +1019,7 @@ var app = (function () {
     "Dino Piranha - Super Mario Galaxy",
     "King Kaliente - Super Mario Galaxy",
     "Airship Armada (Super Mario Bros. 3 ~ Airship) - Super Mario Galaxy",
-    "Space Fantasy (Bubble Breeze Galaxy / Bubble Blast Galaxy)  - Super Mario Galaxy",
+    "Space Fantasy (Bubble Breeze Galaxy / Bubble Blast Galaxy) - Super Mario Galaxy",
     "Gateway Galaxy - Super Mario Galaxy",
     "Megaleg - Super Mario Galaxy",
     "The Fiery Stronghold - Super Mario Galaxy",
@@ -3739,7 +3739,7 @@ var app = (function () {
           },
           {
             url: "https://soundcloud.com/snizz-lamont-yoshi-kid-3000/baby-bowsers-lullaby-yoshis-story-music-extended-hd",
-            answer: "Baby Bowser's Lullaby - Yoshi's Story",
+            answer: "Baby Bowser's Castle - Yoshi's Story",
           },
           {
             url: "https://soundcloud.com/yoshiheardle/song-of-happiness-yoshis-story",
@@ -6387,7 +6387,7 @@ var app = (function () {
           },
           {
             url: "https://soundcloud.com/user-505744085/space-fantasy-super-mario",
-            answer: "Space Fantasy (Bubble Breeze Galaxy / Bubble Blast Galaxy)  - Super Mario Galaxy",
+            answer: "Space Fantasy (Bubble Breeze Galaxy / Bubble Blast Galaxy) - Super Mario Galaxy",
           },
           {
             url: "https://soundcloud.com/dylan-dylan-298845181/to-the-gateway-super-mario-galaxy",
