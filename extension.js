@@ -850,7 +850,7 @@ let _metadata = createMetadata({
       "Serious Trouble - Mario & Luigi: Partners In Time": [2005, "DS", "Mario & Luigi", "Mario & Luigi: Partners In Time", "RPG", "Mario"],
       "Attack The Enemy (Battle) - Mario & Luigi: Partners In Time": [2005, "DS", "Mario & Luigi", "Mario & Luigi: Partners In Time", "RPG", "Mario"],
       "The Time Machine - Mario & Luigi: Partners In Time": [2005, "DS", "Mario & Luigi", "Mario & Luigi: Partners In Time", "RPG", "Mario"],
-      "Listen Up Now - Mario & Luigi: Partners In Time": [2005, "DS", "Mario & Luigi", "Mario & Luigi: Partners In Time", "RPG", "Mario"],
+      "Listen Up, Now - Mario & Luigi: Partners In Time": [2005, "DS", "Mario & Luigi", "Mario & Luigi: Partners In Time", "RPG", "Mario"],
       "Holli Jolli Village - Mario & Luigi: Partners In Time": [2005, "DS", "Mario & Luigi", "Mario & Luigi: Partners In Time", "RPG", "Mario"],
       "Crisis Of The Red And Green (Boss Battle) - Mario & Luigi: Partners In Time": [2005, "DS", "Mario & Luigi", "Mario & Luigi: Partners In Time", "RPG", "Mario"],
       "Toadwood Forest - Mario & Luigi: Partners In Time": [2005, "DS", "Mario & Luigi", "Mario & Luigi: Partners In Time", "RPG", "Mario"],
