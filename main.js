@@ -76,7 +76,7 @@ var app = (function () {
     "Ghost House - Super Mario World (SNES)",
     "Bonus - Super Mario World (SNES)",
     "The Evil King Bowser (Final Battle) - Super Mario World (SNES)",
-    "Ending - Super Mario World (SNES)",
+    "Staff Roll - Super Mario World (SNES)",
     "Title Screen - Yoshi (NES)",
     "Music C (Starman) - Yoshi (NES)",
     "Title Screen - Mario Paint",
@@ -2615,7 +2615,7 @@ var app = (function () {
           },
           {
             url: "https://soundcloud.com/vincent-thompson-763471057/28-ending",
-            answer: "Ending & Staff Roll - Super Mario World (SNES)",
+            answer: "Staff Roll - Super Mario World (SNES)",
           },
           {
             url: "https://soundcloud.com/yoshiheardle/title-theme",
