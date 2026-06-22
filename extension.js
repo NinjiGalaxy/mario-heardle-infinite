@@ -71,7 +71,7 @@ let _metadata = createMetadata({
       "Ghost House - Super Mario World (SNES)": [1990, "SNES", "Super Mario", "Super Mario World", "2D Platformer", "Mario"],
       "Bonus - Super Mario World (SNES)": [1990, "SNES", "Super Mario", "Super Mario World", "2D Platformer", "Mario"],
       "The Evil King Bowser (Final Battle) - Super Mario World (SNES)": [1990, "SNES", "Super Mario", "Super Mario World", "2D Platformer", "Mario"],
-      "Ending - Super Mario World (SNES)": [1990, "SNES", "Super Mario", "Super Mario World", "2D Platformer", "Mario"],
+      "Staff Roll - Super Mario World (SNES)": [1990, "SNES", "Super Mario", "Super Mario World", "2D Platformer", "Mario"],
       "Title Screen - Yoshi (NES)": [1991, "NES", "Yoshi (Puzzle / Misc)", "Yoshi (NES)", "Puzzle", "Yoshi"],
       "Music C (Starman) - Yoshi (NES)": [1991, "NES", "Yoshi (Puzzle / Misc)", "Yoshi (NES)", "Puzzle", "Yoshi"],
       "Title Screen - Mario Paint": [1992, "SNES", "Mario Misc", "Mario Paint", "Other", "Mario"],
