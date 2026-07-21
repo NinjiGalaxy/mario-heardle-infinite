@@ -4422,7 +4422,7 @@ var app = (function () {
             answer: "Staff Roll - Mario Kart: Super Circuit",
           },
           {
-            url: "https://soundcloud.com/tahutoa/work-it-title-theme-wario-land-4",
+            url: "https://soundcloud.com/pizzaface-621572694/wario-land-4-ost-title-theme",
             answer: "Work It! (Title Screen) - Wario Land 4",
           },
           {
