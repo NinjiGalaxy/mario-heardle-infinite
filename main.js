@@ -78,7 +78,7 @@ var app = (function () {
     "The Evil King Bowser (Final Battle) - Super Mario World (SNES)",
     "Staff Roll - Super Mario World (SNES)",
     "Title Screen - Yoshi (NES)",
-    "Music C (Starman) - Yoshi (NES)",
+    "Star BGM - Yoshi (NES)",
     "Title Screen - Mario Paint",
     "Drawing Board 1 (Creative Exercise) - Mario Paint",
     "Drawing Board 2 (Monkey Song) - Mario Paint",
@@ -181,10 +181,10 @@ var app = (function () {
     "Title Screen - Donkey Kong Land",
     "Chimpanzee Clouds - Donkey Kong Land",
     "Aquatic Ambiance - Donkey Kong Land",
-    "Warning Screen - Mario's Tennis (Virtual Boy)",
-    "Singles Match 1 - Mario's Tennis (Virtual Boy)",
-    "Tournament Doubles 1 - Mario's Tennis (Virtual Boy)",
-    "Results - Mario's Tennis (Virtual Boy)",
+    "Game Startup - Mario's Tennis (Virtual Boy)",
+    "Singles 1 - Mario's Tennis (Virtual Boy)",
+    "Doubles Tournament 1 - Mario's Tennis (Virtual Boy)",
+    "Match Results - Mario's Tennis (Virtual Boy)",
     "Opening Melody - Super Mario World 2: Yoshi's Island",
     "Title Screen - Super Mario World 2: Yoshi's Island",
     "Flower Field - Super Mario World 2: Yoshi's Island",
@@ -207,13 +207,13 @@ var app = (function () {
     "Wario BGM 2 - Mario's Super Picross",
     "Staff Roll - Mario's Super Picross",
     "Title Screen - Mario Clash",
-    "Pipes (Level 1) - Mario Clash",
-    "Catch The Coins! (Bonus Chance) - Mario Clash",
-    "Ice (Level 8) - Mario Clash",
-    "Ghost (Level 13) - Mario Clash",
-    "Level Theme 1 - Virtual Boy Wario Land",
-    "Level Theme 3 (Underwater) - Virtual Boy Wario Land",
-    "Level Theme 4 - Virtual Boy Wario Land",
+    "Stage BGM 1 (Pipes) - Mario Clash",
+    "Bonus Chance (Bonus Chance) - Mario Clash",
+    "Stage BGM 3 (Ice) - Mario Clash",
+    "Stage BGM 5 (Ghost) - Mario Clash",
+    "Stage BGM 1 - Virtual Boy Wario Land",
+    "Stage BGM 3 (Underwater) - Virtual Boy Wario Land",
+    "Stage BGM 4 (Woods) - Virtual Boy Wario Land",
     "Staff Roll - Virtual Boy Wario Land",
     "K. Rool Returns (Title Screen) - Donkey Kong Country 2: Diddy's Kong Quest",
     "Welcome To Crocodile Isle (World Map) - Donkey Kong Country 2: Diddy's Kong Quest",
@@ -1802,8 +1802,8 @@ var app = (function () {
     "Main Menu - Mario Party: The Top 100",
     "Everybody Party [Mario Party 5] (Dinger Derby, Coney Island, etc) - Mario Party: The Top 100",
     "Title Screen - Mario Tennis Aces",
-    "Stadium Theme - Mario Tennis Aces",
-    "Bowcien Battle (Super Mario 64 ~ Bowser's Theme / Bowser's Road) - Mario Tennis Aces",
+    "Marina Stadium - Mario Tennis Aces",
+    "Final Battle (Bowcien) (Super Mario 64 ~ Bowser's Theme / Bowser's Road) - Mario Tennis Aces",
     "Jungle Joust (DK Island Swing) - Mario + Rabbids Kingdom Battle: Donkey Kong Adventure",
     "Midboss Melee - Mario + Rabbids Kingdom Battle: Donkey Kong Adventure",
     "Dungeon Dispute - Mario + Rabbids Kingdom Battle: Donkey Kong Adventure",
@@ -2197,7 +2197,7 @@ var app = (function () {
     "The Final Phase - Mario & Luigi: Brothership",
     "The World Is Connected! (Staff Roll) - Mario & Luigi: Brothership",
     "Title Screen - Mario Kart World",
-    "Main Menu - Mario Kart World",
+    "Course Select - Mario Kart World",
     "Mario Bros. Circuit - Mario Kart World",
     "Crown City - Mario Kart World",
     "Whistlestop Summit - Mario Kart World",
@@ -2217,7 +2217,7 @@ var app = (function () {
     "Staff Roll - Mario Kart World",
     "Title Screen ~ Fusion Ver. (Super Mario Kart) - Mario Kart World",
     "Staff Roll (Super Mario Kart) - Mario Kart World",
-    "Selection Screens (Mario Kart 64) - Mario Kart World",
+    "Character Select (Mario Kart 64) - Mario Kart World",
     "Rainbow Road (Mario Kart 64) - Mario Kart World",
     "Baby Park (Mario Kart: Double Dash!!) - Mario Kart World",
     "Sherbet Land (Mario Kart: Double Dash!!) - Mario Kart World",
@@ -2238,7 +2238,7 @@ var app = (function () {
     "Wild Woods (Mario Kart 8) - Mario Kart World",
     "Merry Mountain (Mario Kart Tour) - Mario Kart World",
     "Piranha Plant Pipeline (Mario Kart Tour) - Mario Kart World",
-    "Main Theme (Mario Kart Live: Home Circuit) - Mario Kart World",
+    "Title Screen (Mario Kart Live: Home Circuit) - Mario Kart World",
     "Underwater (Super Mario Bros.) - Mario Kart World",
     "Overworld Medley (Super Mario Bros. 3) - Mario Kart World",
     "Athletic (Super Mario Bros. 3) - Mario Kart World",
@@ -2249,9 +2249,9 @@ var app = (function () {
     "Athletic (Super Mario World) - Mario Kart World",
     "Drawing Board 1 (Mario Paint) - Mario Kart World",
     "Main Theme (Super Mario Land 2 - 6 Golden Coins) - Mario Kart World",
-    "Rice Beach (Wario Land: Super Mario Land 3) - Mario Kart World",
+    "Main Theme (Wario Land: Super Mario Land 3) - Mario Kart World",
     "Opening Melody (Super Mario World 2: Yoshi's Island) - Mario Kart World",
-    "Flower Field (Super Mario World 2: Yoshi's Island) - Mario Kart World",
+    "Flower Field ~ Ska Ver. (Super Mario World 2: Yoshi's Island) - Mario Kart World",
     "Baby Bowser Battle (Super Mario World 2: Yoshi's Island) - Mario Kart World",
     "File Select (Super Mario 64) - Mario Kart World",
     "Piranha Plant's Lullaby (Super Mario 64) - Mario Kart World",
@@ -2269,7 +2269,7 @@ var app = (function () {
     "Underwater (New Super Mario Bros. Wii) - Mario Kart World",
     "Puzzle Plank Galaxy (Super Mario Galaxy 2) - Mario Kart World",
     "Wild Glide Galaxy (Super Mario Galaxy 2) - Mario Kart World",
-    "The Mario Drawing Song (Flipnote Studio) - Mario Kart World",
+    "Mario Drawing Song (Flipnote Studio) - Mario Kart World",
     "Double Cherry Pass (Super Mario 3D World) - Mario Kart World",
     "Title Screen (Super Mario Maker) - Mario Kart World",
     "Fossil Falls (Super Mario Odyssey) - Mario Kart World",
@@ -2294,7 +2294,7 @@ var app = (function () {
     "Elephant Bananza - Donkey Kong Bananza",
     "Snake Bananza - Donkey Kong Bananza",
     "Poppy Kong Battle - Donkey Kong Bananza",
-    "K. Rool, King Of Rot Battle - Donkey Kong Bananza",
+    "King K. Rool Battle - Donkey Kong Bananza",
     "2D Challenge Course #1 (DK Island Swing) - Donkey Kong Bananza",
     "2D Challenge Course #2 (Stickerbush Symphony) - Donkey Kong Bananza",
     "2D Challenge Course #3 (Mine Cart Madness) - Donkey Kong Bananza",
@@ -2623,7 +2623,7 @@ var app = (function () {
           },
           {
             url: "https://soundcloud.com/yoshiheardle/starman-music-c",
-            answer: "Music C (Starman) - Yoshi (NES)",
+            answer: "Star BGM - Yoshi (NES)",
           },
           {
             url: "https://soundcloud.com/susumi-sama/mario-paint-main-theme",
@@ -3035,19 +3035,19 @@ var app = (function () {
           },
           {
             url: "https://soundcloud.com/vbwario/warning-screen",
-            answer: "Warning Screen - Mario's Tennis (Virtual Boy)",
+            answer: "Game Startup - Mario's Tennis (Virtual Boy)",
           },
           {
             url: "https://soundcloud.com/vbwario/singles-1",
-            answer: "Singles Match 1 - Mario's Tennis (Virtual Boy)",
+            answer: "Singles 1 - Mario's Tennis (Virtual Boy)",
           },
           {
             url: "https://soundcloud.com/vbwario/tournament-doubles-1",
-            answer: "Tournament Doubles 1 - Mario's Tennis (Virtual Boy)",
+            answer: "Doubles Tournament 1 - Mario's Tennis (Virtual Boy)",
           },
           {
             url: "https://soundcloud.com/vbwario/results",
-            answer: "Results - Mario's Tennis (Virtual Boy)",
+            answer: "Match Results - Mario's Tennis (Virtual Boy)",
           },
           {
             url: "https://soundcloud.com/1074/yoshis-island-music-box-theme",
@@ -3139,31 +3139,31 @@ var app = (function () {
           },
           {
             url: "https://soundcloud.com/vbwario/pipes-l1",
-            answer: "Pipes (Level 1) - Mario Clash",
+            answer: "Stage BGM 1 (Pipes) - Mario Clash",
           },
           {
             url: "https://soundcloud.com/vbwario/catch-the-coins",
-            answer: "Catch The Coins! (Bonus Chance) - Mario Clash",
+            answer: "Bonus Chance (Bonus Chance) - Mario Clash",
           },
           {
             url: "https://soundcloud.com/vbwario/ice-l8",
-            answer: "Ice (Level 8) - Mario Clash",
+            answer: "Stage BGM 3 (Ice) - Mario Clash",
           },
           {
             url: "https://soundcloud.com/vbwario/ghost-l13",
-            answer: "Ghost (Level 13) - Mario Clash",
+            answer: "Stage BGM 5 (Ghost) - Mario Clash",
           },
           {
             url: "https://soundcloud.com/vbwario/07-level-theme-1",
-            answer: "Level Theme 1 - Virtual Boy Wario Land",
+            answer: "Stage BGM 1 - Virtual Boy Wario Land",
           },
           {
             url: "https://soundcloud.com/vbwario/19-level-theme-3",
-            answer: "Level Theme 3 (Underwater) - Virtual Boy Wario Land",
+            answer: "Stage BGM 3 (Underwater) - Virtual Boy Wario Land",
           },
           {
             url: "https://soundcloud.com/vbwario/26-level-theme-4",
-            answer: "Level Theme 4 - Virtual Boy Wario Land",
+            answer: "Stage BGM 4 (Woods) - Virtual Boy Wario Land",
           },
           {
             url: "https://soundcloud.com/vbwario/38-credits",
@@ -9519,11 +9519,11 @@ var app = (function () {
           },
           {
             url: "https://soundcloud.com/super-smash-bros-anthology-390758306/100-stadium-theme-mario-tennis",
-            answer: "Stadium Theme - Mario Tennis Aces",
+            answer: "Marina Stadium - Mario Tennis Aces",
           },
           {
             url: "https://soundcloud.com/tribuster-3000/the-final-battle-bowcien-mario-tennis-aces-ost",
-            answer: "Bowcien Battle (Super Mario 64 ~ Bowser's Theme / Bowser's Road) - Mario Tennis Aces",
+            answer: "Final Battle (Bowcien) (Super Mario 64 ~ Bowser's Theme / Bowser's Road) - Mario Tennis Aces",
           },
           {
             url: "https://soundcloud.com/the-legend-of-link-270966626/jungle-joust-mario-rabbids",
@@ -11099,7 +11099,7 @@ var app = (function () {
           },
           {
             url: "https://soundcloud.com/lost-stray-4/menu-theme-mario-kart-world-ost-6",
-            answer: "Main Menu - Mario Kart World",
+            answer: "Course Select - Mario Kart World",
           },
           {
             url: "https://soundcloud.com/lost-stray-4/mario-bros-circuit-mario-kart-world-ost-1",
@@ -11175,7 +11175,7 @@ var app = (function () {
           },
           {
             url: "https://soundcloud.com/lost-stray-5/setup-and-kart-select-mario-kart-64-mario-kart-world-ost-11",
-            answer: "Selection Screens (Mario Kart 64) - Mario Kart World",
+            answer: "Character Select (Mario Kart 64) - Mario Kart World",
           },
           {
             url: "https://soundcloud.com/lost-stray-4/n64-rainbow-road-mario-kart-64-mario-kart-world-ost-21",
@@ -11251,7 +11251,7 @@ var app = (function () {
           },
           {
             url: "https://soundcloud.com/lost-stray-6/title-theme-mario-kart-live-home-circuit-mario-kart-world-ost-10",
-            answer: "Main Theme (Mario Kart Live: Home Circuit) - Mario Kart World",
+            answer: "Title Screen (Mario Kart Live: Home Circuit) - Mario Kart World",
           },
           {
             url: "https://soundcloud.com/lost-stray-5/staff-roll-super-mario-kart-mario-kart-world-ost-39",
@@ -11307,7 +11307,7 @@ var app = (function () {
           },
           {
             url: "https://soundcloud.com/lost-stray-5/rice-beach-wario-land-super-mario-land-3-mario-kart-world-ost-6",
-            answer: "Rice Beach (Wario Land: Super Mario Land 3) - Mario Kart World",
+            answer: "Main Theme (Wario Land: Super Mario Land 3) - Mario Kart World",
           },
           {
             url: "https://soundcloud.com/lost-stray-4/opening-melody-super-mario-world-2-yoshis-island-mario-kart-world-ost-26",
@@ -11315,7 +11315,7 @@ var app = (function () {
           },
           {
             url: "https://soundcloud.com/lost-stray-3/flower-garden-super-mario-world-2-yoshis-island-day-mario-kart-world-ost-10",
-            answer: "Flower Field (Super Mario World 2: Yoshi's Island) - Mario Kart World",
+            answer: "Flower Field ~ Ska Ver. (Super Mario World 2: Yoshi's Island) - Mario Kart World",
           },
           {
             url: "https://soundcloud.com/lost-stray-1/bowser-final-boss-bgm-super-mario-world-2-yoshis-island-mario-kart-world-ost-35",
@@ -11387,7 +11387,7 @@ var app = (function () {
           },
           {
 		    url: "https://soundcloud.com/lost-stray-6/the-mario-drawing-song-flipnote-studio-mario-kart-world-ost-4",
-		    answer: "The Mario Drawing Song (Flipnote Studio) - Mario Kart World",
+		    answer: "Mario Drawing Song (Flipnote Studio) - Mario Kart World",
           },
           {
             url: "https://soundcloud.com/infiniteshadowx766/double-cherry-pass-super-mario-3d-world-mario-kart-world-ost-2",
@@ -11487,7 +11487,7 @@ var app = (function () {
           },
           {
             url: "https://soundcloud.com/infiniteshadow23356/donkey-kong-bananza-ost-k-rool-king-of-rot-battle-30",
-            answer: "K. Rool, King Of Rot Battle - Donkey Kong Bananza",
+            answer: "King K. Rool Battle - Donkey Kong Bananza",
           },
           {
             url: "https://soundcloud.com/infiniteshadow23356/donkey-kong-bananza-ost-dk-island-swing-jungle-hijinx-25",
