@@ -203,7 +203,7 @@ let _metadata = createMetadata({
       "Staff Roll - Mario's Super Picross": [1995, "SNES", "Picross", "Mario's Super Picross", "Puzzle", "Mario"],
       "Title Screen - Mario Clash": [1995, "Virtual Boy", "Mario Misc", "Mario Clash", "Puzzle", "Mario"],
       "Stage BGM 1 (Pipes) - Mario Clash": [1995, "Virtual Boy", "Mario Misc", "Mario Clash", "Puzzle", "Mario"],
-      "Bonus Chance (Bonus Chance) - Mario Clash": [1995, "Virtual Boy", "Mario Misc", "Mario Clash", "Puzzle", "Mario"],
+      "Bonus Chance - Mario Clash": [1995, "Virtual Boy", "Mario Misc", "Mario Clash", "Puzzle", "Mario"],
       "Stage BGM 3 (Ice) - Mario Clash": [1995, "Virtual Boy", "Mario Misc", "Mario Clash", "Puzzle", "Mario"],
       "Stage BGM 5 (Ghost) - Mario Clash": [1995, "Virtual Boy", "Mario Misc", "Mario Clash", "Puzzle", "Mario"],
       "Stage BGM 1 - Virtual Boy Wario Land": [1995, "Virtual Boy", "Wario Land", "Virtual Boy Wario Land", "2D Platformer", "Wario"],
