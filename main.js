@@ -208,7 +208,7 @@ var app = (function () {
     "Staff Roll - Mario's Super Picross",
     "Title Screen - Mario Clash",
     "Stage BGM 1 (Pipes) - Mario Clash",
-    "Bonus Chance (Bonus Chance) - Mario Clash",
+    "Bonus Chance - Mario Clash",
     "Stage BGM 3 (Ice) - Mario Clash",
     "Stage BGM 5 (Ghost) - Mario Clash",
     "Stage BGM 1 - Virtual Boy Wario Land",
@@ -3143,7 +3143,7 @@ var app = (function () {
           },
           {
             url: "https://soundcloud.com/vbwario/catch-the-coins",
-            answer: "Bonus Chance (Bonus Chance) - Mario Clash",
+            answer: "Bonus Chance - Mario Clash",
           },
           {
             url: "https://soundcloud.com/vbwario/ice-l8",
