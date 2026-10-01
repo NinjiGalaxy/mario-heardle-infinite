@@ -5794,7 +5794,7 @@ var app = (function () {
             answer: "Shroob Castle - Mario & Luigi: Partners In Time",
           },
           {
-            url: "https://soundcloud.com/thegreatnepyrus/mario-and-luigi-partners-in-time-ost-058-elder-princess-shroob-battle-theme",
+            url: "https://soundcloud.com/silly-person-52110284/36-overture-to-the-end",
             answer: "Princess Shroob Battle - Mario & Luigi: Partners In Time",
           },
           {
