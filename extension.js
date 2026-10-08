@@ -2358,7 +2358,7 @@ function setCurrentHeardle(l) {
     currentHeardle = l;
     setTimeout(() => {
         const rows = document.querySelectorAll("body > main > div.w-full.flex.flex-col.flex-grow.relative > div > div > div");
-        stats = localStorage.getItem("userStats")
+        stats = localStorage.getItem("userStatsMarInf")
         if(stats != null ) {
             paresdStats = JSON.parse(stats)
             paresdStats.filter(p => p.correctAnswer == currentHeardle.correctAnswer)[0].guessList.forEach((guess, index) => {
