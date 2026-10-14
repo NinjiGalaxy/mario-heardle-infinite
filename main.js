@@ -3727,11 +3727,11 @@ var app = (function () {
           },
           {
             url: "https://soundcloud.com/yoshiheardle/yo-yo-yoshi-yoshis-story",
-            answer: "Yo Yo Yoshi - Yoshi's Story",
+            answer: "Yo Yo Yoshi! - Yoshi's Story",
           },
           {
             url: "https://soundcloud.com/kooper-12238687/love-is-in-the-air-yoshis",
-            answer: "Love Is In The Air - Yoshi's Story",
+            answer: "Yoshis And The Wind - Yoshi's Story",
           },
           {
             url: "https://soundcloud.com/user-980511460/yoshis-story-ost-alpina-blue",
@@ -3743,7 +3743,7 @@ var app = (function () {
           },
           {
             url: "https://soundcloud.com/yoshiheardle/song-of-happiness-yoshis-story",
-            answer: "Song Of Happiness - Yoshi's Story",
+            answer: "The Yoshis Grew Happier - Yoshi's Story",
           },
           {
             url: "https://soundcloud.com/user-504187549/yoshis-story-endingcredits-ost",
