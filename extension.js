@@ -955,7 +955,7 @@ let _metadata = createMetadata({
       "Proof Of Existence - Super Paper Mario": [2007, "Wii", "Paper Mario", "Super Paper Mario", "2D Platformer", "Mario"],
       "Staff Roll - Super Paper Mario": [2007, "Wii", "Paper Mario", "Super Paper Mario", "2D Platformer", "Mario"],
       "Pit Of 100 Trials - Super Paper Mario": [2007, "Wii", "Paper Mario", "Super Paper Mario", "2D Platformer", "Mario"],
-      "Title Screen - Mario Strikers Charged": [2007, "Wii", "Paper Mario", "Super Paper Mario", "2D Platformer", "Mario"],
+      "Title Screen - Mario Strikers Charged": [2007, "Wii", "Mario Strikers", "Mario Strikers Charged", "Sports", "Mario"],
       "Pause Menu - Mario Strikers Charged": [2007, "Wii", "Mario Strikers", "Mario Strikers Charged", "Sports", "Mario"],
       "The Classroom - Mario Strikers Charged": [2007, "Wii", "Mario Strikers", "Mario Strikers Charged", "Sports", "Mario"],
       "The Lava Pit - Mario Strikers Charged": [2007, "Wii", "Mario Strikers", "Mario Strikers Charged", "Sports", "Mario"],
